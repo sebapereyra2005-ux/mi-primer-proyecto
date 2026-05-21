@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================================
+   NEXUS — Estilos globales
+   Consola clínica. Sin decoración. Solo lo necesario.
+   ============================================================ */
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  html,
+  body,
+  #root {
+    height: 100%;
+    background-color: #0a0a0a;
+    color: #e5e5e5;
+  }
+
+  body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Tipografía mono para datos clínicos */
+  .font-mono,
+  code,
+  pre,
+  kbd {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+    font-feature-settings: 'liga' 0, 'calt' 1;
+  }
+
+  /* Scrollbar discreto */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #1f1f1f;
+    border-radius: 4px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #2a2a2a;
+  }
+
+  /* Selección sobria */
+  ::selection {
+    background: #7dd3c0;
+    color: #0a0a0a;
+  }
+
+  /* Foco accesible y consistente */
+  :focus-visible {
+    outline: 2px solid #7dd3c0;
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  /* Reducir movimiento si el usuario lo prefiere */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  /* Etiqueta de sección clínica */
+  .label-clinical {
+    @apply font-mono text-xs uppercase tracking-widest text-nexus-dim;
+  }
+
+  /* Texto de dato — los outputs de IA */
+  .text-clinical {
+    @apply font-sans text-base leading-relaxed text-nexus-text;
+  }
+
+  /* Botón primario — solo el CTA principal por pantalla */
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-md
+           bg-nexus-accent px-5 py-3 font-sans text-sm font-medium
+           text-nexus-bg transition-opacity hover:opacity-90
+           disabled:cursor-not-allowed disabled:opacity-40;
+  }
+
+  /* Botón secundario — acciones de soporte */
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-md
+           border border-nexus-border bg-transparent px-5 py-3
+           font-sans text-sm text-nexus-text transition-colors
+           hover:border-nexus-dim hover:bg-nexus-surface
+           disabled:cursor-not-allowed disabled:opacity-40;
+  }
+
+  /* Botón fantasma — solo texto */
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 rounded-md
+           px-3 py-2 font-sans text-sm text-nexus-dim
+           transition-colors hover:text-nexus-text;
+  }
+}
