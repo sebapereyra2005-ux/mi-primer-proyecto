@@ -1,7 +1,8 @@
 ================================================================================
 QUÉ NO PUEDE FALTAR EN UNA APP EXITOSA
 Checklist exhaustivo para construir, lanzar y mantener un producto digital
-Versión 1.0
+Versión 1.1 — Edición ampliada con IA/LLMs, contenido sensible,
+              dark patterns, founder wellbeing y profundizaciones técnicas
 ================================================================================
 
 
@@ -39,6 +40,14 @@ INSTRUCCIONES DE USO
 20. CHECKLIST PRE-LAUNCH
 21. CHECKLIST POST-LAUNCH
 22. EVOLUCIÓN A LARGO PLAZO
+
+NUEVAS EN VERSIÓN 1.1:
+23. IA Y LLMs COMO DISCIPLINA PROPIA
+24. CONTENIDO SENSIBLE Y RED DE SEGURIDAD
+25. DARK PATTERNS A EVITAR (ÉTICA DEL PRODUCTO)
+26. WELLBEING DEL FOUNDER Y EQUIPO
+27. PROFUNDIZACIÓN DE ÁREAS CLAVE
+28. GAPS PEQUEÑOS PERO IMPORTANTES
 
 
 ================================================================================
@@ -1416,6 +1425,829 @@ Lo que se monitoriza activamente las primeras semanas:
 
 
 ================================================================================
+23. IA Y LLMs COMO DISCIPLINA PROPIA
+================================================================================
+
+Construir productos sobre LLMs es fundamentalmente distinto a software
+tradicional. El modelo es no determinista, costoso, lento, y puede fallar de
+maneras inesperadas. Estas preocupaciones específicas no se cubren en
+checklists genéricos pero son críticas si tu producto depende de IA.
+
+
+23.1 PRESUPUESTO Y COSTOS
+[  ] Cap de tokens por request y por usuario/día
+[  ] Alertas cuando el gasto se acerca al límite mensual
+[  ] Dashboard de uso por feature, por usuario, por modelo
+[  ] Modelo más barato como default; premium opt-in
+[  ] Cache agresivo de respuestas similares (mismo prompt = misma respuesta)
+[  ] Rate limiting por usuario para evitar runaway costs por abuse
+[  ] Fallback a modelos más baratos si se excede budget mensual
+[  ] Análisis costo/beneficio: ¿vale la pena el modelo grande para esta tarea?
+
+
+23.2 LATENCIA Y UX (STREAMING)
+[  ] Streaming de tokens cuando es viable — UX 10x mejor que un spinner
+[  ] Skeleton structure mientras llega el primer token
+[  ] Typewriter effect natural para texto streamed
+[  ] Cancelación en cualquier momento (AbortController)
+[  ] Feedback visible si la respuesta tarda > 5s
+[  ] Timeout duro a 30s con retry transparente
+[  ] Si streaming no aplica: progress signaling con tiempo estimado
+[  ] Optimistic UI cuando se pueda anticipar la estructura
+     -- Para NEXUS: skeleton de los 4 pilares mientras el JSON llega
+
+
+23.3 CALIDAD Y VALIDACIÓN DE RESPUESTAS
+[  ] Validación de schema en cada output (Zod, JSON Schema)
+[  ] Retry automático si el output es JSON inválido
+[  ] Fallback a respuesta degradada si tras N retries sigue fallando
+[  ] Few-shot examples en el system prompt para guiar formato
+[  ] Temperature ajustada al caso: 0.2-0.4 para datos, 0.7-0.9 para creatividad
+[  ] Max tokens limitado a lo realmente necesario
+[  ] Stop sequences donde aplique
+[  ] Detección de divagación: respuestas demasiado largas se truncan o regeneran
+
+
+23.4 VERSIONADO DE PROMPTS
+[  ] Prompts en archivos versionados, no hardcoded esparcidos
+[  ] Cada cambio significativo es un commit con mensaje descriptivo
+[  ] Tags / changelog de versiones de prompt
+[  ] Comparar A/B entre versiones antes de promover a producción
+[  ] Rollback fácil si una versión empeora en métricas
+[  ] Prompts almacenados también con su modelo objetivo
+     -- Un prompt que funciona en GPT-4 puede fallar en GPT-3.5
+
+
+23.5 EVAL Y REGRESSION TESTING
+[  ] Set canónico de inputs con outputs esperados
+[  ] Eval automatizada en CI: ¿el cambio iguala o supera la versión anterior?
+[  ] LLM-as-judge para evaluación cualitativa (un modelo evalúa al otro)
+[  ] Scoring por dimensiones: relevancia, brevedad, fidelidad al formato
+[  ] Eval comparativa cuando se cambia de modelo (gpt-4 vs gpt-4o vs claude)
+[  ] Frameworks: Promptfoo, OpenAI Evals, Langfuse, Braintrust
+[  ] Eval de regresión semanal en producción (sample real con scoring)
+
+
+23.6 MULTI-PROVIDER Y FALLBACKS
+[  ] Abstracción del proveedor: interfaz única, implementaciones intercambiables
+[  ] Fallback automático si el primario falla (rate limit, downtime, 5xx)
+[  ] Health checks proactivos de cada proveedor
+[  ] Mock provider para desarrollo, demos y modo offline
+[  ] Circuit breaker si un proveedor está degradado (no insistir)
+[  ] Routing por costo o por latencia según contexto
+[  ] Logs claros de qué proveedor respondió cada request
+
+
+23.7 PRIVACIDAD DE DATOS DEL USUARIO
+[  ] DPA firmado con cada proveedor de LLM (OpenAI, Anthropic, Google)
+[  ] Verificar política de uso de datos para training:
+       - Anthropic API: NO se usa para training por default
+       - OpenAI API: NO se usa por default desde marzo 2023
+       - Google Gemini API: depende del tier, leer ToS
+[  ] Mencionar explícitamente los proveedores en tu política de privacidad
+[  ] Opt-out del usuario: opción de no enviar datos a IA externa
+[  ] PII redaction antes de enviar al LLM cuando sea posible
+[  ] Logs de prompts/respuestas anonimizados o sin contenido literal
+[  ] Retención corta de logs con contenido (días, no años)
+
+
+23.8 TRANSPARENCIA CON EL USUARIO
+[  ] Indicador visual claro: "Esto es generado por IA"
+[  ] Disclosure del modelo si es relevante (algunos usuarios quieren saber)
+[  ] Disclaimer sobre limitaciones: "puede equivocarse"
+[  ] El usuario puede ver el prompt si quiere (modo avanzado opcional)
+[  ] Botón de feedback para reportar respuesta mala (thumbs up/down)
+[  ] Almacenar feedback como dataset para futuras evals
+
+
+23.9 MODERACIÓN DE INPUTS Y OUTPUTS
+[  ] Filtro de inputs antes del LLM (palabras prohibidas, abuso)
+[  ] Moderación API del proveedor activa (OpenAI Moderation, Perspective API)
+[  ] Filtro de outputs antes de mostrar al usuario (tóxico, sesgado)
+[  ] Estrategia clara cuando la moderación bloquea:
+       - Mensaje específico, no error genérico
+       - Permitir reformulación si es false positive
+[  ] Logs de bloqueos para análisis de calidad de los filtros
+
+
+23.10 PROMPT INJECTION (SEGURIDAD)
+[  ] System instructions y user input claramente separados
+[  ] Validación de que el output respeta el formato esperado
+     (no permitir que el user input cambie el rol del modelo)
+[  ] Sanitización de outputs antes de mostrarlos (HTML escape, XSS)
+[  ] Sin permitir markdown ejecutable / scripts en respuestas mostradas
+[  ] Si el modelo puede llamar funciones / tools: validar argumentos
+[  ] Tests de prompt injection comunes en CI
+
+
+23.11 CACHE Y MEMOIZATION
+[  ] Cache por hash del prompt completo (idempotente)
+[  ] TTL apropiado: preguntas comunes pueden cachearse días
+[  ] Cache compartido entre usuarios cuando aplica (no para datos personales)
+[  ] Bypass del cache para usuarios que quieren respuesta fresca
+[  ] Invalidación cuando cambia el prompt de sistema
+
+
+23.12 OBSERVABILIDAD ESPECÍFICA DE IA
+[  ] Logging estructurado: request id, modelo, tokens in/out, latencia
+[  ] Métricas: latencia p50/p95/p99, error rate por modelo
+[  ] Cost tracking por feature, por usuario, por día
+[  ] Distribución de longitud de respuestas (detectar regresiones)
+[  ] Alertas si la calidad cae (eval scores bajan)
+[  ] Tools especializados: Langfuse, Helicone, Langsmith, Phoenix
+
+
+23.13 DEPENDENCIA Y RESILIENCIA
+[  ] Plan B si el proveedor sube precios 10x
+[  ] Plan B si el proveedor cambia los términos de servicio
+[  ] Plan B si el modelo se discontinúa (gpt-4-0314 deprecado)
+[  ] Documentar qué versión de modelo usas exactamente (no "gpt-4")
+[  ] Sustainability: ¿tiene sentido tu producto sin IA externa?
+     -- Si es 100% dependiente de OpenAI, eres un wrapper, no un producto
+
+
+================================================================================
+24. CONTENIDO SENSIBLE Y RED DE SEGURIDAD
+================================================================================
+
+Cuando tu producto toca salud mental, estados emocionales, finanzas, datos
+médicos o cualquier dominio sensible, tienes responsabilidades adicionales que
+no aplican a un SaaS típico. Aplica especialmente a NEXUS por trabajar con
+estados mentales.
+
+
+24.1 RECURSOS DE CRISIS
+[  ] Lista de líneas de ayuda visible (al menos en footer)
+[  ] Por región del usuario (no solo USA):
+       - 988 Suicide & Crisis Lifeline (USA)
+       - 911 Emergencias (USA)
+       - 024 (España, atención al suicidio)
+       - Línea 135 (Argentina)
+       - SAPTEL 55 5259 8121 (México)
+       - 112 Emergencias (Europa)
+[  ] Acceso rápido desde cualquier pantalla, no escondido
+[  ] Incluir alternativas no-telefónicas (chat, WhatsApp) donde existan
+
+
+24.2 DETECCIÓN DE CONTENIDO CRÍTICO
+[  ] Heurística básica: keywords de crisis (suicidio, autolesión, daño)
+[  ] Cuando se detecta: pause + redirección a recursos profesionales
+[  ] No bloquear silenciosamente — comunicar la razón al usuario
+[  ] False positives manejados con gracia (botón "no es mi caso, continuar")
+[  ] Idealmente, moderación API entrenada (OpenAI Moderation, Perspective)
+[  ] Documentar criterios y revisarlos periódicamente con profesional
+
+
+24.3 SCOPE Y LÍMITES DEL PRODUCTO
+[  ] Disclaimer explícito visible: "[Producto] no es terapia ni reemplaza
+     atención profesional"
+[  ] Visible en onboarding y en términos de uso
+[  ] No hacer claims médicos, no diagnosticar, no recomendar medicación
+[  ] Cuando el usuario describe síntomas serios: redirigir a profesional
+[  ] El system prompt del LLM debe respetar estos límites
+[  ] Periódica auditoría: ¿la IA está saliendo del scope acordado?
+
+
+24.4 EDAD MÍNIMA Y CONSENTIMIENTO
+[  ] Términos definen edad mínima (típicamente 13, 16 en algunos casos)
+[  ] Verificación al menos por checkbox al registrarse
+[  ] Si menor de edad: consentimiento parental cuando lo exija la ley
+[  ] Sin tracking ni perfilado de menores (COPPA si aplica)
+[  ] Diferentes flujos para menores si tu producto los acepta
+
+
+24.5 PRIVACIDAD REFORZADA
+[  ] Encriptación at-rest del contenido sensible (no solo TLS en tránsito)
+[  ] Claves de encriptación rotables y por usuario donde sea posible
+[  ] Modo local-first como opción (todo en localStorage / device)
+[  ] El usuario controla si sus datos van a IA externa
+[  ] Borrado real cuando el usuario lo pide (no soft delete eterno)
+[  ] Sin export ni share por default — opt-in explícito por sesión
+
+
+24.6 LOGS SIN CONTENIDO SENSIBLE
+[  ] Logs de errores incluyen IDs y stack traces, no contenido del usuario
+[  ] Si necesitas debug con contenido: sistema de consentimiento explícito
+     ("Permitir acceso al contenido de esta sesión por 24h para soporte")
+[  ] Retention corta (días, no años) para datos sensibles
+[  ] Auditoría de quién accede a qué (incluso interno)
+[  ] Sin grabar pantalla / session replay sin consentimiento granular
+
+
+24.7 INVESTIGACIÓN Y DATOS
+[  ] Si haces user research con datos sensibles: consentimiento informado
+[  ] Anonimización antes de compartir interno
+[  ] No usar datos reales en demos públicos / pitch decks / screenshots
+[  ] Datos sintéticos para desarrollo y testing
+
+
+24.8 RESPONSABILIDAD CUANDO ALGO SALE MAL
+[  ] Plan documentado si el sistema da consejos peligrosos por bug
+[  ] Comunicación rápida y honesta al usuario afectado
+[  ] Post-mortem público si afecta a varios usuarios
+[  ] Mecanismo para reportar: "Esta respuesta me hizo daño"
+[  ] Triage humano de reportes serios, no automático
+
+
+24.9 ENCUADRE EMOCIONAL DEL PRODUCTO
+[  ] Tono nunca invalidante: no "deberías sentirte mejor"
+[  ] Ni tono dramático: no "estás en crisis, busca ayuda YA"
+[  ] Lenguaje sobrio que respeta la autonomía del usuario
+[  ] Reconocimiento honesto de limitaciones del producto
+[  ] Sin gamificación que trivialice estados emocionales (badges por días
+     "tristes" superados son problemáticos)
+
+
+24.10 RED DE SEGURIDAD CON PROFESIONALES
+[  ] Idealmente, asesoría de un profesional de salud mental en el diseño
+[  ] Revisión periódica del producto por alguien clínico
+[  ] Lista pública de cómo encontrar profesionales en cada país
+[  ] No competir con profesionales — complementarlos
+
+
+================================================================================
+25. DARK PATTERNS A EVITAR (ÉTICA DEL PRODUCTO)
+================================================================================
+
+Patrones que benefician a la empresa a costa del usuario. Algunos son ilegales
+en algunas jurisdicciones, todos dañan la confianza a largo plazo. Lista de
+"qué NO hacer" tan importante como la de "qué SÍ".
+
+
+25.1 CANCELACIÓN MISERABLE (ROACH MOTEL)
+[  ] Cancelar tarda los mismos clicks que registrarse
+[  ] Sin "llama por teléfono" obligatorio
+[  ] Sin cuestionarios de retención excesivos antes de cancelar
+[  ] Sin "espera 30 días para procesar la cancelación"
+[  ] Confirmación inmediata por email
+[  ] Acceso restante hasta el final del período pagado, no menos
+
+
+25.2 CONFIRMSHAMING
+[  ] No usar lenguaje que avergüence al usuario por elegir lo que NO quieres
+[  ] MAL: "No, prefiero seguir desorganizando mi vida"
+[  ] BIEN: "No, gracias"
+[  ] MAL: "No quiero ahorrarme dinero"
+[  ] BIEN: "Cancelar"
+
+
+25.3 FORCED CONTINUITY (TRIAL → COBRO SIN AVISO)
+[  ] Email recordatorio 3 días antes del cargo automático del trial
+[  ] Aviso CLARO al iniciar trial: "se cobrará el [fecha] salvo cancelación"
+[  ] Cancelación durante trial preserva los días restantes
+[  ] Tarjeta opcional para empezar trial cuando sea viable
+
+
+25.4 SNEAK INTO BASKET
+[  ] Sin items pre-seleccionados que el usuario no pidió
+[  ] Add-ons opt-in, nunca opt-out
+[  ] Pricing transparente de cada componente
+[  ] Total final visible antes de confirmar pago
+
+
+25.5 PRIVACY ZUCKERING
+[  ] Consentimiento granular por categoría (no "aceptar todo o nada")
+[  ] Configuración de privacidad clara, no escondida en menús
+[  ] Defaults privacy-friendly (sharing OFF por default)
+[  ] Sin "comparte con tus contactos para continuar"
+[  ] Opciones de "rechazar todo" igual de visibles que "aceptar todo"
+
+
+25.6 HIDDEN COSTS
+[  ] Precio final visible antes del checkout
+[  ] Impuestos, fees, shipping calculados antes
+[  ] Sin sorpresas en el último paso
+[  ] Comparativa entre planes muestra TODO el coste, no solo base
+
+
+25.7 MANIPULINKS Y BOTONES TRAMPOSOS
+[  ] Botones de unsubscribe del mismo tamaño que los demás
+[  ] Sin "no, prefiero perderme las ofertas exclusivas"
+[  ] Lenguaje neutro en confirmaciones
+[  ] Acción primaria siempre la que el usuario quiere, no la que tú quieres
+
+
+25.8 NOTIFICACIONES MANIPULATIVAS
+[  ] Solo notificar lo que el usuario explícitamente activó
+[  ] Sin notificaciones de re-engagement disfrazadas de información
+[  ] Sin streak shaming ("vas a perder tu racha de 47 días")
+[  ] Frecuencia respetuosa (no más de X/día por default)
+[  ] Toggle granular por tipo de notificación
+[  ] Botón de pausa global ("silencio por 1 semana")
+
+
+25.9 GAMIFICACIÓN OSCURA
+[  ] Streaks solo si añaden valor real, no si crean ansiedad
+[  ] Puntos / badges no esenciales para usar el producto principal
+[  ] Sin FOMO artificial ("solo hoy duplicas puntos")
+[  ] Usuario puede desactivar elementos de gamificación
+[  ] Sin loops dopaminérgicos diseñados para enganche compulsivo
+
+
+25.10 FRIEND SPAM
+[  ] Sin "invita a 5 amigos para desbloquear"
+[  ] Acceso a contactos solo si es central al producto
+[  ] Cero auto-mensajes a contactos en nombre del usuario
+[  ] Si hay invitaciones, el usuario controla el mensaje
+[  ] Sin "tu amigo X usa el producto, ¿lo invitas?" sin permiso de X
+
+
+25.11 BAIT AND SWITCH
+[  ] Lo que prometiste en marketing es lo que entregas
+[  ] Sin features "Coming soon" anunciadas como existentes
+[  ] Cambios de plan / features con aviso anticipado mínimo 30 días
+[  ] Grandfathering para usuarios existentes cuando se cambian planes
+
+
+25.12 DISGUISED ADS / NATIVE ADS ENGAÑOSOS
+[  ] Si hay ads, claramente marcados como tales
+[  ] No ads disfrazados de contenido orgánico
+[  ] Native ads etiquetados con "Patrocinado" / "Ad" visible
+[  ] Sin ads en flujos críticos (proceso de pago, recuperación)
+
+
+25.13 TRICK QUESTIONS Y CHECKBOXES TRAMPOSOS
+[  ] Formularios con lenguaje claro, sin doble negación
+[  ] Sin checkboxes que dicen lo contrario de lo que esperas marcar
+[  ] Confirmación antes de acciones destructivas
+[  ] "Sí" y "No" siempre coherentes con la acción
+
+
+25.14 INTERFAZ DESHONESTA
+[  ] No imitar UI del sistema operativo para engañar
+[  ] Sin botones falsos que parecen una "X" pero son ads
+[  ] Sin pop-ups con mecanismo de cierre confuso
+[  ] Sin elementos invisibles diseñados para ser clickados accidentalmente
+
+
+25.15 PRESIÓN ARTIFICIAL
+[  ] Sin "solo quedan 2 unidades" si no es verdad
+[  ] Sin "13 personas viendo este producto" inflado o falso
+[  ] Sin temporizadores falsos de descuento
+[  ] Sin escasez fabricada
+[  ] Si hay limitaciones reales, comunicarlas honestamente
+
+
+25.16 TEST PERSONAL DE INTEGRIDAD
+Para cada feature, pregúntate:
+[  ] ¿Le mostraría esto a mi madre / hermana / amigo cercano?
+[  ] ¿Lo defendería si me lo cuestionan en público?
+[  ] ¿Beneficia genuinamente al usuario, o solo a mis métricas?
+[  ] ¿El usuario lo querría si supiera todos los detalles?
+
+
+================================================================================
+26. WELLBEING DEL FOUNDER Y EQUIPO
+================================================================================
+
+El producto avanza al ritmo del founder. El burnout es la causa #1 de muerte
+de productos indie y rara vez se discute en checklists técnicos. Esta sección
+es tan importante como cualquier otra.
+
+
+26.1 RITMO SOSTENIBLE
+[  ] Hora de inicio y fin del día definidas — y respetadas
+[  ] Al menos un día completo a la semana sin código
+[  ] Vacaciones reales, sin laptop, mínimo dos veces al año
+[  ] No glorificar la cultura "always on" en el equipo ni en redes
+[  ] El sprint inicial existe, pero no debe durar 18 meses sin pausa
+[  ] La intensidad alta es por proyectos, no por estilo de vida
+
+
+26.2 SEÑALES DE BURNOUT
+Detectar temprano. Síntomas frecuentes:
+[  ] Cinismo crecimiento ("nadie aprecia lo que hago")
+[  ] Fatiga crónica que no se resuelve con un fin de semana
+[  ] Sensación de falta de sentido en el trabajo diario
+[  ] Más bugs de lo habitual al programar
+[  ] Refactors innecesarios para evitar tareas reales
+[  ] Irritabilidad con feedback de usuarios
+[  ] Dificultad para tomar decisiones simples
+[  ] Pérdida de hobbies fuera del trabajo
+[  ] Salud física degradada (sueño, ejercicio, alimentación)
+Acción: si reconoces 3+, descansar inmediatamente, no "después del lanzamiento".
+
+
+26.3 BOUNDARIES OFF-HOURS
+[  ] Notificaciones del trabajo silenciadas en horario libre
+[  ] No abrir Slack / email en fin de semana salvo emergencia real
+[  ] On-call con rotación si hay equipo, no carga única en founder
+[  ] Status page automatizado para no responder cada caída en persona
+[  ] Definir qué cuenta como "emergencia real" — la mayoría no lo son
+[  ] Customer support con horario publicado, no 24/7 hasta que no lo aguantes
+
+
+26.4 DECIDIR POR FRAMEWORK, NO POR AGOTAMIENTO
+[  ] Decisiones grandes no se toman cansado o ansioso
+[  ] Frameworks pre-acordados:
+       - Type 1 (irreversible) vs Type 2 (reversible) — Bezos
+       - RICE / ICE para priorización
+       - Pre-mortem antes de decisiones grandes
+[  ] Documentar la decisión y el por qué
+[  ] Permitirse no decidir si no hay info suficiente — "lo decido en X días"
+[  ] Sleep on it: las decisiones grandes pasan la noche antes
+
+
+26.5 SABER DECIR NO
+Cada "sí" es un "no" implícito a otra cosa.
+[  ] No a features que parecen "fáciles" pero no encajan en la visión
+[  ] No a partnerships que no benefician genuinamente al usuario
+[  ] No a usuarios tóxicos — sí, también pueden serlo
+[  ] No a inversores que solo aportan dinero
+[  ] No a oportunidades que son distracciones disfrazadas
+[  ] No a reuniones que podrían ser un email
+[  ] No a llamadas de "pick your brain" sin contexto claro
+
+
+26.6 CUÁNDO PEDIR AYUDA
+[  ] Comunidad de founders (Indie Hackers, On Deck, Microconf, locales)
+[  ] Mentor / advisor con experiencia en tu vertical
+[  ] Coach ejecutivo si el ritmo es alto y sostenido
+[  ] Terapeuta — sin estigma, es como ir al gimnasio
+[  ] Outsource cosas que no te dan energía:
+       - Contabilidad
+       - Soporte L1
+       - Diseño de marketing
+       - Edición de contenido
+[  ] Hire antes de quemarte, no después
+
+
+26.7 SALUD COMO ACTIVO DEL NEGOCIO
+La salud del founder ES un activo de la empresa, no un nice-to-have.
+[  ] Sueño no es opcional: 7-9 horas
+[  ] Ejercicio regular: mínimo 3 veces por semana
+[  ] Comer en horario, no codear-y-comer
+[  ] Tiempo offline / fuera de pantalla cada día
+[  ] Relaciones humanas fuera del trabajo
+[  ] Aire libre / luz natural
+[  ] Hidratación, sí, en serio
+
+
+26.8 IDENTIDAD MÁS ALLÁ DEL PRODUCTO
+[  ] El producto puede fallar — tu valor no depende de él
+[  ] Hobbies que no escalan a startup
+[  ] Amigos sin agenda profesional
+[  ] Permitirse parar / pivotar / cerrar sin culpa
+[  ] No definirte por las métricas del producto
+
+
+26.9 CUÁNDO PARAR
+Cerrar un proyecto no es fracasar. Es información.
+[  ] Métricas que indican producto sin product-market fit
+[  ] Plazo de runway claro y comunicado
+[  ] Plan de salida limpio: refunds, exports, comunicación
+[  ] Honestidad con los usuarios y con el equipo
+[  ] Aprendizaje documentado para el próximo proyecto
+
+
+26.10 EQUIPO (CUANDO EXISTA)
+[  ] Compensación justa, no equity-only para roles operativos
+[  ] Vacaciones tomadas, no acumuladas
+[  ] 1:1s regulares con cada persona
+[  ] Cultura de feedback honesto, no de "todo bien"
+[  ] No glorificar overtime
+[  ] Diversidad real en hiring, no token
+[  ] Off-boarding tan cuidadoso como onboarding
+
+
+================================================================================
+27. PROFUNDIZACIÓN DE ÁREAS CLAVE
+================================================================================
+
+Áreas que las secciones anteriores tocan superficialmente y que merecen mayor
+detalle por su impacto en la experiencia del usuario.
+
+
+27.1 PWA / OFFLINE AVANZADO
+[  ] Service worker con estrategia explícita por tipo de recurso:
+       - Cache-first: assets estáticos versionados
+       - Network-first: HTML, datos críticos
+       - Stale-while-revalidate: imágenes, contenido frecuente
+[  ] Workbox o equivalente para gestión declarativa
+[  ] Install prompt customizado (no solo el del navegador)
+       - Mostrar cuando engagement es alto, no en primera visita
+       - Permitir descartar y no volver a mostrar
+[  ] Background sync: operaciones pendientes se ejecutan al volver la red
+[  ] App update flow:
+       - Detectar nueva versión disponible
+       - Notificar al usuario sin interrumpir
+       - Forzar update solo si crítico
+[  ] Versionado del cache de Service Worker (precache.v1, v2…)
+[  ] Maskable icons para Android (purpose: "maskable")
+[  ] Splash screens correctos por dispositivo
+[  ] Modo standalone bien testeado en iOS y Android
+[  ] Web Share API para compartir contenido nativamente
+[  ] Push notifications con permiso pedido en momento contextual
+
+
+27.2 BÚSQUEDA INTERNA
+[  ] Provider apropiado por escala y necesidad:
+       - Pequeño (<10k items): FlexSearch / Lunr.js client-side
+       - Medio: Meilisearch self-hosted
+       - Grande: Algolia, Typesense, ElasticSearch
+[  ] Indexing async, no bloquear writes del usuario
+[  ] Tolerancia a errores de tipeo (typo tolerance)
+[  ] Sinónimos relevantes para tu dominio
+[  ] Highlighting de matches en resultados
+[  ] Empty results inteligente: "¿Quisiste decir...?"
+[  ] Búsqueda de palabras parciales (prefix matching)
+[  ] Filtros / facetas si el contenido es complejo
+[  ] Search analytics:
+       - Queries más comunes
+       - Queries con cero resultados (gaps de contenido)
+       - Click-through rate por posición
+[  ] Velocidad < 100ms p95 en search-as-you-type
+[  ] Acceso por teclado (focus, navegación con flechas, Enter)
+
+
+27.3 TIEMPO REAL Y STREAMING
+[  ] Decisión técnica clara: WebSocket vs SSE vs polling
+       - SSE: streams unidireccionales (ideal para streaming de IA)
+       - WebSocket: bidireccional con state (chat colaborativo)
+       - Polling: solo si no hay alternativa
+[  ] Reconexión automática con exponential backoff
+[  ] Heartbeat / ping para detectar conexiones zombie
+[  ] Cleanup en unmount del componente (no leakear conexiones)
+[  ] Streaming de tokens IA: SSE estándar funciona
+[  ] AbortController para cancelación limpia
+[  ] Buffer de eventos si el cliente se ralentiza
+[  ] Indicador de estado: "Conectado" / "Reconectando" / "Sin conexión"
+[  ] Degradación si el navegador no soporta SSE/WS
+
+
+27.4 JOBS ASÍNCRONOS Y COLAS
+[  ] Cola elegida según necesidad:
+       - BullMQ + Redis (Node, control fino)
+       - Inngest (event-driven, durable)
+       - Trigger.dev (como Vercel para jobs)
+       - Hatchet, Temporal (workflows complejos)
+       - AWS SQS / Google Tasks (cloud-native)
+[  ] Idempotency keys en cada job (procesar 2x = mismo resultado)
+[  ] Retry con exponential backoff y jitter
+[  ] Dead letter queue para jobs que fallan persistentemente
+[  ] Visibilidad: dashboard de jobs en cola, fallidos, completados
+[  ] Priorización por colas o prioridad numérica
+[  ] Rate limiting por tipo de job (no saturar APIs externas)
+[  ] Timeout por job (matar antes de runaway)
+[  ] Logs estructurados por ejecución
+[  ] Cron jobs versionados, no en /etc/crontab del servidor
+[  ] Concurrency configurable por tipo
+
+
+27.5 MANEJO DE ARCHIVOS
+[  ] Validación de tipo MIME en backend (no confiar en extensión ni cliente)
+[  ] Validación de tamaño (límite por usuario, por archivo)
+[  ] Antivirus scanning (ClamAV, VirusTotal API)
+[  ] Storage adecuado: S3, R2, B2 — no en el servidor de la app
+[  ] CDN frente al storage para entrega rápida
+[  ] Signed URLs con expiración para downloads privados
+[  ] Upload directo desde cliente con presigned URL
+       (off-load del backend, mucho más escalable)
+[  ] Procesamiento async en cola:
+       - Resize de imágenes
+       - Transcoding de video
+       - Generación de thumbnails
+       - Extracción de texto (OCR, PDF parsing)
+[  ] Cleanup: borrar de storage cuando se borra de la BD
+[  ] Métricas: storage usado por usuario, total, costos
+[  ] Política de retención si los archivos son temporales
+
+
+27.6 AUTH MODERNO
+[  ] Passkeys / WebAuthn como opción primaria donde se pueda
+       (Apple, Google, Microsoft soportan)
+[  ] Magic links como alternativa sin password
+[  ] Email verification real (no skip)
+[  ] OAuth con providers principales:
+       - Google (universal)
+       - Apple (obligatorio en iOS si tienes otros OAuth)
+       - GitHub (si tu audiencia es técnica)
+[  ] Sesiones por dispositivo, listables y revocables
+[  ] Detección de logins sospechosos (nuevo país, nuevo device)
+[  ] Email de notificación en login desde nuevo lugar
+[  ] Periodo de gracia para revertir cambios sensibles:
+       - 24-48h para revertir cambio de email
+       - 24h para revertir cambio de contraseña
+[  ] Account recovery sin caer en SMS (target favorito de SIM swap)
+[  ] Logout invalida la sesión en servidor, no solo en cliente
+[  ] CSRF protection en flujos sensibles
+[  ] Re-autenticación para acciones críticas (eliminar cuenta, exportar todo)
+
+
+27.7 WEBHOOKS (RECIBIR Y EMITIR)
+RECIBIR webhooks:
+[  ] Verificación de firma HMAC en cada webhook
+[  ] Timestamp + tolerancia (rechazar > 5 min de antigüedad)
+[  ] Idempotency key respetado (mismo evento N veces = mismo resultado)
+[  ] Respuesta rápida (200 OK en < 1s) → procesamiento async
+[  ] Logs de cada evento recibido con request ID
+[  ] Retry interno si el procesamiento falla
+[  ] Versioning del payload por proveedor
+
+EMITIR webhooks:
+[  ] Retry con exponential backoff (5s, 30s, 5min, 1h, 6h, 24h)
+[  ] Alertas si endpoint del cliente muere
+[  ] Auto-disable después de N fallos consecutivos
+[  ] Logs accesibles para el cliente (eventos enviados, status, response)
+[  ] Reenvío manual desde dashboard si fue necesario
+[  ] Documentación pública del schema de cada evento
+[  ] Versionado del schema (events.v1, v2)
+
+
+27.8 ESTRATEGIAS DE CACHING AVANZADAS
+[  ] Capas claras:
+       1. CDN edge cache (Cloudflare, Fastly)
+       2. Application cache (Redis, Memcached)
+       3. Query cache (database-level)
+       4. Client cache (browser, Service Worker)
+[  ] Cache keys versionadas (incluyen schema version)
+[  ] TTL apropiado por tipo de dato:
+       - Datos públicos: minutos a horas
+       - Datos de usuario: segundos a minutos
+       - Cómputo costoso: hasta días
+[  ] Estrategias de invalidación:
+       - TTL pasivo
+       - Invalidación por evento (cuando cambia el dato)
+       - Invalidación manual (botón "refrescar")
+[  ] Cache stampede prevention:
+       - Single-flight (solo una request regenera el cache)
+       - Probabilistic early expiration
+[  ] Stale-while-revalidate para datos no críticos
+[  ] Cache warm-up tras deploys (pre-calentar cache de páginas top)
+[  ] Negative caching (cachear "no existe" para evitar DB hits repetidos)
+[  ] Métricas: hit rate por capa, latencia con/sin cache
+
+
+================================================================================
+28. GAPS PEQUEÑOS PERO IMPORTANTES
+================================================================================
+
+Detalles que individualmente parecen menores pero que distinguen producto
+profesional de amateur. Fáciles de implementar, alto impacto.
+
+
+28.1 PRINT STYLESHEET
+[  ] @media print { } definido si el contenido se imprime alguna vez
+[  ] Ocultar nav, footer, ads, controles
+[  ] Ajustar colores: fondos a blanco, textos a negro
+[  ] Imágenes en alta resolución para impresión
+[  ] URLs explícitas tras enlaces:
+       a::after { content: " (" attr(href) ")"; }
+[  ] Saltos de página razonables (page-break-inside: avoid)
+[  ] Sin animaciones, sin elementos sticky
+[  ] Probar imprimiendo una página real
+
+
+28.2 SOSTENIBILIDAD / GREEN HOSTING
+[  ] Hosting con energías renovables:
+       - Cloudflare (compromiso público)
+       - Vercel (commitment carbon-neutral)
+       - Hetzner (climate-neutral data centers)
+       - GreenGeeks
+[  ] Performance = sostenibilidad (menos CPU = menos energía)
+[  ] Lazy load todo lo no crítico
+[  ] Imágenes optimizadas (WebP / AVIF)
+[  ] Calculadora de huella: websitecarbon.com
+[  ] Comunicar el compromiso si es relevante para tu audiencia
+[  ] Optimizar para edge: menos ida y vuelta = menos energía
+
+
+28.3 EMAIL DELIVERABILITY AVANZADO
+[  ] Domain warming: no enviar 10000 emails desde dominio nuevo de golpe
+[  ] Reputation monitoring:
+       - Postmaster Tools de Google
+       - SNDS de Microsoft
+       - mxtoolbox.com para verificar blacklists
+[  ] Bounce handling:
+       - Hard bounces → suppression list inmediata
+       - Soft bounces → retry con límite, luego suppression
+[  ] Spam complaints → suppression inmediata + investigación de causa
+[  ] List hygiene: limpiar emails no abiertos en 6+ meses
+[  ] Subdominios separados por tipo:
+       - mail.dominio.com → marketing
+       - tx.dominio.com → transactional
+       - notifications.dominio.com → notificaciones
+[  ] BIMI logo si tienes DMARC en reject
+[  ] Plain text version siempre, no solo HTML
+[  ] Unsubscribe en un click (List-Unsubscribe header + landing)
+
+
+28.4 AUDITORÍA DE LICENCIAS DE DEPENDENCIAS
+[  ] Lista de dependencias con su licencia (license-checker, FOSSA, Snyk)
+[  ] Compatibilidad con uso comercial:
+       - MIT, Apache 2.0, BSD: ampliamente OK
+       - ISC: OK
+       - GPL/AGPL: contagioso, EVITAR si vendes software cerrado
+       - LGPL: condicional (depende de linking estático/dinámico)
+       - SSPL: incompatible con muchos cloud uses
+       - Commons Clause: restrictivo
+[  ] Atribución cuando lo requiera la licencia (típico en MIT, Apache)
+[  ] Página pública /licenses si distribuyes software con dependencias OSS
+[  ] Auditoría en CI: bloquear merges si entra licencia incompatible
+
+
+28.5 DATA RESIDENCY
+[  ] Saber dónde viven físicamente los datos del usuario
+[  ] Si tienes usuarios europeos: opción de mantener datos en EU
+[  ] DPA con sub-procesadores que indica dónde almacenan
+[  ] Schrems II compliance si transfieres a USA
+       (Data Privacy Framework, SCCs)
+[  ] Cumplimiento de leyes locales:
+       - Rusia, China requieren datos in-country en muchos casos
+       - Brasil (LGPD), India (DPDP Act) tienen sus propias reglas
+[  ] Documentar en política de privacidad las regiones de almacenamiento
+[  ] Multi-región solo si es justificado (más complejidad y coste)
+
+
+28.6 SUNSETTING DE FEATURES
+[  ] Decisión documentada: ¿por qué se retira esta feature?
+[  ] Aviso al usuario con plazo (mínimo 30 días, idealmente 90)
+[  ] Comunicación por múltiples canales:
+       - In-app banner
+       - Email
+       - Changelog público
+[  ] Ruta de migración si hay alternativa
+[  ] Export de datos antes del retiro definitivo
+[  ] Email de confirmación cuando se ejecutó
+[  ] Estadísticas finales de uso publicadas (transparencia)
+[  ] Mantener API antigua deprecada durante el periodo, no cortar de golpe
+
+
+28.7 ARCHIVAR EL PROYECTO (PEOR ESCENARIO)
+Si la empresa cierra, los usuarios merecen una salida digna.
+[  ] Plan documentado de cierre antes de necesitarlo
+[  ] Export bulk de datos para todos los usuarios
+[  ] Open source del código si tiene sentido y es legal (sin secrets)
+[  ] Comunicación honesta del por qué (los usuarios lo agradecen)
+[  ] Plazo de gracia mínimo 60 días para que bajen sus datos
+[  ] Servicio de redirección a alternativa si la hay
+[  ] Reembolsos de pagos prepagados pendientes
+[  ] Mantener el dominio activo con instrucciones de export al menos 1 año
+[  ] No abandonar a los usuarios sin aviso
+
+
+28.8 CHANGELOG PÚBLICO
+[  ] Página /changelog accesible
+[  ] Una entrada por release significativo
+[  ] Categorías: Added, Changed, Fixed, Deprecated, Removed, Security
+[  ] Lenguaje del usuario, no jerga técnica
+[  ] Imágenes / GIFs cuando aporte
+[  ] RSS feed para usuarios power
+
+
+28.9 KEYBOARD SHORTCUTS
+[  ] Atajos para acciones frecuentes (Cmd+K para búsqueda, ? para ayuda)
+[  ] Modal de "todos los atajos" accesible con ?
+[  ] Conflictos con atajos del navegador evitados
+[  ] Indicación visual de atajos en menús (Cmd+S junto a "Guardar")
+[  ] Personalizables si el producto es power-user
+
+
+28.10 ESTADO DE NAVEGACIÓN PERSISTENTE
+[  ] Scroll position se preserva al volver con back
+[  ] Filtros activos se preservan en URL
+[  ] Pestaña activa se preserva en URL
+[  ] Form data se preserva si el usuario navega y vuelve
+[  ] Modales abiertos se cierran con Esc, no con back
+
+
+28.11 CONFIRMACIÓN DE CAMBIOS NO GUARDADOS
+[  ] Detectar cambios pendientes (formularios, editores)
+[  ] beforeunload prompt si hay cambios sin guardar
+[  ] Confirmación al cerrar pestaña con cambios
+[  ] Idealmente: auto-save para que esto no sea necesario
+
+
+28.12 RESPETO POR EL ANCHO DE BANDA
+[  ] Save-Data header detectado y respetado
+[  ] Imágenes de menor calidad si el usuario está en data saver
+[  ] Sin auto-play de video con conexión lenta
+[  ] Carga progresiva donde aplique
+
+
+28.13 FALLBACKS PARA JAVASCRIPT DESACTIVADO
+[  ] <noscript> con mensaje útil, no solo "habilita JS"
+[  ] Páginas críticas (about, contact, pricing) usables sin JS si es viable
+[  ] Si requiere JS obligatoriamente, comunicarlo claramente
+
+
+28.14 RESPETO POR LA CONFIGURACIÓN DEL SISTEMA
+[  ] prefers-color-scheme: respetar modo oscuro/claro del sistema
+[  ] prefers-reduced-motion: ya cubierto en accesibilidad
+[  ] prefers-contrast: alto contraste si lo pide
+[  ] forced-colors: Windows High Contrast Mode
+[  ] Configuración manual también disponible (override del sistema)
+
+
+28.15 ROBUSTEZ ANTE FALLOS DEL NAVEGADOR
+[  ] localStorage lleno: capturar QuotaExceededError
+[  ] localStorage no disponible (incógnito en Safari, etc.)
+[  ] IndexedDB con manejo de quota
+[  ] Memoria limitada en mobile: liberar recursos no visibles
+[  ] Network failures: retry con feedback
+
+
+================================================================================
 APÉNDICE A — RESUMEN ULTRA-COMPRIMIDO
 ================================================================================
 
@@ -1506,6 +2338,39 @@ SOPORTE / HELP CENTER
 STATUS PAGE
   Statuspage.io, Instatus, BetterStack Status
 
+IA / LLMs (PROVEEDORES)
+  OpenAI, Anthropic Claude, Google Gemini, Mistral, Cohere, Groq
+
+IA / OBSERVABILIDAD Y EVAL
+  Langfuse, Helicone, Langsmith, Phoenix, Promptfoo, Braintrust
+
+IA / VECTOR DB (SI APLICA)
+  Pinecone, Weaviate, Qdrant, pgvector, Chroma
+
+IA / ORQUESTACIÓN
+  Vercel AI SDK, Mastra, LangChain, LlamaIndex
+
+COLAS Y JOBS ASÍNCRONOS
+  BullMQ + Redis, Inngest, Trigger.dev, Hatchet, Temporal, AWS SQS
+
+BÚSQUEDA INTERNA
+  Algolia, Meilisearch, Typesense, Elasticsearch, FlexSearch (client-side)
+
+STORAGE DE ARCHIVOS
+  AWS S3, Cloudflare R2, Backblaze B2, UploadThing
+
+PWA / SERVICE WORKERS
+  Workbox, vite-plugin-pwa, next-pwa
+
+REAL-TIME
+  Socket.io, Ably, Pusher, Liveblocks (colaborativo), PartyKit
+
+LICENSING / COMPLIANCE
+  FOSSA, Snyk License, license-checker, Pulse
+
+MODERACIÓN DE CONTENIDO
+  OpenAI Moderation API, Perspective API, Hive, Sightengine
+
 
 ================================================================================
 FIN DEL DOCUMENTO
@@ -1515,3 +2380,13 @@ Este checklist es vivo: imprímelo, márcalo, ignora lo que no aplique a tu
 producto, añade lo que tu contexto requiera.
 
 La regla de oro: la claridad antes que las features, siempre.
+
+Versión 1.1 añade los temas que se quedaron fuera de la 1.0:
+  - IA y LLMs como disciplina con sus propias preocupaciones
+  - Contenido sensible y red de seguridad para dominios delicados
+  - Dark patterns que un producto ético NO debe usar
+  - Wellbeing del founder como activo crítico del proyecto
+  - Profundizaciones técnicas (PWA, búsqueda, real-time, jobs, archivos,
+    auth moderno, webhooks, caching)
+  - Gaps pequeños pero diferenciadores (print, sostenibilidad,
+    deliverability, licencias, residencia de datos, sunsetting)
