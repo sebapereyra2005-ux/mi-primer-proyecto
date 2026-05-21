@@ -1,0 +1,1517 @@
+================================================================================
+QUÉ NO PUEDE FALTAR EN UNA APP EXITOSA
+Checklist exhaustivo para construir, lanzar y mantener un producto digital
+Versión 1.0
+================================================================================
+
+
+INSTRUCCIONES DE USO
+--------------------
+- Léelo de corrido la primera vez para tener el mapa completo.
+- Después úsalo como checklist por fase: PRE-LAUNCH, LAUNCH, POST-LAUNCH.
+- Cada [  ] es un punto verificable. Cada -- es contexto / por qué importa.
+- No todo aplica a todos los productos. Marca [N/A] lo que no aplique
+  conscientemente, no lo ignores.
+- Las herramientas mencionadas son ejemplos, no obligaciones.
+
+
+ÍNDICE
+------
+ 1. PRODUCTO Y PROPUESTA DE VALOR
+ 2. EXPERIENCIA DE USUARIO (UX)
+ 3. DISEÑO VISUAL Y SISTEMA DE DISEÑO
+ 4. RESPONSIVE Y MULTI-DISPOSITIVO
+ 5. ACCESIBILIDAD (A11Y)
+ 6. PERFORMANCE
+ 7. ARQUITECTURA TÉCNICA
+ 8. PERSISTENCIA Y MANEJO DE DATOS
+ 9. SEGURIDAD
+10. PRIVACIDAD Y COMPLIANCE
+11. SEO Y DESCUBRIBILIDAD
+12. INTERNACIONALIZACIÓN
+13. ANALYTICS Y OBSERVABILIDAD
+14. COMUNICACIÓN CON EL USUARIO
+15. CRECIMIENTO Y RETENCIÓN
+16. INFRAESTRUCTURA Y DEVOPS
+17. CALIDAD DE CÓDIGO Y TESTING
+18. EQUIPO Y PROCESOS
+19. LEGAL Y NEGOCIO
+20. CHECKLIST PRE-LAUNCH
+21. CHECKLIST POST-LAUNCH
+22. EVOLUCIÓN A LARGO PLAZO
+
+
+================================================================================
+1. PRODUCTO Y PROPUESTA DE VALOR
+================================================================================
+
+La capa más importante. El 80% de las apps que mueren no fallan por falta de
+features ni por bugs: fallan porque nadie entiende para qué sirven o nadie
+las necesitaba lo suficiente.
+
+
+1.1 CLARIDAD DE PROPUESTA
+[  ] Una frase de menos de 15 palabras que explique qué hace y para quién
+     -- Si no se entiende en 5 segundos, ya perdiste al usuario
+     -- Test: muéstrasela a alguien fuera del equipo, ¿la repite igual?
+[  ] Visible en la home / landing en el primer scroll
+[  ] Coherente en App Store / web / redes sociales
+[  ] Sin jerga técnica (a menos que el público sea técnico)
+
+
+1.2 FOCO EN UN SOLO TRABAJO PRINCIPAL
+[  ] La app hace UNA cosa excelentemente bien
+     -- Las apps que hacen 10 cosas, hacen 10 cosas mediocre
+[  ] Las features secundarias no compiten visualmente con la principal
+[  ] Cada feature nueva pasa el test: "¿hace mejor el trabajo principal
+     o lo distrae?"
+[  ] Lista pública de "lo que NO vamos a hacer"
+     -- Es tan importante como lo que sí harás
+
+
+1.3 TIEMPO AL PRIMER VALOR (TTFV)
+[  ] El usuario obtiene algo útil en menos de 60 segundos desde el primer click
+     -- "Útil" significa: completó la acción que vino a hacer
+[  ] Sin tour de onboarding obligatorio
+[  ] Sin login obligatorio en V1 (el login se gana, no se exige)
+[  ] Sin formularios largos antes del valor
+[  ] La primera pantalla muestra DIRECTAMENTE la acción principal
+
+
+1.4 RAZÓN PARA VOLVER
+[  ] Una razón clara para que el usuario abra la app mañana
+     -- Sin retorno no hay producto, hay anécdota
+[  ] La app acumula valor con uso (historial, datos, mejora personalizada)
+[  ] Hooks de retorno legítimos (no manipulativos):
+     - Recordatorios útiles que el usuario configuró
+     - Datos que solo se generan si vuelve
+     - Comunidad / contenido nuevo
+[  ] Métrica de retención definida (D1, D7, D30)
+
+
+1.5 MODELO DE NEGOCIO (SI APLICA)
+[  ] Cómo se genera dinero está decidido antes de lanzar
+[  ] Pricing simple — máximo 3 planes
+[  ] Comparativa visual entre planes
+[  ] Free tier que de valor real (no demo crippleado)
+[  ] Trial sin tarjeta si es B2C
+[  ] Cancelación con un click — sin "llama a un agente"
+[  ] Política de reembolso clara
+[  ] Recibos / facturas automáticos
+
+
+1.6 INVESTIGACIÓN DE USUARIO
+[  ] Hablaste con al menos 10 usuarios potenciales antes de codear
+[  ] Tienes claro su "trabajo a hacer" (jobs-to-be-done)
+[  ] Documentaste sus puntos de dolor reales (no asumidos)
+[  ] Tienes 1-3 personas (perfiles) bien definidas
+[  ] Sabes qué soluciones usan hoy y qué les falta
+
+
+================================================================================
+2. EXPERIENCIA DE USUARIO (UX)
+================================================================================
+
+La diferencia entre una app que se siente profesional y una que se siente
+amateur está casi siempre en estos detalles, no en las features.
+
+
+2.1 JERARQUÍA Y FOCO POR PANTALLA
+[  ] UNA acción primaria por pantalla
+     -- Si hay dos botones igual de prominentes, no hay foco
+[  ] El resto de acciones visiblemente secundarias
+     (botones ghost, links pequeños, menús)
+[  ] La pantalla principal sin competencia visual
+[  ] Sin notificaciones intrusivas en el primer uso
+[  ] Sin pop-ups antes de que el usuario haga algo
+
+
+2.2 LOS 4 ESTADOS DE CADA PANTALLA
+La mayoría de las apps solo programan el "happy path" y se rompen en
+producción. Cada pantalla con datos debe contemplar:
+
+[  ] ESTADO VACÍO
+     -- Primera vez del usuario, sin datos todavía
+     -- Debe guiar qué hacer, no mostrar una pantalla blanca
+     -- Incluye CTA para crear el primer dato
+[  ] ESTADO DE CARGA
+     -- Skeleton screens > spinners (cuando se puede)
+     -- Feedback inmediato: el usuario no espera sin saber qué pasa
+     -- Si tarda más de 3s, mostrar mensaje explicativo
+[  ] ESTADO DE ERROR
+     -- Mensajes humanos, no stack traces
+     -- Siempre con una ruta de recuperación ("Reintentar", "Volver")
+     -- Diferenciar errores de red, de servidor, de datos
+[  ] ESTADO DE ÉXITO
+     -- Confirmación visual de que la acción se completó
+     -- Sin abusar de toasts gigantes
+
+
+2.3 FEEDBACK INMEDIATO
+[  ] Cada click responde en menos de 100ms
+[  ] Estados hover, active, focus, disabled visibles
+[  ] Botones cambian a "Cargando..." cuando procesan
+[  ] Los formularios dan feedback en tiempo real (no solo al enviar)
+[  ] Las acciones destructivas piden confirmación
+[  ] Las acciones reversibles muestran "Deshacer" 5-10 segundos
+
+
+2.4 ONBOARDING
+[  ] Sin onboarding obligatorio — el primer click ya da valor
+[  ] Si hay tour, debe ser saltable
+[  ] Tooltips contextuales en lugar de tour separado
+[  ] Empty states que enseñan al usar la app
+[  ] Datos de ejemplo precargados (opcional)
+[  ] Progressive disclosure: features avanzadas se revelan al usar
+
+
+2.5 NAVEGACIÓN
+[  ] El usuario siempre sabe dónde está
+     (breadcrumbs, títulos de página, navegación destacada)
+[  ] Botón de "volver" predecible
+[  ] URLs limpias y compartibles
+[  ] Deep linking funciona (compartir un link lleva al lugar exacto)
+[  ] Gesto de "atrás" del navegador respeta el flujo
+[  ] Atajos de teclado para usuarios power
+
+
+2.6 INPUTS Y FORMULARIOS
+[  ] Solo pides la info estrictamente necesaria
+[  ] Validación inline (no esperar al submit)
+[  ] Mensajes de error específicos ("Email inválido" no "Error")
+[  ] Inputs con tipo correcto (email, tel, number, date)
+[  ] Autocompletado donde tenga sentido (autocomplete="email")
+[  ] Placeholders no reemplazan labels
+[  ] Tab order lógico
+[  ] Submit con Enter cuando aplique
+[  ] Botón "guardar" desactivado mientras procesa
+[  ] Auto-save cuando sea posible (no perder lo escrito)
+
+
+2.7 MICROINTERACCIONES Y ANIMACIÓN
+[  ] Transiciones sutiles entre pantallas (200-400ms)
+[  ] Animaciones que comunican causa-efecto, no decorativas
+[  ] Respetar prefers-reduced-motion del usuario
+[  ] Sin parallax extremo, sin efectos que mareen
+[  ] Cuando algo cambia en pantalla, no aparece bruscamente
+
+
+2.8 COPYWRITING
+[  ] Voz y tono coherente en toda la app
+[  ] Botones con verbos claros ("Guardar", no "OK")
+[  ] Errores escritos como humano (sin "Exception: invalid_input")
+[  ] Confirmaciones específicas ("Nota guardada", no "Éxito")
+[  ] Sin emojis salvo que pertenezcan a la marca
+[  ] Sin signos de exclamación gratuitos
+[  ] Mensajes vacíos motivan, no acusan ("Aún no tienes notas",
+     no "No tienes nada")
+
+
+================================================================================
+3. DISEÑO VISUAL Y SISTEMA DE DISEÑO
+================================================================================
+
+
+3.1 SISTEMA DE DISEÑO
+[  ] Paleta de colores definida y limitada
+     -- Máximo 3 colores principales + escala de grises
+     -- Cada color tiene un uso específico (primario, acento, error)
+[  ] Escala tipográfica restrictiva (5-7 tamaños máximo)
+[  ] Escala de spacing consistente (4px, 8px, 16px, 24px, 32px, 48px, 64px)
+[  ] Escala de bordes redondeados (sm, md, lg, full)
+[  ] Tokens de diseño documentados (Figma, Storybook, etc.)
+
+
+3.2 COLOR
+[  ] Color primario para acciones, no para decoración
+[  ] Suficiente contraste de texto (mínimo WCAG AA, idealmente AAA)
+[  ] Estados de los componentes diferenciados (hover, active, disabled)
+[  ] Color no es la única forma de comunicar estado
+     (también iconos, texto, posición)
+[  ] No depender de daltonismo-sensibles (rojo/verde sin acompañamiento)
+[  ] Modo oscuro y claro (si aplica), no solo invertir colores
+
+
+3.3 TIPOGRAFÍA
+[  ] Una sans-serif para texto general
+[  ] Opcionalmente una mono para datos / código
+[  ] Pesos limitados (regular, medium, semibold)
+[  ] Line-height de 1.5 para texto largo
+[  ] Letter-spacing apropiado (negativo en titulares grandes)
+[  ] Tamaño mínimo de cuerpo: 16px
+[  ] Línea entre 50-75 caracteres para lectura cómoda
+[  ] Fuentes web cargadas eficientemente (preload, font-display: swap)
+
+
+3.4 ICONOGRAFÍA
+[  ] Una sola familia de iconos (Lucide, Heroicons, Phosphor, etc.)
+[  ] Tamaños consistentes (16, 20, 24)
+[  ] Stroke o fill consistente (no mezclar)
+[  ] Iconos siempre con label o aria-label cuando son interactivos
+
+
+3.5 IMÁGENES
+[  ] Ratios consistentes (16:9, 4:3, 1:1)
+[  ] Lazy loading para todas las imágenes below-the-fold
+[  ] Formatos modernos (WebP, AVIF) con fallback
+[  ] Tamaños responsive con srcset / sizes
+[  ] Alt text descriptivo en todas las imágenes informativas
+[  ] Alt vacío en imágenes decorativas (alt="")
+[  ] Skeleton / blur placeholder mientras cargan
+
+
+3.6 SOMBRAS Y PROFUNDIDAD
+[  ] Escala limitada de sombras (sm, md, lg, xl)
+[  ] Coherente: si una card tiene sombra, todas las cards similares también
+[  ] En modo oscuro, las sombras se reemplazan por bordes
+
+
+================================================================================
+4. RESPONSIVE Y MULTI-DISPOSITIVO
+================================================================================
+
+Más del 60% del tráfico web es móvil. Una app que funciona mal en el teléfono
+es una app que pierde a la mayoría de sus usuarios.
+
+
+4.1 MOBILE-FIRST
+[  ] Diseñas y desarrollas primero para mobile, luego escalas a desktop
+[  ] La pantalla principal cabe en una vista de móvil sin scroll horizontal
+[  ] Touch targets mínimos de 44x44px (Apple) / 48x48dp (Google)
+[  ] Espaciado entre elementos clicables suficiente para dedos
+[  ] Sin hover-only — todo accesible con tap
+
+
+4.2 BREAKPOINTS COMUNES
+[  ] Mobile: 320px - 640px
+[  ] Tablet: 641px - 1024px
+[  ] Desktop: 1025px - 1440px
+[  ] Wide: 1441px+
+[  ] Probado en cada breakpoint, no solo en uno
+
+
+4.3 INTERACCIONES TÁCTILES
+[  ] Sin elementos pegajosos en hover (no funcionan en touch)
+[  ] Swipe gestures donde tengan sentido (eliminar, refrescar)
+[  ] Pull-to-refresh en listas largas
+[  ] Sin doble-tap para zoom (configurar viewport bien)
+
+
+4.4 SAFE AREAS Y NOTCHES
+[  ] Respetar safe-area-inset-* en iOS
+[  ] viewport-fit=cover en index.html
+[  ] Probado en dispositivos con notch (iPhone X+)
+
+
+4.5 ORIENTACIÓN
+[  ] Funciona en portrait y landscape
+[  ] Si bloqueas una orientación, justificado (juego, lectura)
+
+
+4.6 NAVEGADORES Y DISPOSITIVOS
+[  ] Probado en Chrome, Safari, Firefox, Edge
+[  ] Probado en iOS Safari (es distinto a Safari desktop)
+[  ] Probado en Chrome Android
+[  ] Probado en al menos un Android viejo (carga lenta)
+[  ] Funciona en pantallas pequeñas (320px)
+[  ] Soporta pantallas retina (imágenes 2x, 3x)
+
+
+================================================================================
+5. ACCESIBILIDAD (A11Y)
+================================================================================
+
+No es opcional. 1 de cada 5 personas tiene algún tipo de discapacidad. Y
+además: lo que es bueno para a11y es bueno para todos los usuarios.
+
+Estándar mínimo: WCAG 2.1 nivel AA.
+
+
+5.1 SEMÁNTICA HTML
+[  ] Usar elementos correctos: <button>, <a>, <nav>, <main>, <article>
+[  ] No usar <div onClick> en lugar de <button>
+[  ] Estructura de encabezados jerárquica (h1, h2, h3)
+[  ] Una sola <h1> por página
+[  ] Landmarks semánticos (<header>, <main>, <footer>, <nav>)
+
+
+5.2 NAVEGACIÓN POR TECLADO
+[  ] Toda funcionalidad accesible solo con teclado
+[  ] Tab order lógico (sigue el flujo visual)
+[  ] Focus visible siempre (outline o equivalente)
+[  ] Atajos de teclado documentados
+[  ] Esc cierra modales / dropdowns
+[  ] Enter activa botones
+[  ] Skip-link al contenido principal
+
+
+5.3 LECTORES DE PANTALLA
+[  ] aria-label en iconos sin texto
+[  ] aria-live para contenido que cambia dinámicamente
+[  ] aria-describedby para hints adicionales
+[  ] role="alert" para errores críticos
+[  ] aria-expanded en dropdowns
+[  ] aria-current en navegación activa
+[  ] Probado con VoiceOver (Mac/iOS) o NVDA (Windows)
+
+
+5.4 CONTRASTE Y VISIÓN
+[  ] Texto normal: contraste mínimo 4.5:1 con fondo
+[  ] Texto grande (18pt+): contraste mínimo 3:1
+[  ] Componentes UI y estados: contraste mínimo 3:1
+[  ] No depender solo de color para comunicar (también texto/iconos)
+[  ] Texto puede aumentar a 200% sin romper layout
+
+
+5.5 MOVIMIENTO Y MEDIOS
+[  ] Respetar prefers-reduced-motion
+[  ] Sin auto-play de video con sonido
+[  ] Sin elementos que parpadeen más de 3 veces por segundo
+[  ] Captions en videos
+[  ] Transcripts en audio
+
+
+5.6 FORMULARIOS ACCESIBLES
+[  ] Cada input con su <label> asociado
+[  ] Errores asociados al input (aria-invalid, aria-describedby)
+[  ] Required campos marcados también con texto, no solo asterisco
+[  ] Instrucciones antes del input, no después
+
+
+================================================================================
+6. PERFORMANCE
+================================================================================
+
+Una app lenta pierde usuarios. Google ha demostrado que cada 100ms adicionales
+de carga reducen las conversiones medibles.
+
+
+6.1 CORE WEB VITALS
+[  ] LCP (Largest Contentful Paint) < 2.5s
+     -- Tiempo hasta que el contenido principal aparece
+[  ] INP (Interaction to Next Paint) < 200ms
+     -- Latencia de respuesta a las interacciones del usuario
+[  ] CLS (Cumulative Layout Shift) < 0.1
+     -- Cuánto se mueve el contenido durante la carga
+[  ] TTFB (Time To First Byte) < 600ms
+
+
+6.2 OPTIMIZACIÓN DE BUNDLE
+[  ] Code splitting por ruta (lazy loading de páginas)
+[  ] Tree shaking activo en producción
+[  ] Bundle inicial menor a 200KB gzipped (objetivo)
+[  ] Sin librerías duplicadas
+[  ] Análisis del bundle (vite-bundle-visualizer, webpack-bundle-analyzer)
+[  ] Polyfills solo para los navegadores que necesitan
+
+
+6.3 IMÁGENES
+[  ] Formato moderno (WebP/AVIF)
+[  ] Tamaños responsive (srcset, sizes)
+[  ] Lazy loading nativo (loading="lazy")
+[  ] Dimensiones explicitas (width/height) para evitar CLS
+[  ] CDN de imágenes (Cloudinary, imgix, Vercel Image Optimization)
+
+
+6.4 FUENTES
+[  ] font-display: swap para evitar texto invisible
+[  ] Solo pesos que usas, no la familia completa
+[  ] Subset de caracteres (latin, latin-ext) si aplica
+[  ] Self-hosted o de proveedor confiable (Google Fonts, Bunny Fonts)
+[  ] Preload de la fuente crítica
+
+
+6.5 CACHING
+[  ] Headers Cache-Control bien configurados
+[  ] Assets con hash en el nombre (cache eterno)
+[  ] HTML con cache corto + revalidate
+[  ] Service Worker para offline (si PWA)
+[  ] Versionado de assets para invalidación
+
+
+6.6 RED Y SERVIDOR
+[  ] HTTP/2 o HTTP/3 activo
+[  ] Compresión Brotli o Gzip
+[  ] CDN frente al origen (Cloudflare, Fastly, Vercel Edge)
+[  ] Servidor cerca del usuario (multi-región si tienes tráfico global)
+[  ] Connection pooling en backend
+
+
+6.7 RUNTIME
+[  ] Sin loops innecesarios en render
+[  ] Memoización donde aplique (React.memo, useMemo, useCallback)
+[  ] Virtualización de listas largas (>100 items)
+[  ] Debounce / throttle en inputs y scroll
+[  ] requestIdleCallback para tareas no críticas
+
+
+6.8 MEDICIÓN CONTINUA
+[  ] Lighthouse CI en pipelines
+[  ] Real User Monitoring (RUM) en producción
+[  ] Alertas si las métricas se degradan
+[  ] Performance budget definido y enforced
+
+
+================================================================================
+7. ARQUITECTURA TÉCNICA
+================================================================================
+
+
+7.1 ESTRUCTURA DE CÓDIGO
+[  ] Separación clara de responsabilidades
+     - Componentes UI puros
+     - Hooks de lógica
+     - Servicios (API, storage, etc.)
+     - Tipos / modelos
+[  ] Estructura de carpetas predecible
+[  ] Convenciones de nombres consistentes
+[  ] Sin archivos de más de 300 líneas (excepciones justificadas)
+[  ] Imports absolutos (paths con alias) en vez de "../../../"
+
+
+7.2 GESTIÓN DE ESTADO
+[  ] Estado local para lo que pertenece a un componente
+[  ] Estado global solo para lo que es genuinamente compartido
+[  ] Server state separado del client state (TanStack Query, SWR)
+[  ] Sin prop drilling de más de 2-3 niveles
+[  ] Estado URL para lo que debe ser compartible (filtros, pestañas)
+
+
+7.3 MANEJO DE ERRORES
+[  ] ErrorBoundary global a nivel app
+[  ] ErrorBoundary por sección crítica
+[  ] Errores de red capturados y comunicados
+[  ] Errores de validación distinguidos de errores de servidor
+[  ] Logging de errores en producción (Sentry, Bugsnag, Rollbar)
+[  ] Stack traces fuente-mapeados (sourcemaps en producción solo
+     accesibles al equipo)
+
+
+7.4 TIPADO
+[  ] TypeScript en strict mode (si TS)
+[  ] Modelos del dominio tipados
+[  ] APIs tipadas end-to-end (tRPC, OpenAPI codegen, GraphQL codegen)
+[  ] Sin "any" salvo justificado
+[  ] noImplicitAny, noUncheckedIndexedAccess
+
+
+7.5 API DESIGN
+[  ] Versionado (/api/v1/...)
+[  ] REST estricto o GraphQL — no mezclar sin razón
+[  ] Status codes correctos (200, 201, 400, 401, 403, 404, 500)
+[  ] Errores en formato consistente (JSON con estructura predecible)
+[  ] Paginación estándar (cursor-based para colecciones grandes)
+[  ] Rate limiting documentado
+[  ] Documentación OpenAPI / Swagger pública o interna
+
+
+7.6 DEPENDENCIAS
+[  ] Lockfile commiteado (package-lock.json, pnpm-lock.yaml)
+[  ] Auditoría regular (npm audit, Dependabot, Snyk)
+[  ] Sin librerías abandonadas (último commit > 2 años)
+[  ] Sin librerías de un solo mantenedor para piezas críticas
+[  ] Renovate o Dependabot configurado
+
+
+================================================================================
+8. PERSISTENCIA Y MANEJO DE DATOS
+================================================================================
+
+
+8.1 GUARDADO
+[  ] Auto-save cuando es viable (cada 5-10s o al perder foco)
+[  ] El usuario nunca pierde lo escrito por refresh accidental
+[  ] Indicador visible de "guardando" / "guardado"
+[  ] Confirmación clara cuando algo se persistió
+[  ] Optimistic UI con rollback en caso de error
+
+
+8.2 SINCRONIZACIÓN
+[  ] Multi-device sync si aplica (cuenta del usuario)
+[  ] Resolución de conflictos definida (last-write-wins, CRDT, merge manual)
+[  ] Indicador de "sincronizando" / "última sincronización: hace X"
+
+
+8.3 OFFLINE
+[  ] La app funciona (al menos en lectura) sin red
+[  ] Service Worker con cache de assets críticos
+[  ] Cola de operaciones pendientes que se sincronizan al volver
+[  ] Indicador visible de estado offline
+
+
+8.4 EXPORT E IMPORT
+[  ] El usuario puede exportar SUS datos en formato estándar (JSON, CSV)
+[  ] Puede importar de un backup propio
+[  ] Migración de versiones del esquema documentada
+[  ] Sin lock-in artificial
+
+
+8.5 ELIMINACIÓN
+[  ] El usuario puede borrar SUS datos completamente
+[  ] La eliminación es real (no soft-delete eterno)
+[  ] Plazo definido para purga (30/60/90 días tras cancelación)
+[  ] Eliminación de datos también elimina copias en backups
+
+
+8.6 BASE DE DATOS
+[  ] Backups automáticos (al menos diarios)
+[  ] Backups restaurados periódicamente (verificar que funcionan)
+[  ] Indices en columnas que se filtran/ordenan frecuentemente
+[  ] Migrations versionadas y reversibles
+[  ] Soft deletes donde tenga sentido legal
+[  ] Audit log de cambios sensibles
+
+
+================================================================================
+9. SEGURIDAD
+================================================================================
+
+Una brecha de seguridad puede matar el producto. Los básicos no son negociables.
+
+
+9.1 TRANSPORTE
+[  ] HTTPS en TODAS las páginas (sin excepciones)
+[  ] HSTS header (Strict-Transport-Security)
+[  ] Redirección automática de HTTP a HTTPS
+[  ] Certificado válido y auto-renovado (Let's Encrypt, Cloudflare)
+[  ] TLS 1.2 mínimo, idealmente 1.3
+
+
+9.2 CABECERAS DE SEGURIDAD
+[  ] Content-Security-Policy (CSP) bien configurada
+[  ] X-Frame-Options: DENY (o usar frame-ancestors en CSP)
+[  ] X-Content-Type-Options: nosniff
+[  ] Referrer-Policy: strict-origin-when-cross-origin
+[  ] Permissions-Policy para limitar APIs del navegador
+
+
+9.3 AUTENTICACIÓN
+[  ] Passwords nunca en plano (bcrypt, argon2)
+[  ] Mínimo 8 caracteres + medidor de fortaleza
+[  ] Soporte de password managers (autocomplete correcto)
+[  ] 2FA / MFA opcional (TOTP, no SMS)
+[  ] Recuperación de contraseña por email con token expiría
+[  ] Bloqueo tras N intentos fallidos
+[  ] OAuth (Google, GitHub, Apple) si aplica
+
+
+9.4 AUTORIZACIÓN
+[  ] Verificación de permisos en cada endpoint, no solo en UI
+[  ] Principio de menor privilegio
+[  ] Tokens de sesión seguros (httpOnly, secure, sameSite)
+[  ] Tokens con expiración razonable (1-7 días, refresh aparte)
+[  ] Logout invalida el token en servidor
+
+
+9.5 INPUT Y OUTPUT
+[  ] Validación server-side SIEMPRE (no confiar en cliente)
+[  ] Sanitización de HTML para prevenir XSS
+[  ] Queries parametrizadas (sin SQL injection)
+[  ] Validación de tipos en todas las APIs (Zod, Joi, Yup)
+[  ] Encoding correcto de output según contexto (HTML, URL, JSON)
+[  ] Tamaño máximo de request body
+[  ] Tamaño máximo de uploads + verificación de tipo MIME
+
+
+9.6 SECRETS Y CREDENCIALES
+[  ] API keys NUNCA en el cliente (mover a backend)
+[  ] Variables de entorno para secrets, no hardcoded
+[  ] Secrets manager en producción (Vault, AWS Secrets Manager,
+     Doppler, 1Password)
+[  ] Rotación periódica de secrets críticos
+[  ] .env nunca commiteado
+[  ] Pre-commit hook que detecta secrets (gitleaks, trufflehog)
+
+
+9.7 RATE LIMITING Y ABUSE
+[  ] Rate limit por IP en endpoints públicos
+[  ] Rate limit por usuario autenticado
+[  ] CAPTCHA en formularios de signup / login (hCaptcha, Turnstile)
+[  ] Detección de bots (anti-fraud)
+[  ] Bloqueo de IPs con comportamiento abusivo
+
+
+9.8 DEPENDENCIAS Y VULNERABILIDADES
+[  ] Auditoría automática (Dependabot, Snyk, npm audit)
+[  ] CVEs críticos parcheados en menos de 7 días
+[  ] No depender de librerías sin mantenimiento
+[  ] SBOM (Software Bill of Materials) generado en build
+
+
+9.9 ALMACENAMIENTO
+[  ] Datos sensibles encriptados en reposo
+[  ] PII solo donde es estrictamente necesario
+[  ] Tokens de pago tokenizados (Stripe, no guardar tarjetas)
+[  ] Logs sin PII / sin secrets
+
+
+9.10 SEGURIDAD EN CI/CD
+[  ] Tokens de despliegue con permisos mínimos
+[  ] Rotación de tokens
+[  ] Builds reproducibles
+[  ] Firma de artefactos
+[  ] Sin credenciales en logs de CI
+
+
+================================================================================
+10. PRIVACIDAD Y COMPLIANCE
+================================================================================
+
+
+10.1 POLÍTICA DE PRIVACIDAD
+[  ] Existe y es accesible desde cualquier página
+[  ] Lenguaje legible (no solo legalese)
+[  ] Lista clara de qué datos recolectas
+[  ] Para qué los usas
+[  ] Con quién los compartes (sub-procesadores)
+[  ] Cómo los protege el usuario y cómo los borra
+[  ] Fecha de última actualización
+[  ] Aviso al usuario cuando cambia
+
+
+10.2 GDPR (EUROPA)
+[  ] Base legal definida para cada tipo de procesamiento
+[  ] Consentimiento explícito antes de cookies de tracking
+[  ] Cookie banner con opciones granulares (no solo "aceptar todo")
+[  ] Derecho de acceso (export de datos)
+[  ] Derecho de rectificación
+[  ] Derecho de eliminación
+[  ] Derecho de portabilidad
+[  ] DPA (Data Processing Agreement) con sub-procesadores
+[  ] DPO designado si aplica
+
+
+10.3 CCPA / CPRA (CALIFORNIA)
+[  ] Página "Do Not Sell My Personal Information"
+[  ] Opt-out claro
+[  ] Misma calidad de servicio para quienes opt-out
+
+
+10.4 COPPA (MENORES)
+[  ] Si aplica: consentimiento parental verificable
+[  ] Sin tracking de menores de 13
+
+
+10.5 COOKIES
+[  ] Banner solo si usas cookies más allá de las estrictamente necesarias
+[  ] Categorías: necesarias, funcionales, analíticas, marketing
+[  ] Cookies bloqueadas hasta que el usuario consienta
+[  ] Reconsentimiento periódico
+
+
+10.6 TÉRMINOS DE USO
+[  ] Existen y son aceptados explícitamente al registrarse
+[  ] Cláusulas claras sobre uso aceptable
+[  ] Cláusulas de terminación
+[  ] Limitación de responsabilidad razonable
+[  ] Jurisdicción aplicable
+
+
+10.7 OTRAS REGULACIONES SECTORIALES
+[  ] HIPAA si manejas datos de salud (USA)
+[  ] PCI DSS si manejas tarjetas de crédito
+[  ] SOC 2 si vendes a empresas
+[  ] ISO 27001 según mercado
+
+
+================================================================================
+11. SEO Y DESCUBRIBILIDAD
+================================================================================
+
+Si Google no encuentra tu app, no existe para el 70% de tus potenciales
+usuarios.
+
+
+11.1 META TAGS BÁSICOS
+[  ] <title> único por página, descriptivo, < 60 caracteres
+[  ] <meta name="description"> de 150-160 caracteres
+[  ] <meta name="viewport"> bien configurado
+[  ] <html lang="es"> (o el idioma correcto)
+[  ] <link rel="canonical"> en cada página
+
+
+11.2 OPEN GRAPH (PARA REDES SOCIALES)
+[  ] og:title, og:description, og:image, og:url
+[  ] og:type apropiado (website, article, etc.)
+[  ] og:image de 1200x630 px
+[  ] twitter:card="summary_large_image"
+
+
+11.3 STRUCTURED DATA
+[  ] Schema.org JSON-LD donde aplique (Organization, Article, Product, FAQ)
+[  ] Validado en Rich Results Test de Google
+
+
+11.4 ARCHIVOS RAÍZ
+[  ] /robots.txt
+[  ] /sitemap.xml (generado automáticamente, actualizado)
+[  ] /favicon.ico + iconos para todos los dispositivos
+[  ] /manifest.webmanifest si PWA
+
+
+11.5 ESTRUCTURA DEL CONTENIDO
+[  ] Una <h1> por página, descriptiva
+[  ] Jerarquía de h2, h3 lógica
+[  ] URLs limpias y descriptivas (/blog/como-construir-app no /blog?id=42)
+[  ] Slugs sin caracteres extraños
+[  ] Contenido único por página (no duplicate content)
+
+
+11.6 PERFORMANCE Y CORE WEB VITALS
+[  ] Google penaliza apps lentas
+[  ] Pasar Core Web Vitals (ver sección 6)
+
+
+11.7 INDEXACIÓN
+[  ] Google Search Console configurada
+[  ] Bing Webmaster Tools si aplica
+[  ] Sitemap enviado
+[  ] Sin páginas importantes con noindex
+[  ] Internal linking entre páginas relacionadas
+
+
+================================================================================
+12. INTERNACIONALIZACIÓN (i18n / l10n)
+================================================================================
+
+Solo si tu producto va a múltiples mercados. Pero si lo hará algún día, mejor
+empezar bien.
+
+
+12.1 INFRAESTRUCTURA
+[  ] Sistema de strings externalizados desde V1 (i18next, react-intl, formatjs)
+[  ] Sin texto hardcoded en componentes
+[  ] Strings con keys descriptivas, no con texto
+
+
+12.2 IDIOMAS
+[  ] Detección de idioma del usuario (navegador, ubicación)
+[  ] Selector manual disponible
+[  ] Persistencia de la preferencia
+[  ] URL refleja el idioma (/es/, /en/) o por subdominio
+
+
+12.3 FORMATOS
+[  ] Fechas en formato local (Intl.DateTimeFormat)
+[  ] Números con separadores correctos (Intl.NumberFormat)
+[  ] Monedas con símbolo y formato local
+[  ] Pluralización correcta (Intl.PluralRules)
+
+
+12.4 RTL
+[  ] Soporte de idiomas RTL (árabe, hebreo) si aplica
+[  ] dir="rtl" automático
+[  ] Layouts simétricos
+[  ] Iconos direccionales se invierten
+
+
+12.5 CONTENIDO
+[  ] Imágenes sin texto embebido (o versiones por idioma)
+[  ] Cuidado con metáforas culturales
+
+
+================================================================================
+13. ANALYTICS Y OBSERVABILIDAD
+================================================================================
+
+Sin datos, mejoras a ciegas. Pero sin foco, generas ruido.
+
+
+13.1 NORTH STAR METRIC
+[  ] UNA métrica que define si la app cumple su propósito
+     -- Ejemplos: sesiones cerradas con compromiso (NEXUS),
+                  mensajes enviados (chat),
+                  proyectos completados (productividad)
+[  ] Visible para todo el equipo
+[  ] Revisada semanalmente
+
+
+13.2 EMBUDO DE ACTIVACIÓN
+[  ] Visita > Signup > Primera acción > Acción repetida > Retención
+[  ] Cada paso medido
+[  ] Conversion rate por paso
+[  ] Identificar el "aha moment"
+
+
+13.3 RETENCIÓN
+[  ] D1 (vuelven al día siguiente)
+[  ] D7 (vuelven en 7 días)
+[  ] D30 (vuelven en un mes)
+[  ] Cohorts por mes/semana de signup
+
+
+13.4 ANALYTICS DE PRODUCTO
+[  ] Herramienta elegida (PostHog, Mixpanel, Amplitude, Plausible, Umami)
+[  ] Eventos clave definidos en un esquema (no events ad-hoc)
+[  ] Naming convention: noun_verb (button_clicked, page_viewed)
+[  ] Propiedades de evento estandarizadas
+[  ] Identificación de usuario solo donde es legítimo
+[  ] Sin tracking innecesario
+
+
+13.5 ERRORES EN PRODUCCIÓN
+[  ] Captura automática (Sentry, Bugsnag, Rollbar, LogRocket)
+[  ] Source maps para stack traces legibles
+[  ] Alertas en errores nuevos / picos de errores
+[  ] Tags por release / entorno
+[  ] User context (sin PII sensible)
+
+
+13.6 LOGS
+[  ] Logs estructurados (JSON)
+[  ] Niveles correctos (error, warn, info, debug)
+[  ] Centralizados (Datadog, Better Stack, Grafana Loki)
+[  ] Retención definida
+[  ] Sin secrets en logs
+
+
+13.7 UPTIME Y SLAs
+[  ] Monitoring de uptime (Better Stack, Pingdom, UptimeRobot)
+[  ] Status page público (statuspage.io, instatus, status.io)
+[  ] Alertas en caídas (PagerDuty, Opsgenie, Better Stack On-Call)
+[  ] SLA definido si tienes clientes empresariales
+
+
+13.8 SESSION REPLAY (USAR CON CUIDADO)
+[  ] Útil para debug de UX, pero implicaciones de privacidad
+[  ] Enmascarar inputs sensibles
+[  ] Consentimiento del usuario
+
+
+13.9 FEATURE FLAGS
+[  ] Sistema de flags (LaunchDarkly, Unleash, PostHog, Statsig)
+[  ] Releases graduales (5% > 25% > 100%)
+[  ] Kill switch para features problemáticas
+[  ] Targeting por segmento de usuario
+
+
+13.10 A/B TESTING
+[  ] Infraestructura instalada (PostHog, Statsig, GrowthBook)
+[  ] Hipótesis claras antes de cada test
+[  ] Sample size calculado
+[  ] No lanzar 10 tests simultáneos en el mismo flujo
+
+
+================================================================================
+14. COMUNICACIÓN CON EL USUARIO
+================================================================================
+
+
+14.1 EMAILS TRANSACCIONALES
+[  ] Bienvenida tras signup
+[  ] Confirmación de email
+[  ] Recuperación de contraseña
+[  ] Confirmación de pago / suscripción
+[  ] Recibos / facturas
+[  ] Cancelación de cuenta
+[  ] Cambios de plan
+[  ] Cambios de email / password
+[  ] Proveedor confiable (Resend, Postmark, SendGrid, AWS SES)
+[  ] DKIM, SPF, DMARC bien configurados
+[  ] HTML + texto plano
+[  ] Responsive
+[  ] Unsubscribe link en marketing emails
+
+
+14.2 NOTIFICACIONES IN-APP
+[  ] Toasts no intrusivos
+[  ] Banners para anuncios importantes
+[  ] Centro de notificaciones (campanita)
+[  ] Marcar como leído
+[  ] No abusar — solo lo realmente importante
+
+
+14.3 NOTIFICACIONES PUSH
+[  ] Pedir permiso solo cuando es contextualmente claro
+[  ] Nunca al cargar la página
+[  ] Granularidad (qué notificaciones recibir)
+[  ] Botón fácil de desactivar todas
+[  ] Probar en iOS y Android
+
+
+14.4 NEWSLETTER (SI APLICA)
+[  ] Doble opt-in
+[  ] Frecuencia clara desde el principio
+[  ] Contenido valioso, no auto-promoción
+[  ] Unsubscribe en un click
+[  ] Métricas (open rate, click rate)
+
+
+14.5 CHANGELOG / RELEASE NOTES
+[  ] Página pública con cambios por versión
+[  ] Lenguaje del usuario (no jerga técnica)
+[  ] Imágenes / GIFs cuando aporte
+[  ] In-app banner para cambios importantes
+
+
+14.6 STATUS PAGE
+[  ] Pública, accesible incluso si la app está caída
+[  ] Histórico de incidentes
+[  ] Updates en tiempo real durante incidentes
+[  ] Suscripción para alertas
+
+
+14.7 SOPORTE / HELP CENTER
+[  ] FAQ con las dudas más comunes
+[  ] Documentación buscable
+[  ] Canal de contacto claro (email, chat, Discord, foro)
+[  ] Tiempo de respuesta esperado publicado
+[  ] Plantillas de respuesta para issues frecuentes
+
+
+================================================================================
+15. CRECIMIENTO Y RETENCIÓN
+================================================================================
+
+
+15.1 ONBOARDING ENFOCADO EN AHA MOMENT
+[  ] Identificas qué momento engancha al usuario
+[  ] Diseñas el primer flujo para llegar ahí lo antes posible
+[  ] Mides cuántos llegan al aha moment
+[  ] Iteras para mejorar ese ratio
+
+
+15.2 REFERRALS
+[  ] Programa de referidos si aplica
+[  ] Incentivo claro (descuento, créditos, features)
+[  ] Tracking de referidos para atribución
+[  ] Compartibilidad nativa (botones)
+
+
+15.3 SHARING
+[  ] Compartir por sistema operativo (Web Share API)
+[  ] Compartir genera Open Graph rico
+[  ] Mensajes pre-rellenados pero editables
+
+
+15.4 CONTENIDO PÚBLICO
+[  ] Páginas públicas (perfil, proyecto público, link compartible)
+[  ] Buen Open Graph en estas páginas
+[  ] SEO en las páginas públicas
+
+
+15.5 RE-ENGAGEMENT
+[  ] Email de "vuelve" si no entró en X días
+[  ] Notificación push contextual (no spam)
+[  ] In-app message al volver tras inactividad
+[  ] Cuidado: la frontera entre engagement y manipulación es fina
+
+
+15.6 WIN-BACK
+[  ] Email automatizado cuando un usuario cancela
+[  ] Encuesta de salida (opcional, no obligatoria)
+[  ] Oferta de descuento si aplica
+[  ] Reactivación con un click
+
+
+15.7 HÁBITOS
+[  ] Diseñas para reforzar el uso recurrente legítimo
+[  ] Trigger > Action > Reward > Investment
+[  ] Sin oscuridad: streaks o badges solo si añaden valor real
+
+
+================================================================================
+16. INFRAESTRUCTURA Y DEVOPS
+================================================================================
+
+
+16.1 HOSTING
+[  ] Provider con buena reputación (Vercel, Netlify, Cloudflare,
+     AWS, GCP, Fly.io, Railway, Render)
+[  ] Multi-región si tu audiencia es global
+[  ] Auto-scaling configurado
+[  ] Costos monitoreados (alertas si se disparan)
+
+
+16.2 CDN
+[  ] Assets estáticos servidos por CDN
+[  ] Edge caching donde aplique
+[  ] Cache purge automático en deploy
+
+
+16.3 BASE DE DATOS
+[  ] Provider managed (Postgres en Supabase, Neon, RDS, etc.)
+[  ] Réplicas de lectura si tienes carga alta
+[  ] Connection pooling (PgBouncer)
+[  ] Backups automáticos diarios + retención mínima 30 días
+[  ] Restauración probada al menos una vez
+
+
+16.4 CI/CD
+[  ] Pipeline automatizado (GitHub Actions, GitLab CI, CircleCI)
+[  ] Lint + typecheck + tests + build en cada PR
+[  ] Deploy automático a staging desde main
+[  ] Deploy a producción manual o automático con criterios
+[  ] Preview deployments en cada PR
+[  ] Rollback en un click si algo falla
+
+
+16.5 ENTORNOS
+[  ] Local (cada dev)
+[  ] Development / Preview (cada PR)
+[  ] Staging (paridad con producción)
+[  ] Production
+[  ] Variables de entorno separadas por entorno
+
+
+16.6 SECRETS
+[  ] Manager dedicado (no en el repo)
+[  ] Rotación periódica
+[  ] Acceso por equipo (least privilege)
+
+
+16.7 MONITORING
+[  ] Uptime (ver sección 13)
+[  ] Performance (latencia, errores 5xx)
+[  ] Recursos (CPU, RAM, disco)
+[  ] Cuotas de proveedores (Stripe, OpenAI, etc.)
+
+
+16.8 INCIDENT RESPONSE
+[  ] Runbooks documentados
+[  ] On-call rotation (si tienes equipo)
+[  ] Post-mortem culture (sin culpas)
+[  ] Comunicación al usuario durante incidentes
+
+
+16.9 DISASTER RECOVERY
+[  ] RPO definido (cuánto datos puedes permitirte perder)
+[  ] RTO definido (cuánto tiempo de downtime aceptable)
+[  ] Plan de recuperación documentado y probado
+
+
+================================================================================
+17. CALIDAD DE CÓDIGO Y TESTING
+================================================================================
+
+
+17.1 LINTING Y FORMATTING
+[  ] ESLint / equivalente con reglas estrictas
+[  ] Prettier o equivalente para formato
+[  ] Pre-commit hook (lint-staged + husky)
+[  ] Enforce en CI
+
+
+17.2 TIPADO
+[  ] TypeScript strict mode
+[  ] Sin `any` salvo justificado y comentado
+[  ] Tipos derivados de modelos canónicos
+
+
+17.3 UNIT TESTS
+[  ] Lógica de negocio cubierta
+[  ] Utils críticos cubiertos
+[  ] Vitest / Jest configurado
+[  ] Tests rápidos (<10s para suite completa local)
+
+
+17.4 INTEGRATION TESTS
+[  ] Flujos de API end-to-end
+[  ] Mocks de proveedores externos
+
+
+17.5 E2E TESTS
+[  ] Flujos críticos cubiertos (signup, checkout, etc.)
+[  ] Playwright o Cypress
+[  ] Corren en CI antes de deploy
+
+
+17.6 ACCESSIBILITY TESTS
+[  ] axe-core en CI
+[  ] Tests manuales con teclado y screen reader periódicamente
+
+
+17.7 VISUAL REGRESSION
+[  ] Si la UI es central: Chromatic, Percy, Playwright snapshots
+[  ] Reviews automáticos de cambios visuales
+
+
+17.8 LOAD / STRESS TESTING
+[  ] Antes de lanzamientos grandes
+[  ] k6, Artillery, Locust
+[  ] Identificar bottlenecks
+
+
+17.9 SECURITY TESTS
+[  ] SAST en CI (CodeQL, Semgrep)
+[  ] Dependency scanning (Snyk, Dependabot)
+[  ] Pen test antes de lanzamientos B2B
+
+
+17.10 CODE REVIEW
+[  ] PRs revisados antes de merge (mínimo 1 aprobación)
+[  ] Plantilla de PR
+[  ] Checklist en cada PR
+[  ] PRs pequeños y focalizados (<400 líneas idealmente)
+
+
+================================================================================
+18. EQUIPO Y PROCESOS
+================================================================================
+
+
+18.1 DOCUMENTACIÓN
+[  ] README con setup local en menos de 5 pasos
+[  ] CONTRIBUTING.md
+[  ] CODE_OF_CONDUCT.md
+[  ] ARCHITECTURE.md describiendo decisiones clave
+[  ] ADRs (Architectural Decision Records) para decisiones grandes
+[  ] Onboarding doc para nuevos miembros
+
+
+18.2 GIT
+[  ] Convención de commits (Conventional Commits recomendado)
+[  ] Branch protection en main
+[  ] Squash merge o rebase merge (no merge commits)
+[  ] Tags / releases versionadas
+
+
+18.3 TASK MANAGEMENT
+[  ] Backlog claro (Linear, GitHub Issues, Jira)
+[  ] Prioridades visibles
+[  ] WIP limit (no 50 cosas a la vez)
+[  ] Definition of Done acordada
+
+
+18.4 COMUNICACIÓN
+[  ] Canales claros (qué va en Slack, qué en email, qué en docs)
+[  ] Decisiones documentadas, no solo habladas
+[  ] Async-first si el equipo es distribuido
+
+
+18.5 RITUALES
+[  ] Standup (diario o async)
+[  ] Retrospectivas (cada 2-4 semanas)
+[  ] Planning (semanal o quincenal)
+[  ] Demo a equipo / stakeholders (semanal o quincenal)
+
+
+18.6 ON-CALL
+[  ] Si tienes producto en producción con usuarios
+[  ] Rotación justa
+[  ] Compensación apropiada
+[  ] Runbooks por incidente
+
+
+================================================================================
+19. LEGAL Y NEGOCIO
+================================================================================
+
+
+19.1 ENTIDAD LEGAL
+[  ] Empresa registrada (SL, LLC, Inc., etc.)
+[  ] Cuenta bancaria de empresa
+[  ] Asesor fiscal
+
+
+19.2 CONTRATOS
+[  ] Términos de servicio
+[  ] Política de privacidad
+[  ] Cookie policy si aplica
+[  ] DPA con clientes B2B
+[  ] SLA si vendes B2B
+[  ] Acuerdos con freelancers / contratistas
+
+
+19.3 PROPIEDAD INTELECTUAL
+[  ] Código bajo control (asignación de IP por contratistas)
+[  ] Marca registrada (cuando tenga sentido)
+[  ] Dominios principales asegurados (.com, variantes locales)
+[  ] Cuentas en redes con el handle de marca
+
+
+19.4 PAGOS
+[  ] Provider compliance (Stripe, Paddle, LemonSqueezy)
+[  ] Manejo de impuestos automático (IVA por país)
+[  ] Recibos / facturas legales
+[  ] Período de retención de transacciones
+
+
+19.5 SEGUROS
+[  ] Responsabilidad profesional
+[  ] Cyber-insurance (si manejas datos sensibles)
+
+
+19.6 DOMINIO Y EMAIL
+[  ] Dominio renovado por años por delante
+[  ] Auto-renew activo
+[  ] DNS protegido (Cloudflare con 2FA)
+[  ] Email corporativo (Google Workspace, Fastmail)
+[  ] DKIM, SPF, DMARC
+
+
+================================================================================
+20. CHECKLIST PRE-LAUNCH
+================================================================================
+
+Antes de hacer público el producto, verifica:
+
+
+20.1 PRODUCTO
+[  ] El flujo principal funciona end-to-end sin errores
+[  ] Todos los CTAs llevan a algún sitio (sin "Coming soon" en CTAs)
+[  ] Mensajes de éxito y error revisados
+[  ] Copywriting revisado por alguien que no es el dev
+
+
+20.2 TÉCNICO
+[  ] Build de producción funciona
+[  ] Performance: Lighthouse > 90 en todas las categorías
+[  ] Sin console.errors en navegador
+[  ] Sin warnings de React (key, deprecated APIs)
+[  ] HTTPS funcionando
+[  ] Cabeceras de seguridad configuradas
+[  ] Sourcemaps en producción protegidos
+
+
+20.3 OBSERVABILIDAD
+[  ] Sentry / equivalente recibiendo errores
+[  ] Analytics enviando eventos
+[  ] Uptime monitor configurado
+[  ] Alertas activas
+
+
+20.4 DATOS
+[  ] Backups automáticos verificados
+[  ] Restore probado al menos una vez
+[  ] Migrations aplicadas en producción
+
+
+20.5 SEO
+[  ] Sitemap accesible
+[  ] robots.txt correcto
+[  ] Open Graph image generada
+[  ] Página verificada en Google Search Console
+
+
+20.6 LEGAL
+[  ] Términos de uso publicados
+[  ] Política de privacidad publicada
+[  ] Cookie banner si aplica
+[  ] Derechos GDPR funcionando (export, delete)
+
+
+20.7 PAGOS (SI APLICA)
+[  ] Compra de prueba en modo producción
+[  ] Webhook de Stripe / equivalente recibiendo eventos
+[  ] Reembolso probado
+[  ] Recibos llegando
+
+
+20.8 EMAIL
+[  ] Email de bienvenida llega
+[  ] Recuperación de contraseña funciona
+[  ] No clasifican como spam (verificar en Gmail, Outlook)
+[  ] Unsubscribe funciona
+
+
+20.9 DISPOSITIVOS
+[  ] Probado en iPhone real (no solo emulador)
+[  ] Probado en Android real
+[  ] Probado en al menos 2 navegadores en desktop
+[  ] Probado en pantalla pequeña (320px)
+[  ] Probado en conexión lenta (3G en DevTools)
+
+
+20.10 USABILIDAD
+[  ] 3-5 personas externas hicieron el flujo principal
+[  ] Sin bloqueos identificados
+[  ] Feedback incorporado
+
+
+20.11 SOPORTE
+[  ] Email de soporte funcionando
+[  ] FAQ con dudas comunes
+[  ] Plantillas de respuesta listas
+
+
+20.12 COMUNICACIÓN DE LANZAMIENTO
+[  ] Landing page final
+[  ] Post de anuncio (blog, Twitter, LinkedIn, Product Hunt si aplica)
+[  ] Email a lista de espera
+[  ] Materiales gráficos (screenshots, video demo)
+
+
+================================================================================
+21. CHECKLIST POST-LAUNCH
+================================================================================
+
+Lo que se monitoriza activamente las primeras semanas:
+
+
+21.1 PRIMERAS 24 HORAS
+[  ] Monitorear errores en Sentry cada hora
+[  ] Verificar que los signups completan
+[  ] Verificar pagos exitosos
+[  ] Responder rápido a soporte
+[  ] Alertas de performance
+
+
+21.2 PRIMERA SEMANA
+[  ] Métricas de activación
+[  ] Tasa de signup > primera acción
+[  ] Bugs reportados clasificados por severidad
+[  ] Hotfixes deployados rápido (con calma, no precipitarse)
+[  ] Feedback recolectado en un único sitio
+
+
+21.3 PRIMER MES
+[  ] Retención D1, D7
+[  ] Patrones de abandono identificados
+[  ] Top 5 issues a resolver
+[  ] Roadmap iterado con datos reales
+[  ] Post-mortem del lanzamiento (qué salió bien, qué no)
+
+
+21.4 ITERACIÓN
+[  ] Releases pequeños y frecuentes (mejor que grandes y raros)
+[  ] Cada release con changelog
+[  ] Comunicación a usuarios sobre mejoras
+[  ] Encuestas de NPS / CSAT periódicas
+
+
+================================================================================
+22. EVOLUCIÓN A LARGO PLAZO
+================================================================================
+
+
+22.1 DEUDA TÉCNICA
+[  ] Inventario consciente (no solo "hay que refactorizar todo")
+[  ] 10-20% del tiempo de cada sprint para deuda
+[  ] Priorización por impacto, no por antigüedad
+
+
+22.2 EXPERIMENTACIÓN
+[  ] Cultura de hipótesis > implementación > medición
+[  ] No todo cambio es un experimento, pero los grandes sí
+
+
+22.3 SUNSET DE FEATURES
+[  ] Aviso al usuario con tiempo
+[  ] Migración guiada
+[  ] No ser nostálgico con features no usadas
+
+
+22.4 ESCALA TÉCNICA
+[  ] Re-arquitecturas planificadas, no emergentes
+[  ] Métricas que digan cuándo es el momento (latencia, errores)
+
+
+22.5 ESCALA DE EQUIPO
+[  ] Procesos que aguanten 2x el equipo actual
+[  ] Documentación que sobreviva a la rotación
+[  ] Onboarding cada vez más corto
+
+
+22.6 EVOLUCIÓN DE PRECIO
+[  ] Grandfathering para early adopters
+[  ] Comunicación clara de cambios
+[  ] Valor demostrable para subir precios
+
+
+22.7 EXIT / CONTINUIDAD
+[  ] Plan si el founder se va
+[  ] Plan si la empresa cierra (export de datos para usuarios)
+[  ] Compromiso ético con los usuarios
+
+
+================================================================================
+APÉNDICE A — RESUMEN ULTRA-COMPRIMIDO
+================================================================================
+
+Si solo pudieras cuidar 10 cosas, estas:
+
+ 1. UNA propuesta de valor clarísima
+ 2. UN trabajo principal hecho excelentemente
+ 3. Tiempo al primer valor menor a 60 segundos
+ 4. Una razón clara para volver mañana
+ 5. Los 4 estados (vacío, cargando, error, éxito) implementados
+ 6. Mobile-first y accesible
+ 7. Performance: < 3s primera carga, < 100ms interacción
+ 8. Persistencia robusta: nada se pierde
+ 9. Errores nunca rompen la app: degradación elegante
+10. Una métrica de éxito que dice si está funcionando
+
+
+================================================================================
+APÉNDICE B — HERRAMIENTAS RECOMENDADAS POR CATEGORÍA
+================================================================================
+
+DISEÑO
+  Figma, Penpot
+
+SISTEMA DE DISEÑO
+  Storybook, Tailwind CSS, shadcn/ui, Radix UI
+
+FRAMEWORKS WEB
+  React + Vite, Next.js, Astro, SvelteKit, SolidStart, Remix
+
+MOBILE
+  React Native, Expo, Flutter
+
+BACKEND
+  Node.js + Hono/Fastify, Bun, Deno, Go, Rust (Axum), Python (FastAPI)
+
+BASE DE DATOS
+  PostgreSQL (Supabase, Neon, RDS), SQLite (Turso), MongoDB
+
+AUTH
+  Clerk, Auth0, Supabase Auth, Firebase Auth, Lucia, Better-Auth
+
+PAGOS
+  Stripe, Paddle (manejan IVA), LemonSqueezy
+
+EMAIL
+  Resend, Postmark, SendGrid, AWS SES
+
+ANALYTICS
+  PostHog, Mixpanel, Amplitude, Plausible (privacy-first), Umami
+
+ERRORES
+  Sentry, Bugsnag, Rollbar, Highlight
+
+UPTIME
+  Better Stack, UptimeRobot, Pingdom, Statuspage
+
+LOGS
+  Datadog, Better Stack, Grafana Loki, Axiom
+
+HOSTING
+  Vercel, Netlify, Cloudflare Pages, Fly.io, Railway, Render, AWS
+
+CDN
+  Cloudflare, Fastly, BunnyCDN
+
+CI/CD
+  GitHub Actions, GitLab CI, CircleCI
+
+FEATURE FLAGS
+  PostHog, LaunchDarkly, Unleash, Statsig, GrowthBook
+
+TESTING
+  Vitest, Jest, Playwright, Cypress, Testing Library
+
+SECURITY
+  Snyk, Dependabot, Semgrep, CodeQL, gitleaks
+
+SECRETS
+  Doppler, 1Password CLI, AWS Secrets Manager, HashiCorp Vault
+
+A/B TESTING
+  PostHog, Statsig, GrowthBook
+
+SOPORTE / HELP CENTER
+  Intercom, Crisp, Plain, Help Scout, Notion
+
+STATUS PAGE
+  Statuspage.io, Instatus, BetterStack Status
+
+
+================================================================================
+FIN DEL DOCUMENTO
+================================================================================
+
+Este checklist es vivo: imprímelo, márcalo, ignora lo que no aplique a tu
+producto, añade lo que tu contexto requiera.
+
+La regla de oro: la claridad antes que las features, siempre.
