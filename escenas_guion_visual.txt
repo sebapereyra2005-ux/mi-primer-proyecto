@@ -1,0 +1,1161 @@
+═══════════════════════════════════════════════════════════════════════════════
+GUIÓN VISUAL — 167 ESCENAS
+"MESSI EN EL REAL MADRID — EL PERIODISTA QUE CAMBIÓ LA HISTORIA"
+Estilo: Clean 2D cartoon animation, Kurzgesagt-inspired · Bold clean outlines · flat colors · subtle soft directional lighting · simple shadows · stylized proportions · expressive but simple facial features · backgrounds with depth and atmospheric layers · cinematic camera movement in every scene · never photorealistic · never 3D · never anime · never Arcane.
+Formato por escena: imagen estática 16:9 · 1920×1080px · frame central representativo de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+═══════════════════════════════════════════════════════════════════════════════
+
+PRIMER BLOQUE — ESCENAS 1 A 56 (de 167)
+───────────────────────────────────────────────────────────────────────────────
+
+═══ ESCENA 1 — [00:00:00 — 00:00:05] | TEMA: gol del minuto 89, celebración esquina culé ═══
+CÁMARA: slow pull back · low angle shot.
+PERSONAJES: Messi — cabeza grande caricaturesca desproporcionada al cuerpo, cabello castaño oscuro #3B2314 corto en lados con volumen y peinado hacia arriba, barba corta y poblada #3B2314 cubriendo mentón y mandíbula, piel morena clara #C68642, cejas medianas oscuras, ojos pequeños cerrados en celebración, tatuajes negros y grises florales/geométricos en ambos brazos, tatuaje en pantorrilla derecha. Camiseta Real Madrid blanca #FFFFFF con ribete fino lila #7B68EE en cuello y mangas, logo adidas dorado #C9A84C tres barras en pecho izquierdo, escudo Real Madrid circular dorado/blanco en pecho derecho, "Emirates" azul marino #0A1172 centro pecho, "FLY BETTER" debajo más pequeño. Pantalón corto blanco con logo Real Madrid pequeño pierna izquierda. Medias blancas con tres franjas horizontales lila #7B68EE arriba. Botines blancos adidas suela negra. Altura baja, proporciones compactas. MANOS: brazos abiertos lateralmente, palmas hacia arriba, dedos extendidos.
+AUDIO 3 CAPAS — [Fondo]: rugido sordo y compacto de 80.000 personas en silencio incómodo en tribuna culé del Bernabéu — muchedumbre que retiene el aire. [Acción]: pasos del jugador frenando sobre césped húmedo, respiración agitada del esfuerzo. [Detalle]: golpe seco aislado de un bombo lejano en grada visitante.
+(1) PALETA OBLIGATORIA: verde césped #2D7A2D · luces estadio #FFF8E7 · azul noche profundo #0D1B3E · masa de tribunas #1A1A2E con destellos blancos pequeños. SIN colores fuera de paleta. SIN rosa, naranja neón, verde limón ni saturación >90%.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo, ni Xavi, ni el utilero, ni libreta, ni bolígrafo, ni texto numérico de marcador. PROHIBIDO SIEMPRE: no narration gestures, no character looking or pointing at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth open as if speaking to camera or narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 1: opening scene, no previous scene.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 1: Messi nivel 3 final Champions presente — cuerpo en movimiento post-gol, brazos abiertos, ojos cerrados en celebración, boca levemente abierta en grito mudo, camiseta empapada de sudor visible en pecho, medias con manchas leves de césped.
+(7) DIRECCIÓN DE LUZ — ESCENA 1: noche · luz artificial intensa de estadio desde upper-left · color #D0E8FF blanco-azulado · sombras largas hacia la derecha sobre el césped · Bloque 1 de progresión.
+(8) MOVIMIENTO EN FRAME — ESCENA 1: camiseta ondeando levemente por inercia de la corrida, partículas microscópicas de césped flotando alrededor de los pies, cabello vibrando por viento del corrido, masa de tribuna culé respirando lentamente como un solo organismo.
+(9) JERARQUÍA VISUAL — ESCENA 1: ELEMENTO DOMINANTE: Messi en primer plano. Tribunas de fondo subordinadas — masa difuminada y desaturada. Césped base subordinado.
+(10) PROPORCIÓN EN FRAME: medium shot — Messi ocupa aproximadamente 1/2 de la altura del frame.
+(11) DIRECCIÓN DE MIRADA: looking up — ojos cerrados, cara hacia el cielo nocturno.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina levemente — el momento le pertenece a Messi.
+(14) CONTEXTO DE ESCENA (NO VISUAL — solo referencia para Claude): "Final de Champions League. Minuto 89. Messi acaba de destruir al Barcelona"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+
+═══ ESCENA 2 — [00:00:05 — 00:00:10] | TEMA: el periodista que hizo que esto existiera ═══
+CÁMARA: slow push in · over the shoulder shot.
+PERSONAJES: El Periodista — cabeza perfectamente circular grande, color blanco puro #FFFFFF sin textura de piel, superficie lisa. Cejas gruesas oscuras fruncidas hacia el centro generando expresión de carga. Ojos pequeños oscuros hundidos bajo las cejas. Boca pequeña recta. Sin cabello — cabeza completamente lisa. Piel del cuerpo blanca #FFFFFF. Altura media, cabeza notablemente grande respecto al cuerpo. Blazer texturado verde azulado oscuro #3D6B6B con solapa pronunciada y dos botones visibles, camisa interior gris medio #8A8A8A con cuello abierto sin corbata. Cinturón marrón oscuro #5C3317. Pantalón gris oscuro #5A5A5A corte recto. Zapatos cuero marrón rojizo #7B3F00. Credencial de prensa rectangular blanca borde negro fino con texto pequeño ilegible y foto diminuta simulada, prendida en bolsillo superior izquierdo del blazer. MANOS: blancas #FFFFFF, mano derecha sosteniendo bolígrafo negro cilíndrico delgado #1A1A1A, dedos curvados alrededor del objeto; mano izquierda apoyada sobre la libreta negra A5 cerrada.
+AUDIO 3 CAPAS — [Fondo]: zumbido grave de aire acondicionado de cabina de prensa, eco lejano y amortiguado de los 80.000 hinchas tras el cristal. [Acción]: respiración contenida del periodista, leve crujido de tela del blazer al moverse. [Detalle]: tac-tac casi imperceptible del bolígrafo golpeando la mesa una sola vez.
+(1) PALETA OBLIGATORIA: vidrio reflejo azul oscuro #0D1B3E, interior cabina iluminación fría #E8F0FF, mesa #4A4A4A, fondo #1A1A2E, blazer periodista #3D6B6B, piel periodista #FFFFFF. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi en frame, ni Ronaldo, ni Xavi, ni utilero, ni multitudes detalladas. PROHIBIDO SIEMPRE: no narration gestures, no character looking/pointing at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth open as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 2: la escena anterior mostró a Messi celebrando su gol del minuto 89 en la esquina culé del Bernabéu — el ruido de ese gol llega amortiguado a esta cabina.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 1 (El Periodista).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 2: El Periodista nivel 1 carga inicial — postura erguida pero rígida, hombros levemente tensos, cejas fruncidas al máximo, boca recta sin curva, ropa limpia, credencial visible, bolígrafo en mano. Tensión contenida.
+(7) DIRECCIÓN DE LUZ — ESCENA 2: noche · luz fría azul-blanca #E8F0FF cenital ligeramente upper-left · sombras cortas hacia la derecha · Bloque 1 de progresión.
+(8) MOVIMIENTO EN FRAME — ESCENA 2: humo lento de aire acondicionado moviéndose en franja cenital, leve temblor de la mano del periodista sobre el bolígrafo, pequeño parpadeo del único ojo visible en perfil.
+(9) JERARQUÍA VISUAL — ESCENA 2: ELEMENTO DOMINANTE: El Periodista en primer plano (cabeza redonda blanca como masa visual). Subordinados: cristal con reflejo del campo, mesa con laptops apagadas, fondo de cabina.
+(10) PROPORCIÓN EN FRAME: medium shot — El Periodista ocupa 1/2 del frame, cuerpo desde el cinturón hacia arriba.
+(11) DIRECCIÓN DE MIRADA: looking toward horizon — mirada baja hacia el cristal y el campo, sin enfocar nada concreto.
+(12) TRANSICIÓN DE SALIDA: MATCH CUT (la cabeza redonda blanca empata con la pelota blanca y negra de la siguiente escena).
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina — la cabina de prensa aplasta visualmente al periodista.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "con la camiseta del Real Madrid y tú eres el periodista que hizo que eso existiera. Minuto"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 3 — [00:00:10 — 00:00:15] | TEMA: minuto 12, asistencia de Messi ═══
+CÁMARA: slow push in · bird's eye view.
+PERSONAJES: Messi — cabeza grande caricaturesca, cabello castaño oscuro #3B2314 corto en lados con volumen arriba, barba poblada #3B2314, piel morena clara #C68642, ojos pequeños expresivos enfocados, tatuajes negros y grises en ambos brazos, tatuaje en pantorrilla derecha. Camiseta Real Madrid blanca #FFFFFF con ribete lila #7B68EE en cuello/mangas, logo adidas dorado #C9A84C tres barras pecho izquierdo, escudo Real Madrid pecho derecho, "Emirates" #0A1172 centro pecho, "FLY BETTER" debajo. Pantalón corto blanco con logo Real Madrid pequeño pierna izquierda. Medias blancas con tres franjas lila #7B68EE arriba. Botines blancos adidas suela negra. MANOS: brazos extendidos lateralmente para equilibrio mientras gira el torso, dedos abiertos. Pie derecho terminando un pase rasante.
+AUDIO 3 CAPAS — [Fondo]: rumor masivo del Bernabéu en estado de alerta colectiva, sonido oceánico de 80.000 voces sostenidas. [Acción]: golpe seco del botín contra la pelota, fricción del césped, pasos rápidos de jugadores cercanos. [Detalle]: silbido fino del aire que separa el balón del pie en el momento del pase.
+(1) PALETA OBLIGATORIA: verde césped #2D7A2D · luces #FFF8E7 · azul noche #0D1B3E · masa tribunas #1A1A2E con destellos blancos pequeños · líneas blancas del campo #F5F5F5. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo en frame, ni Xavi, ni utilero, ni libreta. Sin marcador numérico visible. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 3: la escena anterior mostró al periodista en la cabina de prensa con bolígrafo en mano; ahora la cámara salta al campo recordando el primer momento clave del partido.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 3: Messi nivel 3 — concentración absoluta, postura de movimiento explosivo, expresión neutra-intensa, camiseta limpia (minuto 12 todavía).
+(7) DIRECCIÓN DE LUZ — ESCENA 3: noche · luz artificial estadio upper-left · #D0E8FF blanco-azulado · sombras largas y nítidas a la derecha · Bloque 1.
+(8) MOVIMIENTO EN FRAME — ESCENA 3: pelota cruzando el frame en línea recta, briznas de césped saltando bajo el pie, sombra del jugador desplazándose con la cámara cenital, masa de tribuna respirando lentamente.
+(9) JERARQUÍA VISUAL — ESCENA 3: ELEMENTO DOMINANTE: la trayectoria del balón sobre el césped vista desde arriba (línea blanca implícita). Subordinado: Messi en plano superior, jugadores periféricos como siluetas grises difuminadas.
+(10) PROPORCIÓN EN FRAME: wide shot — Messi ocupa 1/4 de la altura del frame, el campo y el área dominan.
+(11) DIRECCIÓN DE MIRADA: looking right — Messi sigue con la vista la trayectoria del balón hacia el delantero invisible.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado — el campo entero participa de la jugada.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "12. Había asistido. Minuto 31. Había pegado en el palo. Minuto"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+═══ ESCENA 4 — [00:00:15 — 00:00:20] | TEMA: minuto 31, palo y minuto 57 portero salva ═══
+CÁMARA: slow pull back · side profile shot.
+PERSONAJES: Messi — cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba #3B2314, piel #C68642, ojos pequeños fijos en el arco con frustración contenida, tatuajes en ambos brazos. Camiseta Real Madrid blanca #FFFFFF, ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172 / "FLY BETTER". Pantalón corto blanco. Medias blancas franjas lila. Botines blancos adidas. MANOS: puños levemente cerrados a los costados, brazos rígidos por la frustración del palo.
+AUDIO 3 CAPAS — [Fondo]: explosión sonora del Bernabéu interrumpida en seco al ver el palo. [Acción]: golpe metálico hueco del balón contra el palo, rebote sobre el césped. [Detalle]: respiración contenida en miles de gargantas y un único "ohhh" colectivo amortiguado.
+(1) PALETA OBLIGATORIA: verde césped #2D7A2D · luces #FFF8E7 · azul noche #0D1B3E · masa tribunas #1A1A2E · poste blanco #F5F5F5 reflejando luz del estadio · red blanca difusa #E0E0E0. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo identificable, ni Xavi, ni libreta. Sin marcador. PROHIBIDO SIEMPRE: no narration gestures, no character at camera, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 4: la escena anterior mostró la asistencia del minuto 12 desde vista cenital; ahora condensamos el minuto 31 con el balón pegando en el palo.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 4: Messi nivel 3 — postura tensa, leve inclinación hacia adelante, mandíbula apretada, ojos abiertos fijos en el palo, camiseta levemente arrugada por la acción previa.
+(7) DIRECCIÓN DE LUZ — ESCENA 4: noche · luz artificial estadio upper-left · #D0E8FF blanco-azulado · sombras largas a la derecha · Bloque 1.
+(8) MOVIMIENTO EN FRAME — ESCENA 4: pelota rebotando del palo en cámara lenta, vibración del poste tras el impacto, polvo levantándose del área pequeña, red ondeando levemente.
+(9) JERARQUÍA VISUAL — ESCENA 4: ELEMENTO DOMINANTE: el palo blanco vibrando con la pelota rebotando junto a él. Subordinado: Messi en plano medio lateral, arco de fondo desenfocado.
+(10) PROPORCIÓN EN FRAME: medium shot — Messi y el palo comparten el frame, Messi ocupa 1/2 de la altura del frame.
+(11) DIRECCIÓN DE MIRADA: looking right — fija en el palo y la pelota saliendo.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "57. Había gambeteado a tres y el portero le había sacado un gol cantado con la punta"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+
+═══ ESCENA 5 — [00:00:20 — 00:00:25] | TEMA: minuto 57, portero saca con la punta de los dedos ═══
+CÁMARA: slow push in · POV shot (POV del portero rival viendo el remate de Messi acercarse).
+PERSONAJES: ningún personaje visible en frame — POV rule. Solo se ve la pelota blanco/negro #FFFFFF/#1A1A1A girando en el aire hacia el frame, una mano enguantada azul intenso #1F3A93 entrando desde el borde inferior con dedos extendidos punteros (mano del portero rival, no individualizada). Pelota: esférica, paneles pentagonales y hexagonales, aprox. 1/8 de la altura humana implícita.
+AUDIO 3 CAPAS — [Fondo]: estadio en silencio expectante de medio segundo, contraste con el rugido previo. [Acción]: zumbido del balón rotando velozmente, raspón del guante de portero contra el cuero del balón. [Detalle]: el silbido fino de la trayectoria desviándose por milímetros.
+(1) PALETA OBLIGATORIA: verde césped #2D7A2D fondo difuminado · azul noche #0D1B3E borde superior · pelota #FFFFFF/#1A1A1A · guante azul #1F3A93 · luces #FFF8E7. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi en frame (POV rule — solo lo que ve el portero), ni El Periodista, ni Ronaldo, ni Xavi. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 5: la escena anterior mostró la pelota rebotando contra el palo en el minuto 31; ahora pasamos al remate del minuto 57 desde la perspectiva del arquero rival.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: ninguna (POV shot — sin personaje visible).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 5: tensión absoluta del momento expresada por la cercanía del balón al frame y la viñeta lateral oscura.
+(7) DIRECCIÓN DE LUZ — ESCENA 5: noche · luz upper-left · #D0E8FF · sombras a la derecha de la pelota · Bloque 1.
+(8) MOVIMIENTO EN FRAME — ESCENA 5: pelota rotando hacia el ojo de la cámara, guante alargándose desde el borde inferior izquierdo, motion blur radial leve en bordes del frame.
+(9) JERARQUÍA VISUAL — ESCENA 5: ELEMENTO DOMINANTE: la pelota en centro de frame. Subordinado: el guante extendido entrando, fondo verde difuminado.
+(10) PROPORCIÓN EN FRAME: POV shot — sin personaje visible, viñeta oscura en bordes simulando visión periférica humana.
+(11) DIRECCIÓN DE MIRADA: looking at the ball — POV directa hacia el balón en aproximación.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje mínimo (POV — sin personaje en frame, el balón es el sujeto).
+(14) CONTEXTO DE ESCENA (NO VISUAL): "de los dedos. Minuto 89. No hubo portero que alcanzara. Corrió directo"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+═══ ESCENA 6 — [00:00:25 — 00:00:30] | TEMA: minuto 89, gol decisivo, Messi corre hacia tribuna culé ═══
+CÁMARA: slow pull back · low angle shot.
+PERSONAJES: Messi — cabeza grande caricaturesca, cabello castaño oscuro #3B2314 corto en lados con volumen arriba, barba poblada #3B2314, piel #C68642, ojos pequeños abiertos al máximo en el instante posterior al disparo, tatuajes negros y grises en ambos brazos, tatuaje en pantorrilla derecha. Camiseta Real Madrid blanca #FFFFFF con ribete lila #7B68EE, logo adidas dorado #C9A84C tres barras pecho izquierdo, escudo Real Madrid pecho derecho, "Emirates" #0A1172 / "FLY BETTER" centro pecho. Pantalón corto blanco con logo Real Madrid pequeño pierna izquierda. Medias blancas con franjas lila. Botines blancos adidas. MANOS: brazos comenzando a abrirse hacia los costados, dedos extendidos, en transición de disparo a celebración.
+AUDIO 3 CAPAS — [Fondo]: silencio aspirado de medio segundo del Bernabéu antes de explotar — vacío sonoro denso. [Acción]: golpe limpio del botín izquierdo contra el balón, fricción del césped en el frenado posterior. [Detalle]: roce del aire al moverse el cuerpo en aceleración.
+(1) PALETA OBLIGATORIA: verde césped #2D7A2D · luces #FFF8E7 · azul noche #0D1B3E · tribunas #1A1A2E con destellos blancos · líneas blancas campo #F5F5F5. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo en frame (es jugada individual de Messi), ni Xavi, ni libreta. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 6: la escena anterior mostró el remate del minuto 57 salvado por el portero (POV); ahora saltamos al minuto 89 con el remate definitivo entrando.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 6: Messi nivel 3 — explosión emocional inminente, cuerpo torsionado al máximo tras el remate, expresión de descarga, camiseta empapada visible.
+(7) DIRECCIÓN DE LUZ — ESCENA 6: noche · luz upper-left intensa · #D0E8FF · sombras largas a la derecha · Bloque 1.
+(8) MOVIMIENTO EN FRAME — ESCENA 6: balón saliendo del frame hacia la red en velocidad alta con motion blur, pies del jugador iniciando la corrida hacia la tribuna, polvo de césped levantándose, camiseta ondeando.
+(9) JERARQUÍA VISUAL — ESCENA 6: ELEMENTO DOMINANTE: Messi en primer plano contraluz. Subordinado: tribunas culé apenas distinguibles al fondo, área del arco a la izquierda fuera de foco.
+(10) PROPORCIÓN EN FRAME: medium shot — Messi ocupa 1/2 del frame, contrapicado.
+(11) DIRECCIÓN DE MIRADA: looking toward horizon — vista fija hacia la tribuna culé en el extremo opuesto.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "hacia la tribuna culé. Los brazos abiertos, la cara hacia arriba. 80.000"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+
+═══ ESCENA 7 — [00:00:30 — 00:00:35] | TEMA: brazos abiertos cara hacia arriba, 80.000 personas de pie ═══
+CÁMARA: slow push in · frontal shot.
+PERSONAJES: Messi — cabeza grande caricaturesca desproporcionada, cabello castaño oscuro #3B2314, barba poblada #3B2314, piel #C68642, ojos cerrados, boca levemente abierta en grito mudo, tatuajes en ambos brazos completamente visibles. Camiseta Real Madrid blanca #FFFFFF, ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172 / "FLY BETTER". Pantalón corto blanco. Medias blancas con franjas lila. Botines blancos adidas. MANOS: brazos completamente abiertos lateralmente formando una cruz, palmas hacia arriba, dedos extendidos al máximo. Multitud de fondo: 80.000 figuras simplificadas en tribuna, masa compacta uniforme, siluetas en gris oscuro y azul oscuro, sin individualizar, dispuestas en gradiente vertical de tribunas.
+AUDIO 3 CAPAS — [Fondo]: rugido oceánico estallando del Bernabéu en su clímax — sonido continuo y compacto. [Acción]: pasos finales del jugador frenando, respiración agitada, tela de la camiseta tirante por la apertura de brazos. [Detalle]: un único bombo culé en la distancia tocando lentamente, casi inaudible bajo el rugido.
+(1) PALETA OBLIGATORIA: verde césped #2D7A2D · luces #FFF8E7 · azul noche #0D1B3E · tribunas #1A1A2E + destellos blancos pantallas móvil pequeños. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo, ni Xavi, ni libreta. Sin marcador. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 7: la escena anterior mostró el momento del remate y arranque de la corrida; ahora Messi llega a la esquina con brazos abiertos.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 7: Messi nivel 3 — liberación absoluta, brazos abiertos en cruz, cara hacia el cielo, camiseta empapada, postura de descarga emocional total.
+(7) DIRECCIÓN DE LUZ — ESCENA 7: noche · luz upper-left de torre de iluminación · #D0E8FF · sombras largas a la derecha · contraluz parcial sobre la espalda · Bloque 1.
+(8) MOVIMIENTO EN FRAME — ESCENA 7: tribuna entera ondulándose lentamente como un solo cuerpo, miles de pequeños puntos de luz vibrando (móviles), camiseta levemente ondeando, pelo del jugador en el aire.
+(9) JERARQUÍA VISUAL — ESCENA 7: ELEMENTO DOMINANTE: Messi con brazos abiertos en cruz centrado en frame. Subordinado: masa de tribuna culé de fondo, difuminada y desaturada.
+(10) PROPORCIÓN EN FRAME: medium shot — Messi ocupa 1/2 del frame.
+(11) DIRECCIÓN DE MIRADA: looking up — cara hacia el cielo nocturno, ojos cerrados.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina — ocupa el centro emocional del frame.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "personas de pie. Y él eligió exactamente esa esquina. La única esquina del estadio donde"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+═══ ESCENA 8 — [00:00:35 — 00:00:40] | TEMA: la única esquina donde nadie lo quería ver, gritó ═══
+CÁMARA: slow pull back · close-up shot.
+PERSONAJES: Messi — cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba poblada #3B2314, piel #C68642, ojos abiertos ahora, mirada directa hacia la masa de tribuna, boca abierta en grito sostenido, gotas de sudor en frente. Tatuajes negros y grises en ambos brazos visibles. Camiseta Real Madrid blanca #FFFFFF con ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172 / "FLY BETTER". MANOS: brazos abiertos lateralmente, pero ahora con dedos curvándose como si agarraran el aire — tensión muscular máxima.
+AUDIO 3 CAPAS — [Fondo]: rugido sostenido y comprimido — la esquina culé en silencio de odio mientras el resto del estadio explota. [Acción]: grito gutural del jugador, respiración entrecortada. [Detalle]: tela de la camiseta crujiendo por la tensión de la apertura de brazos.
+(1) PALETA OBLIGATORIA: verde césped #2D7A2D fondo desenfocado · azul noche #0D1B3E · tribunas culé #1A1A2E como masa hostil · camiseta blanca #FFFFFF · piel #C68642. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo, ni Xavi, ni libreta. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles. La boca abierta de Messi NO es narración hacia el espectador — es un grito de gol orientado a la tribuna culé que está a su izquierda fuera del frame, no a la cámara.
+(3) CONTINUIDAD NARRATIVA — ESCENA 8: la escena anterior mostró a Messi con brazos abiertos llegando a la esquina; ahora close-up del rostro en el grito sostenido.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 8: Messi nivel 3 — clímax emocional, expresión de catarsis, cuello tensionado, mandíbula trabajada.
+(7) DIRECCIÓN DE LUZ — ESCENA 8: noche · luz upper-left fuerte · #D0E8FF · brillo en gotas de sudor · sombras nítidas en mejillas · Bloque 1.
+(8) MOVIMIENTO EN FRAME — ESCENA 8: gota de sudor cayendo desde la sien, vapor sutil saliendo de la boca por el esfuerzo, fondo de tribuna con micromovimiento de siluetas.
+(9) JERARQUÍA VISUAL — ESCENA 8: ELEMENTO DOMINANTE: el rostro de Messi con la boca abierta. Subordinado: tribuna culé difuminada al fondo izquierdo, fuera de foco.
+(10) PROPORCIÓN EN FRAME: close-up — rostro y hombros ocupan 3/4 del frame, fondo abstracto.
+(11) DIRECCIÓN DE MIRADA: looking left — Messi mira hacia la masa culé fuera de frame, no a la cámara.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "nadie lo quería ver. Se paró ahí y gritó. Estás en la cabina de prensa,"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+
+═══ ESCENA 9 — [00:00:40 — 00:00:45] | TEMA: cabina de prensa, periodista paralizado ═══
+CÁMARA: slow push in · over the shoulder shot (sobre el hombro derecho del periodista hacia la libreta y el cristal).
+PERSONAJES: El Periodista — cabeza perfectamente circular blanco puro #FFFFFF sin textura. Cejas gruesas oscuras fruncidas al máximo, ojos pequeños oscuros hundidos. Boca pequeña recta. Sin cabello. Piel del cuerpo blanca #FFFFFF. Blazer texturado verde azulado oscuro #3D6B6B con solapa pronunciada y dos botones, camisa interior gris medio #8A8A8A cuello abierto sin corbata, cinturón marrón oscuro #5C3317, pantalón gris oscuro #5A5A5A, zapatos cuero marrón rojizo #7B3F00. Credencial de prensa rectangular blanca borde negro fino con texto pequeño ilegible y foto diminuta simulada en bolsillo superior izquierdo. MANOS: blancas #FFFFFF, mano derecha sosteniendo bolígrafo negro cilíndrico delgado #1A1A1A con dedos curvados; mano izquierda apoyada plana sobre la libreta negra A5 abierta en una página completamente en blanco #FFFFF0 con líneas horizontales grises finas.
+AUDIO 3 CAPAS — [Fondo]: rugido del Bernabéu amortiguado tras el cristal de la cabina, zumbido grave del aire acondicionado. [Acción]: respiración pausada del periodista, leve crujido de tela del blazer. [Detalle]: clic del botón superior del bolígrafo siendo presionado y soltado.
+(1) PALETA OBLIGATORIA: cristal con reflejo azul oscuro #0D1B3E del campo · interior cabina iluminación fría #E8F0FF · mesa #4A4A4A · fondo #1A1A2E · blazer #3D6B6B · libreta negra #1A1A1A · página interior #FFFFF0. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi en frame, ni Ronaldo, ni Xavi, ni utilero. La acción del estadio queda fuera del cristal — no se ve detalle. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 9: la escena anterior cerró el grito de Messi en la esquina culé; ahora la cámara salta a la cabina donde el periodista debe escribir y no puede.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 1 (El Periodista).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 9: El Periodista nivel 1 — postura erguida pero rígida, hombros tensos, cabeza ligeramente inclinada hacia la libreta, cejas fruncidas, expresión de carga. Ropa limpia, credencial visible.
+(7) DIRECCIÓN DE LUZ — ESCENA 9: noche · luz fría azul-blanca cenital ligeramente upper-left · #E8F0FF · sombras cortas y nítidas hacia la derecha · Bloque 1.
+(8) MOVIMIENTO EN FRAME — ESCENA 9: el reflejo del campo en el cristal vibra levemente con el ruido del estadio, polvo flotando en el haz de luz cenital, el bolígrafo gira un cuarto de vuelta entre los dedos.
+(9) JERARQUÍA VISUAL — ESCENA 9: ELEMENTO DOMINANTE: la libreta abierta en blanco bajo la mano del periodista. Subordinado: el periodista en plano sobre el hombro, cristal con reflejo del estadio al fondo.
+(10) PROPORCIÓN EN FRAME: medium shot — periodista de hombros hacia abajo ocupa 1/2 del frame con la libreta en primer plano.
+(11) DIRECCIÓN DE MIRADA: looking down — fija en la libreta vacía.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina — el cristal y la cabina aplastan al periodista.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "el bolígrafo en la mano, la libreta en blanco y lo único que tu cerebro produce en este momento"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 10 — [00:00:45 — 00:00:50] | TEMA: el cerebro solo produce una fecha — POV libreta ═══
+CÁMARA: slow pull back · POV shot (POV del periodista mirando su propia libreta abierta).
+PERSONAJES: ningún personaje visible — POV rule. Solo se ve la libreta negra A5 #1A1A1A abierta sobre la mesa, página interior blanco crema #FFFFF0 con líneas horizontales grises finas, completamente vacía salvo por una sola fecha manuscrita simulada en la parte superior — trazo negro irregular ilegible. Bolígrafo negro #1A1A1A apoyado en el lomo de la libreta. La mano blanca del periodista entra desde el borde inferior derecho del frame con dedos relajados. Mesa #4A4A4A bajo la libreta, leve reflejo del cristal de la cabina al borde superior del frame.
+AUDIO 3 CAPAS — [Fondo]: rugido del estadio amortiguado, zumbido del aire acondicionado. [Acción]: respiración del periodista cercana al micrófono. [Detalle]: tic del segundero de un reloj de pared distante.
+(1) PALETA OBLIGATORIA: libreta negra #1A1A1A · página #FFFFF0 · líneas grises #C0C0C0 · trazo de tinta negra #1A1A1A · mesa #4A4A4A · piel mano #FFFFFF · iluminación fría #E8F0FF. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero. No se ve el rostro del periodista (POV). PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays interpretables, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 10: la escena anterior mostró al periodista sobre el hombro con la libreta; ahora la cámara se hunde en la mirada del periodista — POV directa hacia la página vacía.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: ninguna (POV shot — sin personaje visible salvo la mano).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 10: El Periodista nivel 1 — el bloqueo expresado por la página vacía y la fecha solitaria.
+(7) DIRECCIÓN DE LUZ — ESCENA 10: noche · luz fría #E8F0FF cenital · sombra del bolígrafo proyectada sobre la página · viñeta lateral oscura simulando visión periférica · Bloque 1.
+(8) MOVIMIENTO EN FRAME — ESCENA 10: la mano blanca del periodista temblando levemente al entrar al frame, la página vibrando casi imperceptiblemente con la corriente de aire del aire acondicionado, sombra del bolígrafo cambiando ínfimamente.
+(9) JERARQUÍA VISUAL — ESCENA 10: ELEMENTO DOMINANTE: la fecha manuscrita solitaria sobre la página blanca. Subordinado: la mano entrando al frame, el bolígrafo, la mesa.
+(10) PROPORCIÓN EN FRAME: POV shot — sin personaje visible, viñeta oscura en bordes.
+(11) DIRECCIÓN DE MIRADA: looking down — POV hacia abajo a la libreta.
+(12) TRANSICIÓN DE SALIDA: MATCH CUT (la fecha en la página empata con el ambiente del bar del flashback).
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina — la página vacía es el entorno emocional.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "es una fecha. Una noche, una fuente que habló demasiado bajo en un bar con"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 11 — [00:00:50 — 00:00:55] | TEMA: FLASHBACK bar — la fuente que habló demasiado bajo ═══
+CÁMARA: slow push in · low angle shot.
+PERSONAJES: El Periodista — cabeza perfectamente circular blanco puro #FFFFFF sin textura, cejas gruesas oscuras fruncidas, ojos pequeños hundidos, boca recta. Sin cabello. Cuerpo blanco #FFFFFF. Blazer verde azulado oscuro #3D6B6B (desaturado por flashback), camisa gris medio #8A8A8A, cinturón marrón oscuro #5C3317, pantalón gris oscuro #5A5A5A, zapatos cuero marrón rojizo #7B3F00 (todos atenuados por desaturación de flashback). Credencial de prensa visible en bolsillo izquierdo. MANOS: mano derecha sosteniendo la libreta negra A5 #1A1A1A abierta cerca del pecho, mano izquierda con bolígrafo negro suspendido sobre la página. Inclinado levemente hacia un costado escuchando. Una FUENTE INFORMANTE — figura masculina anónima, rostro sin rasgos definidos, capucha de chaqueta oscura #2A2A2A cubriendo la cabeza, cuerpo medio difuminado por la oscuridad del bar, sentado a su izquierda en la barra. La cara de la fuente queda fuera del foco — solo se ve la silueta del perfil.
+AUDIO 3 CAPAS — [Fondo]: murmullo bajo y compacto de un bar lleno, vasos y cubiertos chocando lejos. [Acción]: voz susurrada apenas audible de la fuente cerca del oído del periodista — palabras ininteligibles, solo cadencia. [Detalle]: el chasquido leve del bolígrafo sobre la libreta al apuntar.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): ámbar-ocre oscuro #6B4A30 (ya desaturado), iluminación cálida naranja apagada #B86618 (desaturada), fondo #3D2B1F borroso, sombras marrones, libreta negra #1A1A1A. SIN colores fuera de paleta. SIN colores prohibidos globales.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero, ni otros periodistas identificables. La fuente no se individualiza. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth open as if speaking to camera (la boca de la fuente no se ve por la capucha — solo se sugiere la conversación íntima).
+(3) CONTINUIDAD NARRATIVA — ESCENA 11: la escena anterior cerró el POV del periodista sobre la libreta vacía en el presente; el match cut sumerge al espectador en el flashback de aquella noche en el bar.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 1 (El Periodista).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 11: El Periodista nivel 2 peso del pasado — postura levemente encorvada hacia la fuente, cabeza inclinada para escuchar, ropa más nueva aún sin desgaste pero ya con tensión visible.
+(7) DIRECCIÓN DE LUZ — ESCENA 11: FLASHBACK LIGHTING — luz cálida desaturada upper-left #C8C0A0, viñeta oscura en los cuatro bordes del frame, sombras alargadas a la derecha, paleta general desaturada 30%. Bloque 2 de progresión.
+(8) MOVIMIENTO EN FRAME — ESCENA 11: humo de cigarrillo flotando lentamente entre las dos figuras, vibración del líquido en un vaso de fondo, capucha de la fuente moviéndose con la respiración.
+(9) JERARQUÍA VISUAL — ESCENA 11: ELEMENTO DOMINANTE: el espacio íntimo entre la cabeza redonda blanca del periodista y la silueta encapuchada de la fuente. Subordinado: la barra del bar y siluetas borrosas del fondo.
+(10) PROPORCIÓN EN FRAME: medium shot — los dos personajes ocupan en conjunto 1/2 del frame.
+(11) DIRECCIÓN DE MIRADA: looking right — el periodista mira de reojo hacia la fuente sin enfocarla del todo.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado — la oscuridad del bar pesa tanto como las figuras.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "demasiado ruido de fondo. Hace cinco años, un artículo. Tu firma"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 12 — [00:00:55 — 00:01:00] | TEMA: FLASHBACK redacción — el artículo que cambió todo ═══
+CÁMARA: slow pull back · side profile shot.
+PERSONAJES: El Periodista — cabeza circular blanco puro #FFFFFF, cejas fruncidas, ojos hundidos, boca recta. Blazer verde azulado oscuro #3D6B6B (desaturado), camisa gris medio #8A8A8A, cinturón #5C3317, pantalón #5A5A5A, zapatos #7B3F00. Credencial visible. MANOS: ambas manos blancas #FFFFFF apoyadas sobre el teclado de una laptop plateada #A8A8A8 abierta en su escritorio, dedos extendidos sobre las teclas en pausa antes de escribir. La pantalla muestra un documento de texto blanco con un titular en bold negro: "REAL MADRID" en grande, resto del texto ilegible simulado con líneas horizontales grises paralelas finas.
+AUDIO 3 CAPAS — [Fondo]: zumbido de tubos fluorescentes de oficina, eco lejano de teclados de otros periodistas. [Acción]: tecleo lento y deliberado del periodista, click del enter al final. [Detalle]: el suspiro del periodista al pulsar la última tecla.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): redacción azul-gris oscuro #1A2230 desaturado, pantallas azul frío apagado #3A6BA8, escritorios #4A4A4A, fluorescentes blanco frío atenuado, blazer #3D6B6B desaturado. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero. Otros periodistas al fondo solo como siluetas grises desenfocadas, no individualizadas. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays interpretables (el titular "REAL MADRID" es elemento de composición, no diegético hacia el espectador), no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 12: la escena anterior mostró al periodista en el bar escuchando a la fuente; ahora un salto temporal corto a la redacción donde se escribe el artículo a partir de esa información.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 1 (El Periodista).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 12: El Periodista nivel 2 — postura levemente encorvada hacia la pantalla, hombros tensos, expresión de concentración pesada.
+(7) DIRECCIÓN DE LUZ — ESCENA 12: FLASHBACK LIGHTING — fluorescente blanco frío desaturado #C8D0E0 cenital + luz azul fría de la pantalla iluminando el rostro #5A8FC0, viñeta oscura bordes, paleta desaturada 30%. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 12: cursor parpadeante lento al final del titular, polvo flotando en el haz de luz fluorescente, leve vibración de la pantalla.
+(9) JERARQUÍA VISUAL — ESCENA 12: ELEMENTO DOMINANTE: la pantalla con el titular "REAL MADRID" iluminando el rostro del periodista. Subordinado: el periodista en perfil, escritorio, otros escritorios al fondo borrosos.
+(10) PROPORCIÓN EN FRAME: medium shot — el periodista de perfil ocupa 1/2 del frame con la laptop como elemento central.
+(11) DIRECCIÓN DE MIRADA: looking right — fija en el titular de la pantalla.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado — la redacción y el periodista comparten el peso visual.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "Real Madrid. Florentino lo leyó esa noche. Llamó a la familia y triplicó la oferta."
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 13 — [00:01:00 — 00:01:05] | TEMA: FLASHBACK — el artículo es leído, oferta triplicada ═══
+CÁMARA: slow push in · frontal shot.
+PERSONAJES: ningún personaje principal en frame — escena de objetos. Sobre un escritorio de madera oscura desaturada se ve una laptop plateada #A8A8A8 abierta mostrando la misma pantalla del artículo con el titular bold negro "REAL MADRID" sobre fondo blanco crema y líneas horizontales grises paralelas ilegibles. Junto a la laptop, un teléfono de oficina en negro y plateado iluminándose con una llamada entrante. En el fondo desenfocado, las puertas del escritorio del Real Madrid sugeridas como siluetas verticales blancas y doradas #C9A84C apenas visibles.
+AUDIO 3 CAPAS — [Fondo]: ambiente nocturno silencioso de oficina vacía, leve eco. [Acción]: zumbido del teléfono vibrando sobre el escritorio, click del altavoz al activarse. [Detalle]: el sonido seco de la pantalla de la laptop iluminándose tras un toque del teclado.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): madera escritorio #5A4030 desaturada, laptop plateada #A8A8A8, pantalla blanca crema #F0F0E8, titular negro #1A1A1A, teléfono #2A2A2A, fondo difuminado dorado #8C7535 y blanco #C8C8C8 (ya desaturado). SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparecen Messi, El Periodista, Ronaldo, Xavi ni utilero en frame (solo objetos). PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays interpretables más allá del titular "REAL MADRID" diegético, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 13: la escena anterior mostró al periodista escribiendo el artículo en su redacción; ahora ese artículo aterriza en el despacho del decisor del Madrid y dispara la llamada.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: ninguna (sin personajes principales en frame).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 13: tensión expresada por el contraste entre el silencio del despacho y el teléfono iluminado vibrando — el momento de la decisión.
+(7) DIRECCIÓN DE LUZ — ESCENA 13: FLASHBACK LIGHTING — luz cálida tenue de lámpara de escritorio upper-left #B0A080 desaturada + brillo azul frío de la pantalla iluminando bordes de la laptop, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 13: vibración rítmica del teléfono sobre el escritorio, leve titilar de la pantalla iluminada, polvo flotando en el haz de luz cálida.
+(9) JERARQUÍA VISUAL — ESCENA 13: ELEMENTO DOMINANTE: el teléfono iluminado vibrando junto a la laptop con el titular. Subordinado: el escritorio, el fondo de despacho.
+(10) PROPORCIÓN EN FRAME: detail shot — los objetos sobre el escritorio ocupan casi todo el frame, fondo abstracto.
+(11) DIRECCIÓN DE MIRADA: N/A (sin personaje) — la composición lleva la mirada del espectador del titular al teléfono.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje en frame).
+(14) CONTEXTO DE ESCENA (NO VISUAL): "Barcelona tenía todo cerrado hasta que apareciste tú. Lo que esperabas era un jugador"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 14 — [00:01:05 — 00:01:10] | TEMA: FLASHBACK — Barcelona pierde, esperabas jugador perdido ═══
+CÁMARA: slow pull back · low angle shot.
+PERSONAJES: ningún personaje en frame. Composición simbólica: en primer plano un escudo del FC Barcelona circular azul granate #004D98 / #A50044 / #EDBB00 (ya desaturado por flashback) apoyado sobre una superficie oscura, parcialmente cubierto por una sombra que cae diagonal desde arriba-izquierda. En segundo plano desenfocado, un escudo del Real Madrid circular dorado/blanco en luz cálida tenue, contrastando.
+AUDIO 3 CAPAS — [Fondo]: silencio espeso de oficina vacía, lejano paso de un coche fuera. [Acción]: crujido leve del cuero de un sillón ejecutivo invisible, hojas de un documento moviéndose por una corriente de aire. [Detalle]: tic profundo de un reloj de pared.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): escudo Barcelona azul granate apagado #2A4060 / #6A1A2A / #8A8048, escudo Real Madrid dorado apagado #8C7535 / blanco #C8C8C8, fondo oscuro #1A1A1A. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparecen Messi, El Periodista, Ronaldo, Xavi ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 14: la escena anterior cerró con el teléfono iluminándose tras leer el artículo; ahora se simboliza el resultado — Barcelona pierde la operación, Madrid la gana.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: ninguna.
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 14: peso simbólico de la balanza inclinándose, la sombra avanzando sobre el escudo culé.
+(7) DIRECCIÓN DE LUZ — ESCENA 14: FLASHBACK LIGHTING — luz cálida desaturada upper-left #B0A080 cayendo sobre el escudo Madrid del fondo, sombra avanzando desde upper-left sobre el escudo Barcelona del primer plano, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 14: la sombra avanzando lentamente sobre el escudo del Barcelona, polvo flotando, leve vibración de los escudos por reflejo.
+(9) JERARQUÍA VISUAL — ESCENA 14: ELEMENTO DOMINANTE: el escudo Barcelona en sombra en primer plano. Subordinado: el escudo Madrid iluminado al fondo.
+(10) PROPORCIÓN EN FRAME: detail shot — los escudos ocupan el frame completo, fondo abstracto.
+(11) DIRECCIÓN DE MIRADA: N/A (sin personaje) — composición guía del Barça al Madrid.
+(12) TRANSICIÓN DE SALIDA: MATCH CUT (la luz dorada del Madrid empata con la luz del Bernabéu de la siguiente escena).
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "perdido. Un talento que se apagaba despacio en el club equivocado. La primera vez que"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 15 — [00:01:10 — 00:01:15] | TEMA: FLASHBACK — primera vez Messi joven entra al Bernabéu ═══
+CÁMARA: slow push in · POV shot (POV del Messi joven mirando por primera vez el Bernabéu vacío al amanecer).
+PERSONAJES: ningún personaje visible — POV rule. Solo se ve la perspectiva en primera persona desde la salida del túnel hacia el campo vacío del Bernabéu — césped verde uniforme #2D7A2D extendiéndose, líneas blancas perfectamente pintadas, 80.000 asientos vacíos en gradiente desde primer anillo (blanco hueso #E8E0D0) hasta tercer anillo (gris #4A4A4A), torres de iluminación en las cuatro esquinas apagadas (siluetas oscuras contra cielo). El borde inferior del frame muestra apenas la sombra de la cabeza redonda de un personaje (Messi joven) saliendo del túnel — solo silueta, no rostro.
+AUDIO 3 CAPAS — [Fondo]: silencio absoluto del estadio vacío con eco lejanísimo. [Acción]: pasos del Messi joven sobre el césped recién regado. [Detalle]: el sonido amplificado de su propia respiración pausada, casi reverencial.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): césped verde apagado #1E5221, asientos blanco hueso #E8E0D0 / gris #4A4A4A, cielo amanecer pálido #A8B0C8 desaturado, torres oscuras #1A1A2E, túnel sombra #1A1A1A. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo, ni Xavi, ni utilero. Tribunas vacías, sin masa de personas. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 15: la escena anterior cerró simbolizando la victoria del Madrid sobre el Barça en la firma; ahora vivimos el primer momento de Messi joven entrando físicamente al Bernabéu.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: ninguna (POV — sin personaje visible salvo silueta inferior).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 15: se sugiere por composición — la inmensidad del estadio vacío rodeando al Messi joven invisible.
+(7) DIRECCIÓN DE LUZ — ESCENA 15: FLASHBACK LIGHTING — luz de amanecer suave upper-left desaturada #C8C0A0, sombras largas hacia la derecha de las torres y asientos, viñeta oscura en bordes simulando visión periférica humana. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 15: vapor saliendo del césped recién regado, partículas de polvo flotando en el haz de luz horizontal del amanecer, los asientos vacíos del fondo con leve vibración por la corriente.
+(9) JERARQUÍA VISUAL — ESCENA 15: ELEMENTO DOMINANTE: el campo verde con líneas blancas y los 80.000 asientos vacíos en gradiente. Subordinado: la silueta de la cabeza del Messi joven en el borde inferior del frame.
+(10) PROPORCIÓN EN FRAME: POV shot — sin personaje visible, viñeta oscura en bordes.
+(11) DIRECCIÓN DE MIRADA: looking toward horizon — POV directa hacia el campo y las gradas vacías.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina al máximo — el estadio vacío aplasta a la silueta mínima de Messi joven.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "Messi entró al Bernabéu para entrenar, no miró las gradas, no miró los 80.000 asientos"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 16 — [00:01:15 — 00:01:20] | TEMA: FLASHBACK — Messi joven no mira las gradas, mira el pasto ═══
+CÁMARA: slow pull back · over the shoulder shot (sobre el hombro derecho de Messi joven hacia el campo).
+PERSONAJES: Messi joven — primera aparición canónica del Messi joven flashback. Cabeza grande caricaturesca desproporcionada al cuerpo (proporción cartoon idéntica al canon presente), cabello castaño oscuro #3B2314 corto en lados con leve volumen arriba, barba apenas insinuada — bozo y vello disperso fino sin densidad de la barba poblada del presente, piel morena clara #C68642, cejas medianas oscuras, ojos pequeños expresivos enfocados hacia abajo. Tatuajes presentes pero más pequeños y dispersos: solo manga superior brazo izquierdo en negro y gris, pantorrilla derecha. Brazo derecho aún sin tatuajes visibles. Camiseta Real Madrid blanca #FFFFFF idéntica al canon — ribete fino lila #7B68EE en cuello y mangas, logo adidas dorado #C9A84C tres barras pecho izquierdo, escudo Real Madrid pecho derecho, "Emirates" #0A1172 / "FLY BETTER" centro pecho — pero sin desgaste ni suciedad, completamente limpia. Pantalón corto blanco. Medias blancas con franjas lila. Botines blancos adidas suela negra. Cuerpo más liviano, 48 kilos. MANOS: brazos a los costados, dedos levemente curvados hacia adentro en posición de descanso natural.
+AUDIO 3 CAPAS — [Fondo]: silencio del estadio vacío con eco. [Acción]: respiración pausada del joven Messi, leve sonido de los pies girando sobre el césped. [Detalle]: el viento atravesando levemente las gradas vacías generando un susurro casi imperceptible.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): césped #1E5221, asientos #E8E0D0 / #4A4A4A, cielo amanecer #A8B0C8, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, dorado adidas apagado #8C7535. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo, ni Xavi, ni utilero. Tribunas vacías. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 16: la escena anterior fue POV de Messi joven entrando al campo; ahora pasamos a verlo desde atrás del hombro mientras observa el césped.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi) — versión joven con barba apenas insinuada, cuerpo más liviano, sin desgaste de camiseta.
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 16: Messi nivel 1 joven primer año — postura erguida, piernas levemente separadas, brazos a los lados, expresión neutra-intensa, mirada concentrada hacia el suelo.
+(7) DIRECCIÓN DE LUZ — ESCENA 16: FLASHBACK LIGHTING — luz amanecer cálida desaturada upper-left #C8C0A0, sombra del jugador alargada a la derecha sobre el césped, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 16: vapor sutil del césped, viento moviendo levemente el cabello de Messi joven, sombra desplazándose milímetros con la rotación leve del cuerpo.
+(9) JERARQUÍA VISUAL — ESCENA 16: ELEMENTO DOMINANTE: el campo de césped y las gradas vacías que rodean al Messi joven en plano sobre el hombro. Subordinado: el propio Messi joven, hombros en primer plano lateral.
+(10) PROPORCIÓN EN FRAME: wide shot — Messi joven ocupa 1/4 del frame por la composición sobre el hombro, el campo y las gradas dominan.
+(11) DIRECCIÓN DE MIRADA: looking down — fija en el césped a sus pies.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "vacíos que a cualquier chico de 17 años lo hubieran dejado paralizado."
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 17 — [00:01:20 — 00:01:25] | TEMA: FLASHBACK — Messi joven mira el pasto 13 segundos ═══
+CÁMARA: slow push in · bird's eye view.
+PERSONAJES: Messi joven — cabeza grande caricaturesca desproporcionada al cuerpo, cabello castaño oscuro #3B2314 corto, barba apenas insinuada bozo fino, piel #C68642, ojos pequeños mirando hacia abajo, tatuajes pequeños solo en brazo izquierdo y pantorrilla derecha. Camiseta Real Madrid blanca #FFFFFF con ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172 / "FLY BETTER", sin desgaste. Pantalón corto blanco. Medias blancas franjas lila. Botines blancos adidas. Visto desde arriba — calva con cabello, hombros estrechos, brazos a los costados, pies en posición neutra sobre el círculo central del campo. MANOS: brazos a los costados, dedos levemente curvados hacia adentro.
+AUDIO 3 CAPAS — [Fondo]: silencio del Bernabéu vacío con eco amplio. [Acción]: respiración pausada y profunda del joven Messi. [Detalle]: el sonido casi imperceptible de una hoja de césped moviéndose con el viento.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): césped #1E5221 dominante, líneas blancas #E0E0E0, círculo central blanco #E8E8E8, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, sombra figura #1A1A1A. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo, ni Xavi, ni utilero, ni multitudes. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 17: la escena anterior mostró a Messi joven sobre el hombro mirando el césped; ahora la cámara sube a vista cenital para observar la quietud absoluta del momento de los 13 segundos.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi) — versión joven.
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 17: Messi nivel 1 joven — quietud absoluta, postura erguida sin tensión, mirada fija al césped, presencia mínima en un espacio inmenso.
+(7) DIRECCIÓN DE LUZ — ESCENA 17: FLASHBACK LIGHTING — luz cenital de amanecer suave desaturada #C8C0A0, sombra del jugador a sus pies como un disco oscuro pequeño, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 17: brizna de hierba en primer plano vibrando con el viento, sombra del jugador rotando milímetros con el sol, vapor del césped subiendo lentamente.
+(9) JERARQUÍA VISUAL — ESCENA 17: ELEMENTO DOMINANTE: la figura solitaria del Messi joven en el centro de un campo inmenso. Subordinado: las líneas del campo, la geometría del Bernabéu vista desde arriba.
+(10) PROPORCIÓN EN FRAME: wide shot — Messi joven ocupa 1/4 del frame, el campo entero domina la composición.
+(11) DIRECCIÓN DE MIRADA: looking down — desde arriba se ve la coronilla y la inclinación de la cabeza hacia el césped.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina al máximo — figura mínima en el centro del estadio.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "Miró el pasto 13 segundos y después empezó a correr. Eso tendría"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 18 — [00:01:25 — 00:01:26] | TEMA: FLASHBACK — Messi joven empieza a correr (micro-momento) ═══
+CÁMARA: slow pull back · side profile shot.
+PERSONAJES: Messi joven — cabeza grande caricaturesca, cabello castaño oscuro #3B2314 corto con leve volumen arriba, barba apenas insinuada bozo fino, piel #C68642, ojos pequeños abiertos enfocados hacia adelante, tatuajes pequeños brazo izquierdo y pantorrilla derecha. Camiseta Real Madrid blanca #FFFFFF, ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172 / "FLY BETTER", sin desgaste. Pantalón corto blanco. Medias blancas franjas lila. Botines blancos adidas. MANOS: brazos en movimiento de carrera — derecho hacia atrás con dedos levemente cerrados, izquierdo hacia adelante con dedos extendidos. Cuerpo en vista lateral, primer paso de aceleración explosiva.
+AUDIO 3 CAPAS — [Fondo]: silencio del estadio vacío. [Acción]: golpe seco del primer botín contra el césped al arrancar, fricción de la suela contra la hierba. [Detalle]: el cambio brusco de ritmo de la respiración — de pausada a explosiva en una décima.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): césped #1E5221, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, dorado apagado #8C7535, fondo de gradas vacías #A0A0A0 difuminado. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo, ni Xavi, ni utilero, ni público. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 18: la escena anterior fue una vista cenital de la quietud de Messi joven en el círculo central; ahora ese cuerpo arranca a correr en el primer paso — el detalle de la transición.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi) — versión joven.
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 18: Messi nivel 1 joven — postura de aceleración, peso del cuerpo proyectado hacia adelante, expresión neutra de concentración pura.
+(7) DIRECCIÓN DE LUZ — ESCENA 18: FLASHBACK LIGHTING — luz cálida desaturada upper-left #C8C0A0, sombra alargada y dinámica a la derecha del jugador, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 18: brisa levantando partículas de césped bajo el botín, motion blur leve en la pierna y brazo en movimiento, camiseta tensándose por el inicio del esfuerzo.
+(9) JERARQUÍA VISUAL — ESCENA 18: ELEMENTO DOMINANTE: el cuerpo de Messi joven en perfil arrancando. Subordinado: el césped, gradas difuminadas al fondo.
+(10) PROPORCIÓN EN FRAME: medium shot — Messi joven ocupa 1/2 del frame en perfil.
+(11) DIRECCIÓN DE MIRADA: looking right — hacia el horizonte del campo en la dirección de la carrera.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado — el personaje toma protagonismo por la acción.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "que haberte dicho algo."
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+
+═══ ESCENA 19 — [00:01:26 — 00:01:30] | TEMA: PRESENTE breve — eso tendría que haberte dicho algo ═══
+CÁMARA: slow push in · frontal shot.
+PERSONAJES: El Periodista — cabeza perfectamente circular blanco puro #FFFFFF sin textura. Cejas gruesas oscuras fruncidas hacia el centro, ojos pequeños oscuros hundidos, boca pequeña recta levemente caída. Sin cabello. Cuerpo blanco #FFFFFF. Blazer texturado verde azulado oscuro #3D6B6B con solapa pronunciada y dos botones, camisa interior gris medio #8A8A8A cuello abierto, cinturón #5C3317, pantalón #5A5A5A, zapatos #7B3F00. Credencial de prensa rectangular blanca borde negro fino prendida en bolsillo superior izquierdo del blazer. MANOS: ambas blancas #FFFFFF apoyadas en la mesa de la cabina, dedos relajados, bolígrafo entre el pulgar y el índice de la mano derecha apuntando hacia abajo, libreta cerrada bajo la palma izquierda.
+AUDIO 3 CAPAS — [Fondo]: rugido del Bernabéu amortiguado a través del cristal, zumbido grave del aire acondicionado. [Acción]: respiración pausada del periodista, leve crujido del blazer al moverse. [Detalle]: tic interno del reloj de pared distante.
+(1) PALETA OBLIGATORIA: cristal reflejo azul oscuro #0D1B3E, interior cabina #E8F0FF, mesa #4A4A4A, fondo #1A1A2E, blazer #3D6B6B, libreta negra #1A1A1A. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 19: las escenas anteriores estuvieron en flashback con Messi joven en el Bernabéu vacío; ahora un breve regreso al presente — el periodista en la cabina reflexionando antes de volver al flashback.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 1 (El Periodista).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 19: El Periodista nivel 2 peso del pasado — leve encorvamiento hacia adelante, hombros caídos, cejas fruncidas, mirada baja, ropa levemente arrugada en codos.
+(7) DIRECCIÓN DE LUZ — ESCENA 19: noche · luz fría #E8F0FF cenital ligeramente upper-left · sombras cortas a la derecha · Bloque 1 / transición a Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 19: humo lento del aire acondicionado, leve oscilación del bolígrafo en los dedos, parpadeo casi imperceptible del único ojo enfocado.
+(9) JERARQUÍA VISUAL — ESCENA 19: ELEMENTO DOMINANTE: la cabeza redonda blanca del periodista frontal con cejas fruncidas. Subordinado: cristal de fondo con reflejo del campo, mesa con la libreta cerrada.
+(10) PROPORCIÓN EN FRAME: medium shot — periodista de cintura para arriba ocupa 1/2 del frame.
+(11) DIRECCIÓN DE MIRADA: looking down — fija en la libreta cerrada bajo la mano.
+(12) TRANSICIÓN DE SALIDA: FADE TO BLACK (transición a flashback profundo del vestuario).
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "Lo que nadie te contó, lo que ningún análisis capturó, es lo que"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 20 — [00:01:30 — 00:01:35] | TEMA: FLASHBACK — la voz del utilero llega como un susurro ═══
+CÁMARA: slow pull back · POV shot (POV del periodista hacia un pasillo oscuro de servicio donde una figura susurra).
+PERSONAJES: ningún personaje principal visible — POV rule. Solo se ve la perspectiva en primera persona desde el final de un pasillo de hormigón gris #5A5A5A iluminado por una sola lámpara cenital amarilla-cálida #FFF0C8. En el extremo del pasillo, parcialmente difuminada, la silueta del Utilero — figura masculina adulta de altura media, cabeza redondeada, piel clara #E8D5B7, cabello castaño claro corto #8B6914, expresión neutra levemente nerviosa. Vestuario: chándal del Real Madrid, blanco #FFFFFF con detalles dorados #C9A84C. Manos: sosteniendo toallas dobladas con ambas manos contra el pecho. Está en posición de susurrar, inclinado levemente hacia adelante. Su cuerpo aparece desaturado y difuminado por la viñeta de la POV.
+AUDIO 3 CAPAS — [Fondo]: eco metálico de un pasillo de servicio, lejano sonido de duchas y pasos amortiguados. [Acción]: voz susurrada del utilero apenas perceptible, palabras ininteligibles. [Detalle]: zumbido de la lámpara cenital tipo fluorescente de servicio.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): hormigón gris #5A5A5A, lámpara cálida desaturada #C8B888, chándal blanco #C8C8C8, dorado apagado #8C7535, sombras profundas en bordes #1A1A1A. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni El Periodista de cuerpo entero (solo POV), ni Xavi. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer (el utilero NO habla a cámara — habla hacia el espectador-periodista en susurro porque están en conversación cara a cara, excepción de diálogo entre personajes presentes), no text overlays, no subtitles, no speech bubbles.
+(3) CONTINUIDAD NARRATIVA — ESCENA 20: la escena anterior cerró el periodista en presente con FADE TO BLACK; emergemos del negro a este flashback profundo — el momento en que el utilero le contó al periodista lo del vestuario.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: ninguna (POV — solo se ve al utilero en plano lejano).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 20: tensión expresada por el pasillo largo y oscuro y la figura del utilero pequeña y nerviosa al fondo.
+(7) DIRECCIÓN DE LUZ — ESCENA 20: FLASHBACK LIGHTING — lámpara cenital cálida desaturada #C8B888 iluminando solo al utilero al fondo, viñeta oscura amplia en bordes laterales y superior simulando pasillo. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 20: motas de polvo flotando en el haz de luz cenital, leve oscilación de la lámpara, sombra del utilero vibrando levemente.
+(9) JERARQUÍA VISUAL — ESCENA 20: ELEMENTO DOMINANTE: la silueta del utilero al final del pasillo iluminado. Subordinado: las paredes del pasillo en perspectiva.
+(10) PROPORCIÓN EN FRAME: POV shot — sin personaje principal visible, viñeta oscura bordes.
+(11) DIRECCIÓN DE MIRADA: looking toward horizon — POV directa hacia el utilero al final del pasillo.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina — el pasillo aplasta visualmente al utilero.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "pasó en el vestuario. La primera semana. Ronaldo estaba ahí. El Ronaldo, tres Balones"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 21 — [00:01:35 — 00:01:40] | TEMA: FLASHBACK vestuario — Ronaldo está ahí ═══
+CÁMARA: slow push in · low angle shot.
+PERSONAJES: Ronaldo (primera aparición canónica) — figura masculina alta y musculosa, notablemente más alto que cualquier otro jugador en frame, cabeza redondeada, piel clara-morena #D4956A, cabello negro corto con gel #1A1A1A peinado hacia atrás, mandíbula marcada, cejas anchas, expresión de confianza permanente, mirada directa. Vestuario: camiseta Real Madrid blanca #FFFFFF idéntica a la de Messi con ribete fino lila #7B68EE en cuello/mangas, logo adidas dorado #C9A84C tres barras pecho izquierdo, escudo Real Madrid pecho derecho, "Emirates" #0A1172 / "FLY BETTER" centro pecho. Pantalón corto blanco Real Madrid. Postura: erguida, pecho expandido, hombros amplios. MANOS: puños levemente cerrados a los costados, postura de dominio.
+AUDIO 3 CAPAS — [Fondo]: eco amplio de vestuario vacío con baldosas, leve goteo lejano de duchas. [Acción]: pasos firmes de Ronaldo sobre el suelo gris claro. [Detalle]: tintineo de un crucifijo metálico contra el pecho de Ronaldo al moverse.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): vestuario blanco apagado #C8C8C8, suelo gris claro #B0B0B0, taquillas blancas con detalles dorados desaturados #8C7535, banco de madera clara #A89070, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Messi en frame en este preciso instante (Messi entra en la siguiente escena), ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 21: la escena anterior fue POV del periodista escuchando al utilero; ahora la imagen mental del periodista construye la escena del vestuario donde está Ronaldo solo.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen referencial Ronaldo (descripción canónica establecida en esta escena).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 21: Ronaldo en estado canónico — postura de dominio, pecho expandido, mentón ligeramente levantado, expresión de confianza permanente.
+(7) DIRECCIÓN DE LUZ — ESCENA 21: FLASHBACK LIGHTING — luz artificial blanca desaturada cenital ligeramente upper-left #C8D0D0, sombras nítidas a la derecha del cuerpo, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 21: vapor leve saliendo de la zona de duchas al fondo, leve oscilación del crucifijo metálico, polvo flotando en el haz de luz cenital.
+(9) JERARQUÍA VISUAL — ESCENA 21: ELEMENTO DOMINANTE: la figura imponente de Ronaldo en contrapicado. Subordinado: taquillas, banco de madera, fondo del vestuario.
+(10) PROPORCIÓN EN FRAME: medium shot — Ronaldo ocupa 1/2 del frame, su altura exagerada por el contrapicado.
+(11) DIRECCIÓN DE MIRADA: looking toward horizon — fija al frente, hacia la puerta del vestuario donde está por entrar Messi (fuera de frame).
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina — Ronaldo llena el espacio.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "de Oro, el jugador más famoso del planeta y un chico de 17 años con 48"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 22 — [00:01:40 — 00:01:45] | TEMA: FLASHBACK — chico 17 años 48 kilos entra al vestuario ═══
+CÁMARA: slow pull back · over the shoulder shot (sobre el hombro derecho de Ronaldo hacia la puerta donde aparece Messi joven).
+PERSONAJES (DOS EN FRAME): EN PRIMER PLANO/DOMINANTE — Ronaldo de espaldas a la cámara, hombro derecho amplio en el borde izquierdo del frame, cabello negro corto con gel #1A1A1A, camiseta Real Madrid blanca #FFFFFF con ribete lila #7B68EE, logo adidas dorado #C9A84C en pecho (visible parcialmente en el lado izquierdo en composición sobre el hombro). MANOS DE RONALDO: brazo derecho cruzado al pecho con dedos relajados sobre el bíceps izquierdo. EN SEGUNDO PLANO/SUBORDINADO — Messi joven entrando por la puerta del vestuario, figura más pequeña por la distancia y por su altura baja real, cabeza grande caricaturesca, cabello castaño oscuro #3B2314 corto, barba apenas insinuada bozo fino, piel #C68642, ojos pequeños mirando hacia adelante directos, tatuajes pequeños solo en brazo izquierdo y pantorrilla derecha. Camiseta Real Madrid blanca #FFFFFF idéntica al canon, sin desgaste. Pantalón corto blanco. Medias blancas franjas lila. Botines blancos adidas. Cuerpo más liviano (48 kilos), torso compacto. MANOS DE MESSI: brazos a los costados, dedos levemente curvados.
+AUDIO 3 CAPAS — [Fondo]: eco del vestuario, goteo lejano. [Acción]: paso suave del Messi joven entrando al vestuario, leve crujido del marco de la puerta. [Detalle]: la respiración de Ronaldo siendo escuchada en primer plano sonoro.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): vestuario #C8C8C8, suelo #B0B0B0, taquillas con dorado apagado #8C7535, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, piel Ronaldo #B07A50, piel Messi #A87038. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Xavi, ni utilero. Solo dos personajes en frame. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 22: la escena anterior estableció a Ronaldo solo en el vestuario; ahora Messi joven cruza la puerta y entra al espacio.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi joven) + descripción canónica Ronaldo.
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 22: Ronaldo en confianza permanente, Messi nivel 1 joven — postura erguida con piernas levemente separadas, mirada directa sin achicarse.
+(7) DIRECCIÓN DE LUZ — ESCENA 22: FLASHBACK LIGHTING — luz blanca desaturada upper-left #C8D0D0 iluminando el vestuario, sombras nítidas a la derecha, contraluz suave en la silueta de Messi entrando, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 22: la puerta del vestuario terminando de abrirse, leve oscilación del cabello de Messi por el aire de afuera, hombro de Ronaldo respirando.
+(9) JERARQUÍA VISUAL — ESCENA 22: ELEMENTO DOMINANTE: el hombro y la espalda de Ronaldo en primer plano (más grande, saturado, nítido). Subordinado: Messi joven al fondo más pequeño, levemente desaturado y difuminado.
+(10) PROPORCIÓN EN FRAME: medium shot — Ronaldo y Messi en conjunto ocupan 1/2 del frame, con Ronaldo dominando el lado izquierdo.
+(11) DIRECCIÓN DE MIRADA: Ronaldo looking toward horizon hacia la puerta. Messi joven looking toward horizon directo a Ronaldo.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina — los dos jugadores ocupan el peso emocional.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "kilos. Entra al vestuario y lo mira a los ojos sin achicarse. Ronaldo le pregunta"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 23 — [00:01:45 — 00:01:50] | TEMA: FLASHBACK vestuario — Ronaldo le pregunta quién es ═══
+CÁMARA: slow push in · side profile shot.
+PERSONAJES (DOS EN FRAME — DIÁLOGO): EN PRIMER PLANO/DOMINANTE (lado izquierdo del frame) — Ronaldo de perfil derecho, cabeza redondeada, piel #D4956A, cabello negro corto con gel #1A1A1A, mandíbula marcada, cejas anchas, expresión de confianza con leve curiosidad, boca levemente abierta indicando que habla (excepción de diálogo entre personajes presentes). Camiseta Real Madrid blanca #FFFFFF con ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172. Postura erguida pecho expandido, altura notablemente mayor que Messi. MANOS RONALDO: brazos cruzados sobre el pecho, palmas planas contra los costados opuestos. EN SEGUNDO PLANO/SUBORDINADO (lado derecho del frame) — Messi joven de perfil izquierdo, cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba apenas insinuada bozo fino, piel #C68642, ojos pequeños fijos directos a los ojos de Ronaldo, expresión neutra-intensa. Camiseta Real Madrid blanca #FFFFFF, ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid. Pantalón corto blanco. Medias blancas franjas lila. Botines blancos adidas. Cuerpo más pequeño y compacto. MANOS MESSI: a los costados, dedos curvados levemente. Los dos personajes orientados el uno hacia el otro, NO hacia la cámara.
+AUDIO 3 CAPAS — [Fondo]: vestuario en eco amplio, goteo de duchas. [Acción]: voz grave de Ronaldo formulando una pregunta corta — palabras ininteligibles pero cadencia clara. [Detalle]: leve respiración del Messi joven contenida.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): vestuario #C8C8C8, taquillas con dorado apagado #8C7535, banco madera #A89070, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, pieles. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Xavi, ni utilero. Solo Ronaldo y Messi joven. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer (la boca abierta de Ronaldo NO se dirige al espectador — habla a Messi presente en frame, excepción válida), no text overlays, no subtitles, no speech bubbles.
+(3) CONTINUIDAD NARRATIVA — ESCENA 23: la escena anterior mostró a Messi cruzando la puerta con Ronaldo de espaldas; ahora ambos se enfrentan en perfil para la pregunta.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi joven) + descripción canónica Ronaldo.
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 23: Ronaldo confiado y curioso, Messi nivel 1 joven sin achicarse, piernas firmes, mirada directa.
+(7) DIRECCIÓN DE LUZ — ESCENA 23: FLASHBACK LIGHTING — luz blanca desaturada cenital upper-left #C8D0D0, sombras de los dos personajes hacia la derecha, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 23: leve subida y bajada de pecho de ambos personajes respirando, vapor distante de duchas, pelo de Messi vibrando milímetros.
+(9) JERARQUÍA VISUAL — ESCENA 23: ELEMENTO DOMINANTE: Ronaldo en lado izquierdo (más alto, más saturado, nítido). Subordinado: Messi joven en lado derecho (más pequeño, levemente desaturado, levemente difuminado).
+(10) PROPORCIÓN EN FRAME: medium shot — los dos personajes ocupan 1/2 del frame con espacio entre ellos.
+(11) DIRECCIÓN DE MIRADA: Ronaldo looking right (hacia Messi). Messi looking left (hacia Ronaldo). Ninguno mira a cámara.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina — la confrontación silenciosa centra el frame.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "quién es. Messi le dice su nombre. Ronaldo asiente. Vuelve a mirarse"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 24 — [00:01:50 — 00:01:55] | TEMA: FLASHBACK — Messi le dice su nombre, Ronaldo asiente y vuelve al espejo ═══
+CÁMARA: slow pull back · close-up shot (sobre el rostro de Ronaldo girando hacia el espejo).
+PERSONAJES (DOS EN FRAME, DOMINANTE RONALDO): EN PRIMER PLANO/DOMINANTE — Ronaldo de tres cuartos girando hacia su izquierda mirando al espejo, cabeza redondeada, piel #D4956A, cabello negro #1A1A1A peinado hacia atrás, mandíbula marcada, cejas anchas, expresión de confianza con leve asentimiento, mentón ligeramente bajando y subiendo. Camiseta Real Madrid blanca #FFFFFF con ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172. MANOS RONALDO: brazo derecho subiendo hacia la cabeza para acomodar el cabello con dedos extendidos. EN SEGUNDO PLANO MUY DIFUMINADO/SUBORDINADO — Messi joven al fondo desenfocado, cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba apenas insinuada, piel #C68642, camiseta Real Madrid blanca, todo levemente difuminado por la profundidad de campo. MANOS MESSI: a los costados, dedos curvados.
+AUDIO 3 CAPAS — [Fondo]: vestuario en eco amplio. [Acción]: voz suave del Messi joven diciendo su nombre, asentimiento corporal seco de Ronaldo. [Detalle]: leve toque de los dedos de Ronaldo contra el cabello con gel.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): espejo gris claro #C0C0C0 reflejando luz, vestuario #C8C8C8, dorado apagado #8C7535, camiseta blanca #FFFFFF, piel Ronaldo #B07A50. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating (Messi habla pero queda fuera de foco — su boca no es legible).
+(3) CONTINUIDAD NARRATIVA — ESCENA 24: la escena anterior mostró a Ronaldo y Messi joven en perfil con la pregunta; ahora Messi responde su nombre y Ronaldo asiente girándose hacia el espejo.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi joven, fondo difuminado) + descripción canónica Ronaldo.
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 24: Ronaldo en confianza, gesto de asentimiento sin emoción adicional, Messi nivel 1 joven sin alterar postura.
+(7) DIRECCIÓN DE LUZ — ESCENA 24: FLASHBACK LIGHTING — luz blanca desaturada upper-left #C8D0D0 cayendo en el rostro de Ronaldo, reflejo del espejo iluminando media cara, sombras nítidas, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 24: el cabello de Ronaldo siendo apenas tocado por sus dedos, leve respiración compartida, sombra de Messi al fondo difuminada vibrando.
+(9) JERARQUÍA VISUAL — ESCENA 24: ELEMENTO DOMINANTE: el rostro de Ronaldo en close-up girando hacia el espejo. Subordinado: Messi al fondo difuminado, vestuario abstracto.
+(10) PROPORCIÓN EN FRAME: close-up — el rostro y hombros de Ronaldo ocupan 3/4 del frame, fondo abstracto.
+(11) DIRECCIÓN DE MIRADA: Ronaldo looking left (hacia el espejo). Messi looking toward horizon difuminado.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina — Ronaldo controla el frame.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "al espejo. Te lo cuenta un utilero. Tres meses después, en un pasillo en voz"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 25 — [00:01:55 — 00:02:00] | TEMA: FLASHBACK pasillo — el utilero susurra (POV periodista) ═══
+CÁMARA: slow push in · POV shot (POV directa del periodista mirando al utilero inclinándose para susurrar).
+PERSONAJES: ningún personaje principal visible (POV) — solo se ve al Utilero — figura masculina adulta de altura media, cabeza redondeada, piel clara #E8D5B7, cabello castaño claro corto #8B6914, sin rasgos faciales complejos, expresión neutra levemente nerviosa. Vestuario: chándal del Real Madrid, blanco #FFFFFF con detalles dorados #C9A84C en cuello y franjas en hombros. Inclinado hacia adelante hacia la cámara, boca levemente abierta indicando que susurra (excepción de diálogo entre personajes). MANOS UTILERO: ambas manos sosteniendo toallas dobladas blancas contra el pecho, dedos curvados alrededor de la tela. Su rostro entra al frame por la izquierda en composición íntima.
+AUDIO 3 CAPAS — [Fondo]: pasillo de hormigón con eco metálico, lejano sonido de un partido amortiguado. [Acción]: voz susurrada del utilero — palabras ininteligibles pero clara intencionalidad confidencial. [Detalle]: respiración cercana del utilero al oído del periodista (cerca del micrófono espacial).
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): hormigón #5A5A5A apagado, lámpara cálida desaturada #C8B888, chándal blanco apagado #C8C8C8, dorado apagado #8C7535, fondo profundo #1A1A1A. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni El Periodista visible (es POV). PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer (el utilero NO se dirige al espectador — habla al periodista presente en POV, excepción válida de diálogo), no text overlays, no subtitles, no speech bubbles.
+(3) CONTINUIDAD NARRATIVA — ESCENA 25: las escenas anteriores reconstruyeron el momento del vestuario tres meses antes; ahora volvemos al pasillo donde el utilero le cuenta la anécdota al periodista — POV cercana.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: ninguna principal (solo descripción canónica del utilero).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 25: utilero levemente nervioso, postura inclinada hacia adelante en confidencia.
+(7) DIRECCIÓN DE LUZ — ESCENA 25: FLASHBACK LIGHTING — lámpara cenital cálida desaturada #C8B888 iluminando rostro y hombros del utilero, sombra cayendo sobre el lado derecho, viñeta oscura amplia. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 25: leve oscilación de la lámpara cenital, polvo flotando entre las dos figuras, las toallas blancas crujiendo levemente entre los dedos del utilero.
+(9) JERARQUÍA VISUAL — ESCENA 25: ELEMENTO DOMINANTE: el rostro del utilero en primer plano susurrando. Subordinado: el pasillo de fondo.
+(10) PROPORCIÓN EN FRAME: POV shot — sin personaje principal visible, viñeta oscura bordes simulando visión periférica.
+(11) DIRECCIÓN DE MIRADA: utilero looking at camera (DIÁLOGO ENTRE PERSONAJES — el utilero mira al periodista que es POV, no al espectador). Esto es válido por excepción de diálogo.
+(12) TRANSICIÓN DE SALIDA: MATCH CUT (la silueta del utilero empata con la silueta del periodista en su libreta de la escena siguiente).
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina — el utilero llena el frame en cercanía.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "baja. No lo publicas. No puedes publicar nada sobre Messi sin sentir que"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 26 — [00:02:00 — 00:02:05] | TEMA: PRESENTE/redacción — periodista no puede publicar ═══
+CÁMARA: slow pull back · side profile shot.
+PERSONAJES: El Periodista — cabeza perfectamente circular blanco puro #FFFFFF sin textura. Cejas gruesas oscuras fruncidas, ojos pequeños hundidos, boca pequeña apretada en línea. Sin cabello. Cuerpo blanco #FFFFFF. Blazer texturado verde azulado oscuro #3D6B6B con solapa pronunciada y dos botones, camisa interior gris medio #8A8A8A cuello abierto sin corbata, cinturón #5C3317, pantalón #5A5A5A, zapatos #7B3F00. Credencial de prensa visible. MANOS: ambas blancas #FFFFFF — derecha sosteniendo bolígrafo negro #1A1A1A en posición de escritura sobre la libreta negra A5 abierta, izquierda apoyada plana al lado de la libreta sobre el escritorio. Inclinado hacia adelante.
+AUDIO 3 CAPAS — [Fondo]: zumbido fluorescente de la redacción nocturna, distantes teclados de otros periodistas. [Acción]: leve raspar del bolígrafo iniciando un trazo y deteniéndose, exhalación contenida. [Detalle]: un click metálico de un encendedor lejano.
+(1) PALETA OBLIGATORIA: redacción azul-gris oscuro #1E2A3A, pantallas azul frío #4A90D9, escritorios #4A4A4A, fluorescentes blanco frío #E8F0FF, blazer #3D6B6B, libreta negra #1A1A1A, página #FFFFF0. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero. Otros periodistas al fondo solo siluetas grises difuminadas. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 26: la escena anterior mostró al utilero susurrando en POV; ahora el periodista está en su redacción luchando contra la decisión de publicar lo que escuchó.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 1 (El Periodista).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 26: El Periodista nivel 2 peso del pasado — encorvamiento hacia adelante, hombros caídos, cejas fruncidas, mirada baja, ropa levemente arrugada en codos.
+(7) DIRECCIÓN DE LUZ — ESCENA 26: noche · luz fluorescente fría #E8F0FF cenital + luz azul fría de la pantalla del costado iluminando lateralmente el rostro #4A90D9, sombras nítidas a la derecha. Bloque 2 — transición.
+(8) MOVIMIENTO EN FRAME — ESCENA 26: cursor parpadeando lento en una pantalla de fondo, polvo flotando en los haces de luz fluorescente, leve temblor del bolígrafo en la mano.
+(9) JERARQUÍA VISUAL — ESCENA 26: ELEMENTO DOMINANTE: el periodista en perfil con el bolígrafo suspendido sobre la libreta. Subordinado: pantalla, escritorio, otros escritorios al fondo difuminados.
+(10) PROPORCIÓN EN FRAME: medium shot — periodista de cintura para arriba ocupa 1/2 del frame.
+(11) DIRECCIÓN DE MIRADA: looking down — fija en la libreta abierta.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "estás construyendo algo que no tienes derecho a construir, pero lo escribes en la libreta"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 27 — [00:02:05 — 00:02:10] | TEMA: detail shot — escribe en la libreta y no lo tacha ═══
+CÁMARA: slow push in · close-up shot.
+PERSONAJES: ningún personaje principal visible — detail shot del objeto. Página interior de la libreta negra A5 abierta — fondo blanco crema #FFFFF0 con líneas horizontales grises finas. Sobre la página, varias líneas de texto manuscrito simulado en trazos negros irregulares ilegibles. La mano blanca #FFFFFF del periodista entrando desde el borde inferior derecho del frame con bolígrafo negro cilíndrico #1A1A1A entre los dedos, terminando de escribir un trazo. NO hay tachón sobre las líneas — el rasgo distintivo de esta página es la ausencia de tachones, contraste visual con otras páginas del periodista.
+AUDIO 3 CAPAS — [Fondo]: silencio espeso de la redacción de noche, zumbido fluorescente lejano. [Acción]: raspar fino del bolígrafo sobre el papel en el último trazo. [Detalle]: el sonido seco del bolígrafo al levantarse de la página al terminar.
+(1) PALETA OBLIGATORIA: página blanco crema #FFFFF0, líneas grises #C0C0C0, tinta negra #1A1A1A, mano blanca #FFFFFF, bolígrafo negro #1A1A1A, escritorio gris oscuro #4A4A4A. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero, ni rostro del periodista. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays interpretables (el texto manuscrito es simulado ilegible), no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 27: la escena anterior mostró al periodista en perfil con el bolígrafo suspendido sobre la libreta; ahora close-up al texto que terminó de escribir y NO está tachado.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: ninguna (detail shot — solo objeto).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 27: la quietud del trazo sin tachón comunica la decisión emocional — peso de lo escrito permanece.
+(7) DIRECCIÓN DE LUZ — ESCENA 27: noche · luz fluorescente cenital fría #E8F0FF iluminando uniformemente la página, sombra del bolígrafo proyectada sobre la mano. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 27: leve temblor de la mano al concluir el trazo, polvo flotando en el haz de luz, tinta secándose con micro-cambio de brillo.
+(9) JERARQUÍA VISUAL — ESCENA 27: ELEMENTO DOMINANTE: las líneas de texto sin tachar sobre la página. Subordinado: la mano y el bolígrafo en la esquina inferior.
+(10) PROPORCIÓN EN FRAME: detail shot — la página de la libreta ocupa el frame completo, fondo abstracto.
+(11) DIRECCIÓN DE MIRADA: N/A (sin personaje visible) — la composición lleva la mirada del espectador a las líneas escritas.
+(12) TRANSICIÓN DE SALIDA: MATCH CUT (las líneas horizontales grises de la libreta empatan con las líneas blancas del campo de la siguiente escena).
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje principal en frame).
+(14) CONTEXTO DE ESCENA (NO VISUAL): "y no lo tachas. Primera temporada Jornada siete Madrid"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 28 — [00:02:10 — 00:02:15] | TEMA: FLASHBACK Bernabéu — Messi entra en minuto 68 vs Sevilla ═══
+CÁMARA: slow pull back · low angle shot.
+PERSONAJES: Messi — cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba apenas insinuada bozo fino (primera temporada joven), piel #C68642, ojos pequeños expresivos, tatuajes pequeños solo brazo izquierdo y pantorrilla derecha. Camiseta Real Madrid blanca #FFFFFF idéntica al canon, sin desgaste, ribete fino lila #7B68EE en cuello/mangas, logo adidas dorado #C9A84C tres barras pecho izquierdo, escudo Real Madrid pecho derecho, "Emirates" #0A1172 / "FLY BETTER". Pantalón corto blanco con logo Real Madrid pequeño pierna izquierda. Medias blancas con franjas lila. Botines blancos adidas. Cuerpo más liviano. MANOS: brazos a los costados con dedos relajados, en transición de banco a campo. En la franja lateral del campo levantando la pierna sobre la línea de banda al entrar.
+AUDIO 3 CAPAS — [Fondo]: clamor del Bernabéu en estado expectante — masa sonora compacta. [Acción]: rumor creciente de los hinchas reconociendo al jugador entrante, palmas dispersas. [Detalle]: el silbato del cuarto árbitro autorizando el cambio.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): verde césped apagado #1E5221, luces estadio amarillo apagado #B8B090, azul noche #091426, masa tribunas #1A1A2E, líneas blancas campo #C8C8C8. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo en frame (Messi entra él solo), ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays (no aparece marcador numérico en este frame específico), no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 28: la escena anterior fue close-up de la libreta con texto sin tachar; ahora el match cut nos lleva al primer recuerdo del partido contra Sevilla — primera temporada de Messi entrando al campo.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi versión joven primera temporada).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 28: Messi nivel 1 joven primer año — postura erguida, expresión neutra-intensa, mirada directa al campo, camiseta limpia.
+(7) DIRECCIÓN DE LUZ — ESCENA 28: FLASHBACK LIGHTING — luz artificial estadio upper-left desaturada amarilla #B8B090, sombras largas a la derecha, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 28: tribunas en micromovimiento de espectadores levantándose, banderines blancos del Madrid ondeando, polvo levantado por los pies de Messi al entrar al campo.
+(9) JERARQUÍA VISUAL — ESCENA 28: ELEMENTO DOMINANTE: la silueta de Messi entrando al campo en contrapicado. Subordinado: tribunas masa difuminada, línea de banda, banco.
+(10) PROPORCIÓN EN FRAME: medium shot — Messi ocupa 1/2 del frame por el contrapicado.
+(11) DIRECCIÓN DE MIRADA: looking toward horizon — hacia el centro del campo donde se desarrolla el juego.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "contra Sevilla. Messi entra en el minuto 68. Toca"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 29 — [00:02:15 — 00:02:20] | TEMA: FLASHBACK — Messi recibe de espaldas, defensa pegado ═══
+CÁMARA: slow push in · over the shoulder shot (sobre el hombro derecho del defensor del Sevilla mirando a Messi recibir).
+PERSONAJES (DOS EN FRAME): EN PRIMER PLANO/DOMINANTE — defensor del Sevilla en silueta de espaldas, masa simplificada vestida con camiseta del Sevilla blanca con franjas rojas anchas (#FFFFFF / #C8102E desaturados por flashback), pantalón corto blanco, brazos extendidos hacia los costados intentando bloquear espacio, sin rasgos faciales individualizados (jugador secundario simplificado). EN SEGUNDO PLANO/SUBORDINADO — Messi joven recibiendo el balón de espaldas al arco, cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba apenas insinuada bozo fino, piel #C68642, ojos pequeños concentrados, tatuajes pequeños brazo izquierdo y pantorrilla derecha. Camiseta Real Madrid blanca #FFFFFF, ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172. Pantalón corto blanco. Medias blancas franjas lila. Botines blancos adidas. MANOS MESSI: brazos extendidos lateralmente para equilibrio mientras controla el balón con el pecho/muslo, dedos abiertos. Pelota blanco/negro #FFFFFF/#1A1A1A en contacto con el cuerpo.
+AUDIO 3 CAPAS — [Fondo]: rugido del Bernabéu compacto, voces individuales perdiéndose en la masa. [Acción]: golpe sordo del balón contra el cuerpo del jugador, fricción del defensor contra Messi. [Detalle]: respiración pesada y cercana del defensor en el oído del jugador.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): césped #1E5221, camiseta Madrid blanca #FFFFFF, camiseta Sevilla blanco/rojo apagado #C8C8C8 / #8A2A36, líneas blancas campo #C8C8C8, masa tribunas #1A1A2E. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo, ni Xavi, ni utilero. El defensor del Sevilla es figura simplificada anónima sin individualizar. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 29: la escena anterior mostró a Messi entrando al partido en el minuto 68; ahora cuatro minutos después recibe el balón con un defensor pegado.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi versión joven primera temporada).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 29: Messi nivel 1 joven — concentración total, cuerpo en posición de control de espaldas, expresión neutra de cálculo.
+(7) DIRECCIÓN DE LUZ — ESCENA 29: FLASHBACK LIGHTING — luz artificial estadio upper-left amarilla apagada #B8B090, sombra del defensor cubriendo parcialmente a Messi, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 29: el balón rebotando levemente contra el cuerpo de Messi, briznas de césped saltando bajo los pies, hombros del defensor apretándose contra Messi.
+(9) JERARQUÍA VISUAL — ESCENA 29: ELEMENTO DOMINANTE: el defensor en primer plano (más grande, saturado). Subordinado: Messi joven al fondo recibiendo el balón (levemente desaturado, levemente difuminado por la cercanía con la cámara del defensor).
+(10) PROPORCIÓN EN FRAME: medium shot — la composición sobre el hombro coloca al defensor ocupando 1/3 izquierdo y a Messi ocupando 1/2 del frame al fondo.
+(11) DIRECCIÓN DE MIRADA: defensor looking toward horizon hacia Messi. Messi looking down hacia el balón.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "el balón. Cuatro minutos después lo recibe de espaldas. 30 metros de"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+═══ ESCENA 30 — [00:02:20 — 00:02:25] | TEMA: FLASHBACK — Messi se gira igual (POV defensor) ═══
+CÁMARA: slow pull back · POV shot (POV directa del defensor del Sevilla viendo a Messi girarse hacia él).
+PERSONAJES: ningún personaje principal visible (POV defensor) — solo se ve a Messi joven girándose en frente del frame, cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba apenas insinuada bozo fino, piel #C68642, ojos pequeños fijos hacia adelante directos hacia la cámara (POV — no es dirigirse al espectador, es la mirada al defensor que ES la cámara, válido por POV rule), expresión de concentración fría. Tatuajes pequeños brazo izquierdo y pantorrilla derecha. Camiseta Real Madrid blanca #FFFFFF, ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172. Pantalón corto blanco. Medias blancas franjas lila. Botines blancos adidas. MANOS MESSI: brazos extendidos lateralmente para equilibrio en el momento del giro, dedos abiertos. Pelota a sus pies en transición.
+AUDIO 3 CAPAS — [Fondo]: rugido del Bernabéu sostenido. [Acción]: roce del botín contra el césped en el giro, fricción del defensor perdiendo posición. [Detalle]: el silbido fino del aire al cambio brusco de dirección del cuerpo.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): césped #1E5221, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, dorado apagado #8C7535, fondo borroso de masa de tribunas #1A1A2E. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo, ni Xavi, ni utilero, ni el defensor visible (POV). PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer (la mirada de Messi a cámara es POV defensor, válida por POV rule), no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 30: la escena anterior mostró a Messi recibiendo de espaldas con el defensor pegado; ahora vivimos el momento del giro desde el POV del defensor.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi versión joven primera temporada).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 30: Messi nivel 1 joven — postura de giro con torsión de cintura, brazos extendidos, expresión neutra de concentración total.
+(7) DIRECCIÓN DE LUZ — ESCENA 30: FLASHBACK LIGHTING — luz artificial estadio upper-left amarilla #B8B090, sombras largas a la derecha de Messi, viñeta oscura amplia simulando visión periférica del defensor. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 30: motion blur leve en el giro de Messi, briznas de césped levantándose por la fricción de los pies, fondo difuminado por la velocidad del giro.
+(9) JERARQUÍA VISUAL — ESCENA 30: ELEMENTO DOMINANTE: el rostro de Messi en el momento del giro. Subordinado: la pelota a sus pies, fondo abstracto.
+(10) PROPORCIÓN EN FRAME: POV shot — sin personaje visible salvo Messi como sujeto, viñeta oscura bordes.
+(11) DIRECCIÓN DE MIRADA: looking at camera (POV defensor — válido por POV rule, no es dirigirse al espectador).
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina — Messi llena el frame.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "largo. El defensa, pegado, sin espacio, sin ángulo. Se gira igual. Un"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+
+═══ ESCENA 31 — [00:02:25 — 00:02:30] | TEMA: FLASHBACK — un toque, dos, defensa pierde el paso ═══
+CÁMARA: slow push in · side profile shot.
+PERSONAJES (DOS EN FRAME): EN PRIMER PLANO/DOMINANTE — Messi joven en perfil derecho, cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba apenas insinuada bozo fino, piel #C68642, ojos pequeños fijos en el balón, tatuajes pequeños brazo izquierdo y pantorrilla derecha. Camiseta Real Madrid blanca #FFFFFF, ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172 / "FLY BETTER". Pantalón corto blanco. Medias blancas franjas lila. Botines blancos adidas. MANOS MESSI: brazos extendidos lateralmente para equilibrio en regate, dedos abiertos. Pelota blanco/negro #FFFFFF/#1A1A1A entre los pies en cambio de dirección. EN SEGUNDO PLANO/SUBORDINADO — defensor del Sevilla a sus espaldas perdiendo el paso, silueta en camiseta blanca con franjas rojas anchas (#C8C8C8 / #8A2A36 desaturados), pierna estirada en frenado, sin individualizar.
+AUDIO 3 CAPAS — [Fondo]: rugido del Bernabéu in crescendo. [Acción]: dos toques secos del botín contra la pelota — primero corto, segundo largo. [Detalle]: deslizamiento del defensor sobre el césped al perder el equilibrio.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): césped #1E5221, camiseta Madrid blanca #FFFFFF, camiseta Sevilla blanca/roja apagada #C8C8C8 / #8A2A36, líneas blancas campo, masa tribunas #1A1A2E. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo, ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 31: la escena anterior mostró el giro de Messi desde el POV del defensor; ahora desde lateral vemos el regate y el defensor descompuesto.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi versión joven primera temporada).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 31: Messi nivel 1 joven en regate — postura compacta, peso bajo, control absoluto del balón.
+(7) DIRECCIÓN DE LUZ — ESCENA 31: FLASHBACK LIGHTING — luz artificial estadio upper-left amarilla #B8B090, sombras de los dos jugadores hacia la derecha, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 31: motion blur en pierna del defensor frenando, briznas de césped saltando, balón en transición rápida entre pies de Messi.
+(9) JERARQUÍA VISUAL — ESCENA 31: ELEMENTO DOMINANTE: Messi en perfil con balón a sus pies. Subordinado: defensor cayendo al fondo difuminado.
+(10) PROPORCIÓN EN FRAME: medium shot — Messi ocupa 1/2 del frame en perfil.
+(11) DIRECCIÓN DE MIRADA: looking down — fija en el balón.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "toque. Dos. El defensa pierde el paso. Medio segundo"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+═══ ESCENA 32 — [00:02:30 — 00:02:35] | TEMA: FLASHBACK — pase al espacio, gol ═══
+CÁMARA: slow pull back · frontal shot.
+PERSONAJES: Messi joven (sujeto del pase, no del gol) — cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba apenas insinuada, piel #C68642, ojos pequeños fijos hacia la derecha del frame siguiendo la trayectoria del balón. Camiseta Real Madrid blanca #FFFFFF, ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172 / "FLY BETTER". Pantalón corto blanco. Medias blancas franjas lila. Botines blancos adidas. MANOS: brazos extendidos lateralmente terminando el pase, dedos abiertos. Pierna izquierda en posición de seguimiento del pase. En segundo plano lejano y desenfocado, una silueta de jugador del Madrid culminando el gol al fondo derecho — masa anónima con red blanca temblando levemente al ser tocada por la pelota.
+AUDIO 3 CAPAS — [Fondo]: explosión sonora del Bernabéu — el momento del gol. [Acción]: golpe del pase rasante seguido del impacto del remate distante. [Detalle]: vibración de la red #E0E0E0 al ser tocada al fondo.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): césped #1E5221, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, dorado apagado #8C7535, red blanca difusa #C8C8C8, masa tribunas #1A1A2E. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo identificable (otro jugador del Madrid es figura simplificada anónima en este momento), ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 32: la escena anterior mostró el regate y el defensor cayendo; ahora Messi termina la jugada con un pase rasante al espacio que culmina en gol distante.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi versión joven primera temporada).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 32: Messi nivel 1 joven — neutralidad post-asistencia, sin celebración, expresión de concentración terminada.
+(7) DIRECCIÓN DE LUZ — ESCENA 32: FLASHBACK LIGHTING — luz artificial estadio upper-left amarilla #B8B090, sombras largas, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 32: balón saliendo del frame en motion blur, red al fondo vibrando con el impacto, masa de tribunas elevándose al unísono.
+(9) JERARQUÍA VISUAL — ESCENA 32: ELEMENTO DOMINANTE: Messi en posición frontal terminando el pase. Subordinado: la red al fondo y la trayectoria del balón.
+(10) PROPORCIÓN EN FRAME: medium shot — Messi ocupa 1/2 del frame, gol al fondo subordinado.
+(11) DIRECCIÓN DE MIRADA: looking right — siguiendo al balón hacia el arco.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "pase al espacio. Gol. Messi no celebra. Corre al"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+
+═══ ESCENA 33 — [00:02:35 — 00:02:40] | TEMA: FLASHBACK — Messi no celebra, corre al centro cabeza baja ═══
+CÁMARA: slow push in · low angle shot.
+PERSONAJES: Messi joven — cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba apenas insinuada bozo fino, piel #C68642, ojos pequeños mirando hacia abajo, expresión neutra absoluta. Tatuajes pequeños brazo izquierdo y pantorrilla derecha. Camiseta Real Madrid blanca #FFFFFF, ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172 / "FLY BETTER". Pantalón corto blanco. Medias blancas franjas lila. Botines blancos adidas. MANOS: brazos colgando adelante del cuerpo, manos juntas frente al abdomen — postura de cabeza baja codificada por las reglas. Trotando suavemente hacia el centro del campo.
+AUDIO 3 CAPAS — [Fondo]: rugido del Bernabéu sostenido coreando. [Acción]: pasos suaves y cortos de Messi sobre el césped — sin urgencia. [Detalle]: el sonido aislado de su respiración pausada sobre el rugido.
+(1) PALETA OBLIGATORIA (FLASHBACK — desaturada 30% + viñeta oscura bordes): césped #1E5221, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, dorado apagado #8C7535, masa tribunas #1A1A2E celebrando. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo, ni Xavi, ni utilero. Otros jugadores corriendo a celebrar a su alrededor en siluetas blancas anónimas borrosas. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 33: la escena anterior mostró el pase culminando en gol; ahora Messi camina al centro del campo sin celebrar mientras el resto explota.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi versión joven primera temporada).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 33: Messi nivel 1 joven — postura encorvada hacia adelante con manos juntas frente al abdomen, mirada baja, expresión completamente neutra como si no hubiera pasado nada extraordinario.
+(7) DIRECCIÓN DE LUZ — ESCENA 33: FLASHBACK LIGHTING — luz artificial estadio upper-left amarilla #B8B090, sombras largas a la derecha, viñeta oscura. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 33: siluetas blancas borrosas de compañeros corriendo lateralmente fuera de foco, masa de tribunas levantando los brazos en celebración al fondo, briznas de césped vibrando con los pasos.
+(9) JERARQUÍA VISUAL — ESCENA 33: ELEMENTO DOMINANTE: Messi en contrapicado caminando con cabeza baja. Subordinado: siluetas borrosas de compañeros y masa del Bernabéu.
+(10) PROPORCIÓN EN FRAME: medium shot — Messi ocupa 1/2 del frame por contrapicado.
+(11) DIRECCIÓN DE MIRADA: looking down — fija en el césped a sus pies.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina — su quietud emocional contra la euforia del entorno.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "centro con la cabeza baja como alguien que acaba de hacer algo completamente normal. Escribes"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 34 — [00:02:40 — 00:02:45] | TEMA: cabina/redacción — periodista escribe y tacha lo que sabe ═══
+CÁMARA: slow pull back · over the shoulder shot (sobre el hombro derecho del periodista hacia la libreta).
+PERSONAJES: El Periodista — cabeza perfectamente circular blanco puro #FFFFFF sin textura. Cejas gruesas oscuras fruncidas, ojos pequeños hundidos, boca pequeña recta. Sin cabello. Cuerpo blanco #FFFFFF. Blazer texturado verde azulado oscuro #3D6B6B, camisa interior gris medio #8A8A8A, cinturón #5C3317, pantalón #5A5A5A, zapatos #7B3F00. Credencial visible. MANOS: mano derecha blanca #FFFFFF sosteniendo bolígrafo negro #1A1A1A trazando una línea horizontal gruesa sobre texto manuscrito previamente escrito — UN TACHÓN visible en la página. Mano izquierda apoyada plana al lado de la libreta. La página interior #FFFFF0 muestra varias líneas con texto manuscrito y el tachón nuevo.
+AUDIO 3 CAPAS — [Fondo]: zumbido fluorescente de la redacción nocturna, distantes teclados. [Acción]: raspar grueso del bolígrafo trazando el tachón. [Detalle]: respiración contenida del periodista en el momento de tachar.
+(1) PALETA OBLIGATORIA: redacción #1E2A3A, pantallas #4A90D9, escritorios #4A4A4A, fluorescente #E8F0FF, blazer #3D6B6B, libreta negra #1A1A1A, página #FFFFF0, tachón negro #1A1A1A. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays interpretables (texto manuscrito ilegible), no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 34: la escena anterior mostró a Messi caminando con cabeza baja sin celebrar; ahora el periodista termina de escribir en su libreta y traza un tachón.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 1 (El Periodista).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 34: El Periodista nivel 2 peso del pasado — encorvamiento, hombros caídos, cejas fruncidas, mandíbula apretada en el momento del tachón.
+(7) DIRECCIÓN DE LUZ — ESCENA 34: noche · luz fluorescente cenital fría #E8F0FF + brillo azul de pantallas, sombras nítidas. Bloque 2.
+(8) MOVIMIENTO EN FRAME — ESCENA 34: el bolígrafo trazando lentamente la línea del tachón, polvo flotando en haz de luz, leve oscilación de hombro al apretar el bolígrafo.
+(9) JERARQUÍA VISUAL — ESCENA 34: ELEMENTO DOMINANTE: el tachón formándose sobre el texto. Subordinado: la mano del periodista, el hombro y nuca en primer plano.
+(10) PROPORCIÓN EN FRAME: medium shot — sobre el hombro hacia la libreta, periodista visible 1/2 del frame.
+(11) DIRECCIÓN DE MIRADA: looking down — fija en el tachón.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "en la libreta. Sabes exactamente lo que hace. Lo tachas."
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 35 — [00:02:45 — 00:02:50] | TEMA: POV periodista — sus manos blancas sobre la libreta llena de tachones ═══
+CÁMARA: slow push in · POV shot (POV directa del periodista mirando hacia abajo a sus propias manos sobre la libreta abierta).
+PERSONAJES: ningún personaje visible — POV rule. Solo se ven las manos blancas #FFFFFF del periodista en primer plano sosteniendo y abriendo la libreta negra A5 #1A1A1A. La página interior #FFFFF0 muestra trazos manuscritos en negro irregulares ilegibles intercalados con MÚLTIPLES TACHONES NEGROS GRUESOS HORIZONTALES — el rasgo distintivo de las páginas del periodista. Dos páginas visibles, ambas con tachones. La mano derecha sostiene el bolígrafo entre los dedos. Fondo del escritorio gris oscuro #4A4A4A, fuera de foco.
+AUDIO 3 CAPAS — [Fondo]: silencio espeso, leve zumbido fluorescente. [Acción]: páginas de la libreta crujiendo al pasar lentamente. [Detalle]: respiración contenida del periodista cerca del micrófono espacial.
+(1) PALETA OBLIGATORIA: libreta negra #1A1A1A, páginas #FFFFF0, tachones negros #1A1A1A, mano blanca #FFFFFF, bolígrafo negro #1A1A1A, escritorio #4A4A4A, fluorescente fría #E8F0FF. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero, ni rostro del periodista. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays interpretables (texto manuscrito ilegible), no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 35: la escena anterior mostró el tachón siendo trazado; ahora POV del periodista hacia las páginas anteriores de la libreta — la acumulación visible de los tachones del último año.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: ninguna principal (POV, solo manos visibles).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 35: leve temblor de las manos comunica el peso de la acumulación.
+(7) DIRECCIÓN DE LUZ — ESCENA 35: noche · luz fluorescente cenital #E8F0FF iluminando uniformemente las páginas, sombra de las manos sobre el papel, viñeta oscura en bordes simulando visión periférica.
+(8) MOVIMIENTO EN FRAME — ESCENA 35: páginas de la libreta pasando lentamente por la mano izquierda, cada una mostrando más tachones, polvo flotando en el haz de luz.
+(9) JERARQUÍA VISUAL — ESCENA 35: ELEMENTO DOMINANTE: los múltiples tachones negros sobre las páginas blancas. Subordinado: las manos blancas, la libreta negra, el escritorio.
+(10) PROPORCIÓN EN FRAME: POV shot — sin personaje visible salvo manos, viñeta oscura bordes.
+(11) DIRECCIÓN DE MIRADA: looking down — POV directa hacia abajo a las páginas.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina — la libreta y los tachones son el peso visual.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "No puedes ser objetivo con esto. Lo sabes desde el primer día."
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 36 — [00:02:50 — 00:02:55] | TEMA: cabina prensa Bernabéu — sigues viniendo a cada partido ═══
+CÁMARA: slow pull back · low angle shot.
+PERSONAJES: El Periodista — cabeza perfectamente circular blanco puro #FFFFFF sin textura, cejas gruesas oscuras fruncidas al máximo, ojos pequeños hundidos, boca pequeña recta levemente caída. Sin cabello. Cuerpo blanco #FFFFFF. Blazer texturado verde azulado oscuro #3D6B6B con solapa pronunciada y dos botones, camisa gris medio #8A8A8A cuello abierto, cinturón #5C3317, pantalón #5A5A5A, zapatos #7B3F00. Credencial de prensa visible. Postura nivel 3 — hombros caídos, cuerpo comprimido, blazer con arruga diagonal en hombro izquierdo (acumulación). MANOS: ambas blancas #FFFFFF colgando a los costados, dedos levemente separados, libreta negra cerrada bajo el brazo izquierdo.
+AUDIO 3 CAPAS — [Fondo]: clamor del Bernabéu en otro partido nocturno — masa sonora compacta. [Acción]: pasos lentos del periodista entrando a la cabina. [Detalle]: el crujido de la libreta cerrada bajo el brazo presionada contra el blazer.
+(1) PALETA OBLIGATORIA: cabina cristal con reflejo azul oscuro #0D1B3E, interior #E8F0FF, mesa #4A4A4A, fondo #1A1A2E, blazer #3D6B6B, libreta negra #1A1A1A, campo verde fondo lejano #2D7A2D. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero. Otros periodistas en cabina solo siluetas grises borrosas anónimas. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 36: la escena anterior fue POV del periodista sobre las páginas con tachones acumulados; ahora vemos al periodista entrando otra vez a la cabina de un partido del Madrid — repetición ritual.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 1 (El Periodista).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 36: El Periodista nivel 3 acumulación — hombros caídos, cuerpo comprimido, expresión de carga sostenida, blazer con arruga diagonal visible en hombro izquierdo.
+(7) DIRECCIÓN DE LUZ — ESCENA 36: noche · luz fría #E8F0FF cenital ligeramente upper-left + reflejo del verde césped en cristal, sombras nítidas. Bloque 1 / transición Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 36: humo lento de aire acondicionado, masa de tribunas vibrando al fondo a través del cristal, leve oscilación del cuerpo del periodista al caminar.
+(9) JERARQUÍA VISUAL — ESCENA 36: ELEMENTO DOMINANTE: la silueta del periodista en contrapicado entrando a la cabina. Subordinado: el cristal con el campo al fondo, otras siluetas borrosas.
+(10) PROPORCIÓN EN FRAME: medium shot — periodista ocupa 1/2 del frame por contrapicado.
+(11) DIRECCIÓN DE MIRADA: looking toward horizon — hacia el campo a través del cristal.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina — la cabina y el estadio aplastan al periodista.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "Y aún así sigues viniendo a cada partido, llenando páginas que nunca publicas,"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 37 — [00:02:55 — 00:03:00] | TEMA: redacción — pila de páginas no publicadas, deuda acumulada ═══
+CÁMARA: slow push in · side profile shot.
+PERSONAJES: El Periodista — cabeza circular blanco puro #FFFFFF sin textura, cejas fruncidas, ojos hundidos, boca recta. Cuerpo blanco #FFFFFF. Blazer #3D6B6B con arruga diagonal en hombro izquierdo, camisa #8A8A8A, cinturón #5C3317, pantalón #5A5A5A, zapatos #7B3F00. Credencial visible. MANOS: mano derecha sosteniendo una libreta negra A5 #1A1A1A cerrada con el dedo índice marcando una página, mano izquierda apoyada plana sobre una pila desordenada de varias libretas similares apiladas en el escritorio (al menos cuatro libretas más, todas negras idénticas). Inclinado levemente hacia adelante.
+AUDIO 3 CAPAS — [Fondo]: silencio de redacción nocturna, leve zumbido fluorescente. [Acción]: dedo del periodista pasando sobre el lomo de una libreta, suspiro contenido. [Detalle]: leve crujido del cuero envejecido de las libretas más antiguas.
+(1) PALETA OBLIGATORIA: redacción #1E2A3A, escritorio #4A4A4A, fluorescente #E8F0FF, blazer #3D6B6B, libretas negras #1A1A1A, pantalla azul fría #4A90D9 al fondo. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 37: la escena anterior mostró al periodista entrando a la cabina del Bernabéu en otro partido; ahora vemos la consecuencia acumulada — la pila de libretas no publicadas en su escritorio.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 1 (El Periodista).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 37: El Periodista nivel 3 acumulación — encorvamiento, hombros caídos, blazer arrugado en hombro izquierdo, expresión de peso sostenido.
+(7) DIRECCIÓN DE LUZ — ESCENA 37: noche · luz fluorescente cenital fría #E8F0FF + brillo azul de pantalla, sombras nítidas a la derecha. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 37: leve temblor de las manos, cursor parpadeando en pantalla del fondo, polvo flotando en luz cenital.
+(9) JERARQUÍA VISUAL — ESCENA 37: ELEMENTO DOMINANTE: la pila de libretas negras sobre el escritorio. Subordinado: el periodista en perfil, escritorio, fondo.
+(10) PROPORCIÓN EN FRAME: medium shot — periodista de cintura para arriba ocupa 1/2 del frame con la pila de libretas en primer plano.
+(11) DIRECCIÓN DE MIRADA: looking down — fija en la pila.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "acumulando una deuda que no sabes cómo saldar ni a quién. Ese año Barcelona"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 38 — [00:03:00 — 00:03:04] | TEMA: tabla de Liga — Barcelona segundo, Madrid primero ═══
+CÁMARA: slow pull back · bird's eye view.
+PERSONAJES: ningún personaje en frame. Composición simbólica de tabla de Liga vista desde arriba — superficie blanca #FFFFFF con dos filas horizontales destacadas: la fila superior (primero) muestra el escudo Real Madrid circular dorado/blanco con corona, la fila inferior (segundo) muestra el escudo FC Barcelona circular azul granate/amarillo (#004D98 / #A50044 / #EDBB00). Una flecha sutil gris #C0C0C0 entre las dos filas indicando un punto de diferencia. El resto de la tabla difuminado a los bordes.
+AUDIO 3 CAPAS — [Fondo]: silencio total con muy leve eco. [Acción]: una sola línea siendo dibujada lentamente entre los dos escudos. [Detalle]: tic profundo de un reloj de pared al cierre de temporada.
+(1) PALETA OBLIGATORIA: fondo blanco #FFFFFF, escudo Madrid dorado #C9A84C / blanco, escudo Barcelona azul #004D98 / rojo #A50044 / amarillo #EDBB00, líneas grises #C0C0C0, sombra textura #1A1A1A. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparecen Messi, El Periodista, Ronaldo, Xavi ni utilero (sin personajes — solo composición simbólica). PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays interpretables (los escudos son elementos diegéticos válidos), no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 38: la escena anterior mostró la pila de libretas del periodista; ahora vista cenital simbólica del resultado de esa primera temporada — Barcelona segundo a un punto del Madrid.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: ninguna.
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 38: peso simbólico de la diferencia mínima entre los dos escudos.
+(7) DIRECCIÓN DE LUZ — ESCENA 38: luz cenital uniforme #FFFFFF, sombras suaves debajo de los escudos como objetos físicos sobre superficie. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 38: la flecha siendo trazada lentamente entre los dos escudos, leve sombra de los escudos cambiando con un mínimo movimiento de luz.
+(9) JERARQUÍA VISUAL — ESCENA 38: ELEMENTO DOMINANTE: los dos escudos en composición vertical. Subordinado: la flecha y la tabla difuminada.
+(10) PROPORCIÓN EN FRAME: detail shot — los escudos ocupan el frame completo, fondo abstracto.
+(11) DIRECCIÓN DE MIRADA: N/A.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+(14) CONTEXTO DE ESCENA (NO VISUAL): "termina segundo en Liga, un punto por detrás del Madrid."
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 39 — [00:03:04 — 00:03:10] | TEMA: Xavi entrevista — un solo punto, le preguntan ═══
+CÁMARA: slow push in · close-up shot.
+PERSONAJES: Xavi (primera aparición canónica) — figura masculina de altura media-baja, cabeza levemente alargada, piel clara #E0C9A6, cabello oscuro cortísimo casi rapado #2A2A2A. Ojos pequeños mirando hacia adelante con expresión reflexiva. Vestuario: chándal de entrenador del FC Barcelona — chaqueta azul granate #6B002A con detalles dorados #C9A84C en cuello y franjas en hombros, escudo FC Barcelona circular azul granate/rojo/amarillo (#004D98 / #A50044 / #EDBB00) en pecho izquierdo. Postura reflexiva, mentón levemente inclinado hacia abajo. MANOS: cruzadas frente al cuerpo a la altura de la cintura, dedos entrelazados con leve tensión. Visible de hombros para arriba.
+AUDIO 3 CAPAS — [Fondo]: ambiente de sala de prensa, micrófonos vibrando levemente sobre una mesa, leve eco amortiguado. [Acción]: respiración pausada y profunda de Xavi previa a responder. [Detalle]: el silencio de tres segundos en el que su mandíbula se mueve casi imperceptiblemente.
+(1) PALETA OBLIGATORIA: fondo neutro azul oscuro #1A2030 desenfocado de sala de prensa, chándal Barcelona granate #6B002A con dorado #C9A84C, piel #E0C9A6, escudo Barcelona #004D98 / #A50044 / #EDBB00, micrófono negro #1A1A1A. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni El Periodista, ni Ronaldo, ni utilero. Periodistas de prensa al fondo solo siluetas grises difuminadas. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer (Xavi NO mira a la cámara — su mirada es contemplativa hacia adelante hacia un periodista invisible que pregunta), no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating (la boca de Xavi está cerrada en este preciso instante de silencio).
+(3) CONTINUIDAD NARRATIVA — ESCENA 39: la escena anterior mostró la tabla simbólica con Madrid primero y Barcelona segundo; ahora close-up a Xavi en la entrevista posterior a la última jornada — el momento del silencio antes de responder.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen referencial Xavi (descripción canónica establecida en esta escena).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 39: Xavi en estado canónico — postura reflexiva, hombros levemente caídos, expresión de derrota contenida.
+(7) DIRECCIÓN DE LUZ — ESCENA 39: luz fría artificial cenital #E8F0FF de sala de prensa, sombra suave bajo el mentón, contraste suave en el rostro. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 39: leve oscilación del micrófono frente a su rostro, polvo flotando en haz de luz, parpadeo casi imperceptible.
+(9) JERARQUÍA VISUAL — ESCENA 39: ELEMENTO DOMINANTE: el rostro de Xavi en close-up. Subordinado: el micrófono delante, fondo de sala de prensa difuminado.
+(10) PROPORCIÓN EN FRAME: close-up — rostro y hombros ocupan 3/4 del frame.
+(11) DIRECCIÓN DE MIRADA: looking toward horizon — fija al frente hacia el periodista invisible que pregunta.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "Un solo punto. Xavi da una entrevista después de la última jornada. Le preguntan"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 40 — [00:03:10 — 00:03:15] | TEMA: POV Xavi — silencio tres segundos antes de responder ═══
+CÁMARA: slow pull back · POV shot (POV de Xavi mirando hacia adelante a la masa de periodistas con micrófonos extendidos).
+PERSONAJES: ningún personaje principal visible — POV rule. Solo se ven una masa de figuras simplificadas de Periodistas/Prensa — masa compacta uniforme, altura media uniforme, vestimenta en tonos grises y oscuros (#4A4A4A, #2D2D2D), micrófonos de mango cilíndrico negro #1A1A1A con cabeza esférica plateada #C0C0C0 extendidos hacia el frame. Sin rasgos faciales individualizados, sin diferencias entre las figuras — masa anónima. Algunos rostros borrosos por la profundidad de campo.
+AUDIO 3 CAPAS — [Fondo]: silencio espeso de la sala de prensa, hum eléctrico de equipos. [Acción]: respiración contenida colectiva de los periodistas esperando la respuesta. [Detalle]: el chasquido sutil de una grabadora encendiéndose en algún lado.
+(1) PALETA OBLIGATORIA: figuras de periodistas grises y oscuros #4A4A4A / #2D2D2D, micrófonos negro #1A1A1A / plateado #C0C0C0, fondo de sala de prensa azul oscuro #1A2030, viñeta lateral oscura. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni El Periodista identificable, ni Ronaldo, ni utilero. Los periodistas son masa anónima sin individualizar. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer (los periodistas tienen micrófonos hacia la cámara que ES Xavi en POV — válido por POV rule), no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 40: la escena anterior mostró close-up del rostro de Xavi en silencio; ahora POV directa de Xavi viendo la masa de prensa esperando.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: ninguna principal (POV — sin personaje principal).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 40: tensión expresada por la cantidad de micrófonos extendidos hacia el frame y la quietud absoluta de los tres segundos.
+(7) DIRECCIÓN DE LUZ — ESCENA 40: luz cenital fría #E8F0FF artificial sobre la masa de periodistas, viñeta oscura lateral simulando visión periférica humana. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 40: leve oscilación de los micrófonos extendidos por la mano que los sostiene, polvo flotando, vibración sutil de una luz fluorescente al fondo.
+(9) JERARQUÍA VISUAL — ESCENA 40: ELEMENTO DOMINANTE: la masa de micrófonos extendidos hacia el frame. Subordinado: los rostros borrosos detrás, el fondo de la sala.
+(10) PROPORCIÓN EN FRAME: POV shot — sin personaje principal visible, viñeta oscura bordes.
+(11) DIRECCIÓN DE MIRADA: looking toward horizon — POV directa hacia la masa de periodistas.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina — la masa de prensa rodea la perspectiva.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "qué le faltó al equipo. Silencio. Tres segundos. Un jugador,"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 41 — [00:03:15 — 00:03:20] | TEMA: redacción — el periodista lee la frase de Xavi cuatro veces ═══
+CÁMARA: slow push in · frontal shot.
+PERSONAJES: El Periodista — cabeza perfectamente circular blanco puro #FFFFFF sin textura. Cejas gruesas oscuras fruncidas, ojos pequeños hundidos fijos hacia abajo. Boca pequeña recta tensa. Sin cabello. Cuerpo blanco #FFFFFF. Blazer #3D6B6B con arruga diagonal en hombro izquierdo (acumulación), camisa #8A8A8A, cinturón #5C3317, pantalón #5A5A5A, zapatos #7B3F00. Credencial visible. MANOS: ambas blancas #FFFFFF apoyadas sobre el escritorio gris oscuro #4A4A4A, mano derecha sosteniendo una hoja de periódico/transcripción con la frase resaltada en una fila de texto en bold negro sobre fondo blanco #FFFFFF, mano izquierda con el bolígrafo negro #1A1A1A apuntando a la línea. La pantalla de la laptop al fondo muestra la transcripción digital de la entrevista.
+AUDIO 3 CAPAS — [Fondo]: silencio nocturno de redacción, leve zumbido fluorescente. [Acción]: dedo del periodista pasando por una línea de la transcripción, hojas de papel siendo tocadas. [Detalle]: cuatro respiraciones distintas — la cuarta más agitada que las anteriores.
+(1) PALETA OBLIGATORIA: redacción #1E2A3A, escritorio #4A4A4A, fluorescente fría #E8F0FF, blazer #3D6B6B, papel blanco #FFFFFF, texto negro #1A1A1A, pantalla laptop azul #4A90D9. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays interpretables (los textos en pantalla y en papel son simulados con líneas grises paralelas para el contenido detallado, salvo posibles fragmentos diegéticos), no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 41: la escena anterior fue POV de Xavi viendo la masa de periodistas; ahora el periodista en su redacción lee y relee la transcripción de la entrevista.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 1 (El Periodista).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 41: El Periodista nivel 3 acumulación — encorvamiento marcado, hombros caídos, cejas fruncidas al máximo, mandíbula apretada por la lectura repetida.
+(7) DIRECCIÓN DE LUZ — ESCENA 41: noche · luz fluorescente cenital #E8F0FF + brillo azul de pantalla iluminando lateralmente, sombras nítidas. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 41: cursor parpadeando en la transcripción digital, leve temblor del dedo pasando sobre el papel, polvo flotando.
+(9) JERARQUÍA VISUAL — ESCENA 41: ELEMENTO DOMINANTE: la cabeza redonda blanca del periodista frontal con cejas fruncidas. Subordinado: papel y laptop en primer plano inferior, escritorio.
+(10) PROPORCIÓN EN FRAME: medium shot — periodista de cintura para arriba ocupa 1/2 del frame.
+(11) DIRECCIÓN DE MIRADA: looking down — fija en la línea del papel.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "dice. Lees esa frase cuatro veces. La quinta. No puedes"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 42 — [00:03:20 — 00:03:25] | TEMA: la quinta vez no puede terminar — segunda temporada inicia ═══
+CÁMARA: slow pull back · low angle shot.
+PERSONAJES: El Periodista — cabeza circular blanco puro #FFFFFF sin textura, cejas fruncidas, ojos hundidos, boca pequeña apretada. Sin cabello. Cuerpo blanco #FFFFFF. Blazer #3D6B6B con arruga diagonal hombro izquierdo, camisa #8A8A8A, cinturón #5C3317, pantalón #5A5A5A, zapatos #7B3F00. Credencial visible. MANOS: mano derecha con bolígrafo negro #1A1A1A bajando lentamente y soltándolo sobre el escritorio, mano izquierda apoyada plana sobre la transcripción. Hombros levemente más caídos que en escena anterior.
+AUDIO 3 CAPAS — [Fondo]: silencio profundo de redacción nocturna. [Acción]: el bolígrafo cayendo sobre el escritorio con un click seco aislado, exhalación larga del periodista. [Detalle]: tic interno de un reloj de pared marcando el cierre del momento.
+(1) PALETA OBLIGATORIA: redacción #1E2A3A, escritorio #4A4A4A, fluorescente fría #E8F0FF, blazer #3D6B6B, bolígrafo negro #1A1A1A, papel blanco #FFFFFF. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 42: la escena anterior mostró al periodista leyendo la frase de Xavi; ahora suelta el bolígrafo, no puede terminar la lectura — fin emocional de la primera temporada.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 1 (El Periodista).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 42: El Periodista nivel 3 — postura de quiebre incipiente, hombros caídos al máximo, expresión vacía.
+(7) DIRECCIÓN DE LUZ — ESCENA 42: noche · luz fluorescente cenital fría #E8F0FF + brillo azul lateral, sombras alargadas hacia la derecha por contrapicado. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 42: el bolígrafo rodando milímetros tras caer al escritorio, polvo flotando, leve oscilación de los hombros del periodista al exhalar.
+(9) JERARQUÍA VISUAL — ESCENA 42: ELEMENTO DOMINANTE: el periodista en contrapicado con expresión vacía. Subordinado: el escritorio y el bolígrafo caído.
+(10) PROPORCIÓN EN FRAME: medium shot — periodista ocupa 1/2 del frame por contrapicado.
+(11) DIRECCIÓN DE MIRADA: unfocused / dissociated gaze — mirada perdida sin enfocar nada.
+(12) TRANSICIÓN DE SALIDA: FADE TO BLACK (transición temporal a la segunda temporada).
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina — la redacción nocturna pesa sobre la figura.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "terminarla. Segunda temporada. Ronaldo y Messi empiezan a jugar juntos"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 43 — [00:03:25 — 00:03:30] | TEMA: FLASHBACK — Ronaldo y Messi empiezan a jugar juntos ═══
+CÁMARA: slow push in · over the shoulder shot (sobre el hombro derecho de un compañero del Madrid hacia los dos jugadores en el campo).
+PERSONAJES (DOS EN FRAME): EN PRIMER PLANO/EQUILIBRIO COMPARTIDO — Ronaldo a la izquierda del frame, figura masculina alta y musculosa, cabeza redondeada, piel #D4956A, cabello negro corto con gel #1A1A1A peinado hacia atrás, mandíbula marcada, expresión de confianza, postura erguida pecho expandido. Camiseta Real Madrid blanca #FFFFFF con ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172. Pantalón corto blanco. MANOS RONALDO: brazo derecho señalando hacia un espacio del campo con dedo índice extendido, brazo izquierdo a un costado con puño levemente cerrado. — Messi a la derecha del frame, cabeza grande caricaturesca, cabello castaño oscuro #3B2314 corto, barba corta y densa (segunda temporada — barba en transición, más poblada que primera temporada pero aún no canónica del presente), piel #C68642, ojos pequeños fijos en Ronaldo. Tatuajes en ambos brazos visibles ahora (más extensión que primera temporada — segundo tatuaje empezando a aparecer en brazo derecho). Camiseta Real Madrid idéntica al canon. MANOS MESSI: brazos a los costados con dedos curvados levemente.
+AUDIO 3 CAPAS — [Fondo]: campo de entrenamiento diurno con leve viento, voces lejanas de otros jugadores. [Acción]: voz de Ronaldo dando una indicación táctica corta. [Detalle]: el sonido seco de un balón rebotando lejano.
+(1) PALETA OBLIGATORIA (FLASHBACK leve — desaturada 30% + viñeta oscura bordes): verde césped diurno apagado #2E6C2E, cielo azul claro apagado #6A9CD0, arcos blancos #C8C8C8, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, dorado apagado #8C7535. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Xavi, ni utilero. Otros jugadores al fondo solo siluetas blancas anónimas. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer (Ronaldo habla a Messi presente — excepción válida), no text overlays, no subtitles, no speech bubbles.
+(3) CONTINUIDAD NARRATIVA — ESCENA 43: la escena anterior cerró con FADE TO BLACK la primera temporada; emergemos del negro al campo de entrenamiento del Madrid en la segunda temporada con Ronaldo y Messi empezando a colaborar.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi versión segunda temporada) + Ronaldo canónico.
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 43: Ronaldo en confianza, Messi nivel 2 consolidado — postura de dominio físico, pecho ligeramente expandido, calma absoluta, cejas neutras.
+(7) DIRECCIÓN DE LUZ — ESCENA 43: FLASHBACK LIGHTING — luz diurna desaturada upper-left #C8C0A0, sombras cortas hacia la derecha de los dos jugadores, viñeta oscura. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 43: hierba moviéndose con el viento, leve sombra de nube cruzando el campo, dedo índice de Ronaldo terminando un gesto.
+(9) JERARQUÍA VISUAL — ESCENA 43: ELEMENTO DOMINANTE COMPARTIDO: Ronaldo y Messi en composición lateral. Subordinado: campo de entrenamiento, otros jugadores difuminados.
+(10) PROPORCIÓN EN FRAME: medium shot — los dos personajes ocupan 1/2 del frame.
+(11) DIRECCIÓN DE MIRADA: Ronaldo looking right (al espacio que indica). Messi looking left (a Ronaldo).
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "de verdad. No como dos estrellas compartiendo campo. Como dos personas"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 44 — [00:03:30 — 00:03:35] | TEMA: FLASHBACK — dos personas que encontraron algo en el otro ═══
+CÁMARA: slow pull back · side profile shot.
+PERSONAJES (DOS EN FRAME): Ronaldo en perfil derecho a la izquierda del frame y Messi en perfil izquierdo a la derecha del frame, mirándose mutuamente — composición lateral simétrica. RONALDO: cabeza redondeada, piel #D4956A, cabello negro #1A1A1A peinado hacia atrás, mandíbula marcada, expresión de confianza con leve calidez. Camiseta Real Madrid blanca #FFFFFF con ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172. MANOS RONALDO: ambas manos a los costados con dedos relajados, no más en posición de dominio. MESSI segunda temporada: cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba corta y densa, piel #C68642, ojos pequeños fijos en Ronaldo, expresión de reconocimiento mutuo. Camiseta Real Madrid idéntica. MANOS MESSI: brazos a los costados, dedos curvados.
+AUDIO 3 CAPAS — [Fondo]: campo de entrenamiento, viento suave, sonido lejano de jugadores. [Acción]: respiración compartida y pausada de los dos jugadores. [Detalle]: leve roce de las medias contra los botines al cambiar de pierna apoyada.
+(1) PALETA OBLIGATORIA (FLASHBACK leve — desaturada 30% + viñeta oscura bordes): césped #2E6C2E, cielo #6A9CD0, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, pieles. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating (boca cerrada — momento de reconocimiento silencioso).
+(3) CONTINUIDAD NARRATIVA — ESCENA 44: la escena anterior mostró a Ronaldo dando una indicación táctica a Messi; ahora un momento más íntimo de mutuo reconocimiento entre los dos.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi segunda temporada) + Ronaldo canónico.
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 44: ambos jugadores en calma compartida, postura simétrica de respeto mutuo.
+(7) DIRECCIÓN DE LUZ — ESCENA 44: FLASHBACK LIGHTING — luz diurna desaturada upper-left #C8C0A0, sombras hacia la derecha, viñeta oscura. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 44: hierba moviéndose con viento entre los dos jugadores, sombra de nube cruzando el campo de fondo, leve oscilación del cabello de Messi.
+(9) JERARQUÍA VISUAL — ESCENA 44: ELEMENTO DOMINANTE COMPARTIDO: los dos personajes en composición lateral simétrica. Subordinado: el campo entre ellos.
+(10) PROPORCIÓN EN FRAME: medium shot — los dos en perfil ocupan 1/2 del frame con espacio entre ellos.
+(11) DIRECCIÓN DE MIRADA: Ronaldo looking right (a Messi). Messi looking left (a Ronaldo). Ninguno mira a cámara.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina — el momento les pertenece.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "que encontraron en el otro algo que no esperaban encontrar. Ronaldo hace el"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 45 — [00:03:35 — 00:03:40] | TEMA: FLASHBACK — Ronaldo hace el movimiento, Messi lee el espacio (POV) ═══
+CÁMARA: slow push in · POV shot (POV de Messi viendo a Ronaldo arrancar en diagonal hacia el espacio).
+PERSONAJES: ningún personaje principal visible — POV rule. Solo se ve a Ronaldo en plano medio corriendo en diagonal hacia la esquina superior derecha del frame, cabeza redondeada de espaldas y tres cuartos, piel #D4956A, cabello negro #1A1A1A, camiseta Real Madrid blanca #FFFFFF con ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172, pantalón corto blanco. Brazos en movimiento de carrera con dedos extendidos. En el suelo del frame, una pelota blanco/negro #FFFFFF/#1A1A1A iniciando trayectoria hacia donde corre Ronaldo. Línea blanca del campo cruzando el frame.
+AUDIO 3 CAPAS — [Fondo]: rugido del Bernabéu en otro partido nocturno. [Acción]: pasos rápidos y secos de Ronaldo arrancando, golpe del pase. [Detalle]: el silbido fino del aire al lado de la pelota en trayectoria.
+(1) PALETA OBLIGATORIA (FLASHBACK leve — desaturada 30% + viñeta oscura bordes): césped #1E5221, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, líneas blancas campo, masa tribunas #1A1A2E. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Xavi, ni utilero, ni Messi visible (POV). PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 45: la escena anterior mostró a Ronaldo y Messi en perfil mirándose; ahora ya en partido vivimos el primer momento de química — POV de Messi que ya leyó el espacio antes de que Ronaldo arrancara.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Ronaldo canónico.
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 45: la velocidad del momento — Ronaldo arrancando en diagonal, pelota en transición.
+(7) DIRECCIÓN DE LUZ — ESCENA 45: FLASHBACK LIGHTING — luz artificial estadio upper-left amarilla apagada #B8B090, sombra de Ronaldo alargada, viñeta oscura amplia. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 45: motion blur en piernas de Ronaldo corriendo, pelota rodando con motion blur, briznas de césped saltando, masa de tribunas vibrando.
+(9) JERARQUÍA VISUAL — ESCENA 45: ELEMENTO DOMINANTE: la silueta de Ronaldo arrancando en diagonal hacia el espacio. Subordinado: la pelota, el césped, las tribunas.
+(10) PROPORCIÓN EN FRAME: POV shot — sin personaje principal, viñeta oscura bordes.
+(11) DIRECCIÓN DE MIRADA: looking right — POV directa hacia donde corre Ronaldo.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina — Ronaldo en movimiento centra el frame.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "movimiento. Messi lee el espacio antes de que exista. Ronaldo llega gol."
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+═══ ESCENA 46 — [00:03:40 — 00:03:45] | TEMA: FLASHBACK — gol de Ronaldo, Messi gambeta, Ronaldo arranca ═══
+CÁMARA: slow pull back · bird's eye view.
+PERSONAJES (DOS EN FRAME, FUSIÓN DE ACCIONES SIMULTÁNEAS): Ronaldo a la derecha del frame en posición de gol — figura masculina alta de espaldas a la cámara cenital, cabeza redondeada, cabello negro #1A1A1A, camiseta Real Madrid blanca #FFFFFF, brazos abiertos lateralmente en celebración corta, dedos extendidos. Messi a la izquierda del frame iniciando una gambeta — figura más pequeña, cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba corta y densa, piel #C68642, camiseta Real Madrid blanca, brazos extendidos lateralmente para equilibrio, dedos abiertos. Pelota entre los dos en trayectoria diagonal. Defensa del rival en silueta gris difuminada al fondo.
+AUDIO 3 CAPAS — [Fondo]: rugido del Bernabéu compacto. [Acción]: golpe del balón al fondo de la red, doble paso rápido de los pies de Messi sobre el césped en gambeta. [Detalle]: el grito breve de Ronaldo terminando, el silbido del aire en la gambeta de Messi.
+(1) PALETA OBLIGATORIA (FLASHBACK leve — desaturada 30% + viñeta oscura bordes): césped #1E5221, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, dorado apagado #8C7535, línea blanca del campo, masa tribunas #1A1A2E. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Xavi, ni utilero. Defensor rival es figura simplificada anónima. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 46: la escena anterior fue POV de Messi viendo a Ronaldo arrancar; ahora vista cenital simultánea de Ronaldo concretando gol y Messi iniciando una gambeta en otra zona del campo.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi segunda temporada) + Ronaldo canónico.
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 46: Ronaldo en celebración corta, Messi nivel 2 consolidado en regate, ambos en estado de fluidez compartida.
+(7) DIRECCIÓN DE LUZ — ESCENA 46: FLASHBACK LIGHTING — luz cenital artificial #B8B090 desaturada, sombras pequeñas a los pies de los jugadores, viñeta oscura. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 46: motion blur en piernas de Messi gambeteando, brazos de Ronaldo terminando apertura, masa de tribunas vibrando.
+(9) JERARQUÍA VISUAL — ESCENA 46: ELEMENTO DOMINANTE COMPARTIDO: los dos jugadores en acciones simultáneas. Subordinado: el campo entre ellos, el defensor difuminado.
+(10) PROPORCIÓN EN FRAME: wide shot — los dos jugadores ocupan 1/4 cada uno del frame, el campo domina.
+(11) DIRECCIÓN DE MIRADA: Ronaldo looking up (en celebración). Messi looking down (al balón).
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "Messi hace la gambeta. Ronaldo arranca sin que nadie se lo pida."
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+
+═══ ESCENA 47 — [00:03:45 — 00:03:50] | TEMA: FLASHBACK — Messi asiste, Ronaldo gol, química ═══
+CÁMARA: slow push in · close-up shot.
+PERSONAJES: Messi segunda temporada — cabeza grande caricaturesca, cabello castaño oscuro #3B2314 corto con leve volumen arriba, barba corta y densa, piel #C68642, ojos pequeños fijos hacia la derecha del frame siguiendo la trayectoria de la pelota, expresión neutra con leve curva interna de satisfacción. Tatuajes en ambos brazos visibles. Camiseta Real Madrid blanca #FFFFFF, ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172. MANOS MESSI: brazo derecho extendido hacia el costado terminando un pase con dedos abiertos, brazo izquierdo cruzado sobre el abdomen.
+AUDIO 3 CAPAS — [Fondo]: rugido del Bernabéu en explosión post-gol. [Acción]: golpe seco del pase rasante seguido del impacto distante del remate. [Detalle]: vibración de la red al fondo amortiguada por la distancia.
+(1) PALETA OBLIGATORIA (FLASHBACK leve — desaturada 30% + viñeta oscura bordes): césped #1E5221 fondo desenfocado, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, dorado apagado #8C7535, piel #A87038. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo en frame (acaba de hacer el gol fuera del frame), ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 47: la escena anterior mostró las acciones simultáneas de Messi y Ronaldo en cenital; ahora close-up del rostro de Messi terminando una asistencia.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi segunda temporada).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 47: Messi nivel 2 consolidado — postura de dominio físico, pecho expandido, calma absoluta, leve curvatura de boca hacia arriba indicando satisfacción contenida.
+(7) DIRECCIÓN DE LUZ — ESCENA 47: FLASHBACK LIGHTING — luz artificial estadio upper-left amarilla apagada #B8B090, sombras nítidas en el rostro, viñeta oscura. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 47: cabello de Messi vibrando levemente por inercia del movimiento, fondo difuminado con tribunas explotando, gota de sudor cayendo desde la sien.
+(9) JERARQUÍA VISUAL — ESCENA 47: ELEMENTO DOMINANTE: el rostro de Messi en close-up. Subordinado: el césped y tribunas difuminadas al fondo.
+(10) PROPORCIÓN EN FRAME: close-up — rostro y hombros ocupan 3/4 del frame.
+(11) DIRECCIÓN DE MIRADA: looking right — siguiendo la trayectoria del balón hacia el gol.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "Asistencia. Los comentaristas hablan de química. Tú ves"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 48 — [00:03:50 — 00:03:55] | TEMA: cabina prensa — el periodista ve algo distinto a química ═══
+CÁMARA: slow pull back · low angle shot.
+PERSONAJES: El Periodista — cabeza perfectamente circular blanco puro #FFFFFF sin textura, cejas gruesas oscuras fruncidas, ojos pequeños hundidos. Boca pequeña recta. Sin cabello. Cuerpo blanco #FFFFFF. Blazer #3D6B6B con arruga diagonal hombro izquierdo, camisa #8A8A8A, cinturón #5C3317, pantalón #5A5A5A, zapatos #7B3F00. Credencial visible. MANOS: ambas blancas #FFFFFF, derecha sosteniendo bolígrafo negro #1A1A1A apuntando hacia la libreta abierta sobre la mesa de la cabina, izquierda apoyada plana al lado de la libreta. Sentado de cara al cristal de la cabina con el campo difuminado al fondo.
+AUDIO 3 CAPAS — [Fondo]: rugido del Bernabéu amortiguado por el cristal, voz lejana de un comentarista en TV de la cabina. [Acción]: respiración pausada del periodista, leve crujido del blazer. [Detalle]: el zumbido eléctrico de la TV con la imagen del replay.
+(1) PALETA OBLIGATORIA: cristal cabina con reflejo azul #0D1B3E, interior cabina iluminación fría #E8F0FF, mesa #4A4A4A, fondo #1A1A2E, blazer #3D6B6B, libreta negra #1A1A1A, página #FFFFF0. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero. Otros periodistas en cabina solo siluetas grises borrosas. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 48: la escena anterior mostró close-up de Messi terminando una asistencia en partido; ahora vemos al periodista en la cabina del Bernabéu observando — ve algo distinto a lo que dicen los demás.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 1 (El Periodista).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 48: El Periodista nivel 3 acumulación — encorvamiento, hombros caídos, expresión de carga sostenida, blazer con arruga.
+(7) DIRECCIÓN DE LUZ — ESCENA 48: noche · luz fría #E8F0FF cenital ligeramente upper-left + reflejo verde difuso del campo, sombras alargadas. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 48: humo lento de aire acondicionado, masa de tribunas vibrando al fondo a través del cristal, cursor parpadeando en una pantalla lateral.
+(9) JERARQUÍA VISUAL — ESCENA 48: ELEMENTO DOMINANTE: la silueta del periodista en contrapicado. Subordinado: cristal, mesa, otras siluetas borrosas.
+(10) PROPORCIÓN EN FRAME: medium shot — periodista ocupa 1/2 del frame por contrapicado.
+(11) DIRECCIÓN DE MIRADA: looking toward horizon — hacia el campo a través del cristal.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "otra cosa. Ves dos jugadores que se entienden porque los dos saben exactamente"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 49 — [00:03:55 — 00:04:00] | TEMA: FLASHBACK — dos jugadores cargan demasiado peso ═══
+CÁMARA: slow push in · side profile shot.
+PERSONAJES (DOS EN FRAME): Ronaldo a la izquierda y Messi segunda temporada a la derecha, ambos sentados sobre el banco del vestuario después del entrenamiento, en perfil mutuo. RONALDO: cabeza redondeada, piel #D4956A, cabello negro #1A1A1A, mandíbula marcada, expresión cansada calmada. Camiseta de entrenamiento Real Madrid blanca con detalles dorados #C9A84C. MANOS RONALDO: codos apoyados sobre los muslos, manos colgando entre las rodillas con dedos relajados. MESSI segunda temporada: cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba corta y densa, piel #C68642, ojos pequeños mirando hacia abajo, expresión de cansancio compartido. Camiseta blanca de entrenamiento. Tatuajes en ambos brazos. MANOS MESSI: codos sobre muslos, manos juntas frente al abdomen con dedos entrelazados.
+AUDIO 3 CAPAS — [Fondo]: vestuario silencioso post-entrenamiento, leve goteo de duchas. [Acción]: respiración pausada compartida, leve crujido del cuero del banco. [Detalle]: el sonido de una toalla cayendo lejana.
+(1) PALETA OBLIGATORIA (FLASHBACK leve — desaturada 30% + viñeta oscura bordes): vestuario blanco apagado #C8C8C8, suelo gris #B0B0B0, banco madera #A89070, taquillas con dorado apagado #8C7535, camisetas blancas #FFFFFF. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 49: la escena anterior mostró al periodista observando desde la cabina; ahora la imagen mental del periodista construye este momento íntimo de los dos jugadores cargando peso.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi segunda temporada) + Ronaldo canónico.
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 49: ambos en cansancio compartido, postura encorvada hacia adelante, peso visible en los hombros.
+(7) DIRECCIÓN DE LUZ — ESCENA 49: FLASHBACK LIGHTING — luz blanca artificial cenital desaturada #C8D0D0, sombras nítidas a los pies, viñeta oscura. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 49: vapor distante de duchas, leve oscilación de los pies de los jugadores tocando el suelo, polvo flotando.
+(9) JERARQUÍA VISUAL — ESCENA 49: ELEMENTO DOMINANTE COMPARTIDO: los dos jugadores en perfil sentados. Subordinado: el banco, el vestuario.
+(10) PROPORCIÓN EN FRAME: medium shot — los dos ocupan 1/2 del frame en composición lateral.
+(11) DIRECCIÓN DE MIRADA: ambos looking down — al suelo.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado — el peso del vestuario coincide con el peso emocional.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "lo que es cargar con demasiado peso, demasiado joven. Jornada 12"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 50 — [00:04:00 — 00:04:05] | TEMA: FLASHBACK — Jornada 12 Madrid vs Atlético, derbi, POV ═══
+CÁMARA: slow pull back · POV shot (POV de un hincha del Bernabéu mirando hacia el campo en el inicio del derbi).
+PERSONAJES: ningún personaje principal visible — POV rule. Solo se ve el campo del Bernabéu desde la altura de las tribunas inferiores con jugadores entrando al campo en formación previa al partido — figuras simplificadas pequeñas a la distancia: jugadores del Madrid en camiseta blanca #FFFFFF y jugadores del Atlético en camiseta a rayas verticales rojas y blancas #C8102E / #FFFFFF (rayas anchas). Marcador electrónico al fondo del estadio en la grada superior izquierda como elemento de composición — rectángulo redondeado negro semitransparente #1A1A1A 70% opacidad con texto blanco bold "MADRID 0 – 0 ATLÉTICO" en tipografía cartoon outline negro. Masa de tribunas culé... no, masa de tribunas blancas del Madrid ondeando.
+AUDIO 3 CAPAS — [Fondo]: rugido del Bernabéu en el inicio del derbi — masa eufórica saturada. [Acción]: pasos de jugadores entrando al campo, silbato del árbitro pitando inicio. [Detalle]: el grito agudo de un hincha cercano a la cámara POV.
+(1) PALETA OBLIGATORIA (FLASHBACK leve — desaturada 30% + viñeta oscura bordes): césped #1E5221, camisetas Madrid blanca #FFFFFF, camisetas Atlético blanco/rojo apagado #C8C8C8 / #8A2A36, masa de tribunas blanca #C0C0C0, marcador #1A1A1A con texto blanco. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Messi identificable individualmente (es masa de equipo), ni Ronaldo identificable, ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays interpretables más allá del marcador diegético, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 50: la escena anterior mostró el momento íntimo de los dos jugadores en el vestuario; ahora salto al derbi de la jornada 12 — POV desde la tribuna del inicio del partido.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: ninguna principal (POV).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 50: tensión del derbi expresada por la masa eufórica ondulando.
+(7) DIRECCIÓN DE LUZ — ESCENA 50: FLASHBACK LIGHTING — luz artificial estadio upper-left amarilla apagada #B8B090, sombras de los jugadores alargadas, viñeta oscura amplia simulando POV. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 50: masa de tribunas blancas ondulando al unísono, banderines moviéndose, jugadores caminando hacia sus posiciones.
+(9) JERARQUÍA VISUAL — ESCENA 50: ELEMENTO DOMINANTE: la masa de tribunas y el campo en perspectiva. Subordinado: el marcador, los jugadores pequeños a la distancia.
+(10) PROPORCIÓN EN FRAME: POV shot — sin personaje principal, viñeta oscura bordes.
+(11) DIRECCIÓN DE MIRADA: looking toward horizon — POV directa hacia el campo.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina al máximo — el estadio entero rodea la perspectiva.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "Madrid contra Atlético. El derbi, el partido"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+
+═══ ESCENA 51 — [00:04:05 — 00:04:10] | TEMA: FLASHBACK — derbi, Bernabéu no regala nada ═══
+CÁMARA: slow push in · frontal shot.
+PERSONAJES: Messi segunda temporada — cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba corta y densa, piel #C68642, ojos pequeños fijos hacia adelante con tensión, expresión de concentración pesada. Tatuajes en ambos brazos. Camiseta Real Madrid blanca #FFFFFF con ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172. Pantalón corto blanco. Medias blancas franjas lila. Botines blancos adidas. MANOS: brazos a los costados con puños levemente cerrados, postura de tensión.
+AUDIO 3 CAPAS — [Fondo]: rugido permanente y exigente del Bernabéu en derbi — masa que no perdona. [Acción]: pasos firmes de Messi sobre el césped en posición. [Detalle]: el silbato del árbitro pitando una falta lejana.
+(1) PALETA OBLIGATORIA (FLASHBACK leve — desaturada 30% + viñeta oscura bordes): césped #1E5221, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, dorado apagado #8C7535, masa tribunas #1A1A2E con destellos blancos, líneas blancas campo. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo identificable, ni Xavi, ni utilero. Otros jugadores como siluetas anónimas borrosas. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 51: la escena anterior fue POV inicial del derbi desde la tribuna; ahora plano frontal de Messi en la cancha sintiendo la exigencia del Bernabéu.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi segunda temporada).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 51: Messi nivel 2 consolidado — postura erguida con tensión, pecho expandido, mandíbula apretada, ojos fijos al frente.
+(7) DIRECCIÓN DE LUZ — ESCENA 51: FLASHBACK LIGHTING — luz artificial estadio upper-left amarilla apagada #B8B090, sombra del jugador alargada a la derecha, viñeta oscura. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 51: masa de tribunas vibrando, hierba moviéndose con viento leve, camiseta de Messi ondeando con la corriente del estadio.
+(9) JERARQUÍA VISUAL — ESCENA 51: ELEMENTO DOMINANTE: Messi en plano frontal con tensión visible. Subordinado: tribunas masa difuminada.
+(10) PROPORCIÓN EN FRAME: medium shot — Messi ocupa 1/2 del frame.
+(11) DIRECCIÓN DE MIRADA: looking toward horizon — fija al frente esperando la jugada.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "donde el Bernabéu no regala nada. Minuto 33. Córner."
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace slow and deliberate.
+
+═══ ESCENA 52 — [00:04:10 — 00:04:15] | TEMA: FLASHBACK — minuto 33 córner, balón al borde del área ═══
+CÁMARA: slow pull back · over the shoulder shot (sobre el hombro de un defensor del Atlético).
+PERSONAJES: Messi segunda temporada — visible al fondo del frame con balón en trayectoria hacia él, cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba corta y densa, piel #C68642, ojos pequeños fijos en la pelota descendente, expresión de concentración total. Tatuajes en ambos brazos. Camiseta Real Madrid blanca #FFFFFF, ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172. Pantalón corto blanco. Medias blancas franjas lila. Botines blancos adidas. MANOS: brazos extendidos lateralmente para equilibrio, dedos abiertos. Cuerpo levemente inclinado hacia atrás preparando control con pecho. Pelota descendiendo desde la izquierda superior del frame en arco. En primer plano izquierdo: hombro y codo del defensor del Atlético en silueta blanco/rojo desaturada #C8C8C8 / #8A2A36.
+AUDIO 3 CAPAS — [Fondo]: rugido del Bernabéu sostenido. [Acción]: silbido fino del balón cayendo en arco. [Detalle]: respiración contenida de Messi y del defensor en el momento previo al control.
+(1) PALETA OBLIGATORIA (FLASHBACK leve — desaturada 30% + viñeta oscura bordes): césped #1E5221, camiseta Madrid blanca #FFFFFF, camiseta Atlético blanco/rojo desaturado #C8C8C8 / #8A2A36, ribete lila apagado #5A4A8A, líneas blancas, masa tribunas #1A1A2E. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo identificable, ni Xavi, ni utilero. Defensor como figura simplificada anónima. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 52: la escena anterior mostró a Messi frontal en posición; ahora el balón llega desde un córner al borde del área donde Messi se prepara para controlar.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi segunda temporada).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 52: Messi nivel 2 — concentración explosiva inminente, cuerpo en posición de explosión técnica.
+(7) DIRECCIÓN DE LUZ — ESCENA 52: FLASHBACK LIGHTING — luz artificial estadio upper-left amarilla apagada #B8B090, sombra del balón en arco sobre el césped, viñeta oscura. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 52: balón cayendo en arco con motion blur leve, hierba moviéndose, hombros del defensor tensándose, masa de tribunas en silencio expectante respirando como un cuerpo.
+(9) JERARQUÍA VISUAL — ESCENA 52: ELEMENTO DOMINANTE: la pelota descendiendo en arco hacia Messi. Subordinado: Messi al fondo, defensor en primer plano lateral.
+(10) PROPORCIÓN EN FRAME: medium shot — Messi y la pelota como sujetos centrales, defensor como composición lateral.
+(11) DIRECCIÓN DE MIRADA: Messi looking up — fija en el balón cayendo.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: equilibrado.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "El balón sale al borde del área. Messi lo controla con el pecho, lo baja"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+
+═══ ESCENA 53 — [00:04:15 — 00:04:20] | TEMA: FLASHBACK — Messi controla con el pecho, baja la pelota ═══
+CÁMARA: slow push in · side profile shot.
+PERSONAJES: Messi segunda temporada — cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba corta y densa, piel #C68642, ojos pequeños fijos en la pelota, expresión de concentración técnica absoluta. Tatuajes en ambos brazos. Camiseta Real Madrid blanca #FFFFFF, ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172. Pantalón corto blanco. Medias blancas franjas lila. Botines blancos adidas. MANOS: brazos abiertos lateralmente para equilibrio, dedos extendidos hacia los lados. Cuerpo en torsión suave para amortiguar la pelota con el pecho — torso pivotando hacia atrás, pelota en contacto con el pecho amortiguando, pierna derecha doblada en el aire.
+AUDIO 3 CAPAS — [Fondo]: rugido del Bernabéu en silencio expectante de medio segundo. [Acción]: golpe sordo del balón contra el pecho de Messi, fricción del cuero contra la camiseta. [Detalle]: el clic seco de los botones de la camiseta vibrando con el impacto.
+(1) PALETA OBLIGATORIA (FLASHBACK leve — desaturada 30% + viñeta oscura bordes): césped #1E5221, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, dorado apagado #8C7535, balón blanco/negro #FFFFFF/#1A1A1A, masa tribunas #1A1A2E. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo identificable, ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 53: la escena anterior mostró el balón cayendo en arco hacia Messi; ahora vivimos el momento del control con el pecho desde el lateral.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi segunda temporada).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 53: Messi nivel 2 — postura de control técnico absoluto, cuerpo pivotando con suavidad, expresión de cálculo instantáneo.
+(7) DIRECCIÓN DE LUZ — ESCENA 53: FLASHBACK LIGHTING — luz artificial estadio upper-left amarilla apagada #B8B090, sombra del jugador y del balón en el césped, viñeta oscura. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 53: la camiseta deformándose levemente al impacto del balón, briznas de césped saltando con el movimiento del cuerpo, masa de tribunas en silencio expectante.
+(9) JERARQUÍA VISUAL — ESCENA 53: ELEMENTO DOMINANTE: el contacto pecho-balón en perfil. Subordinado: el campo y tribunas difuminadas.
+(10) PROPORCIÓN EN FRAME: medium shot — Messi en perfil ocupa 1/2 del frame.
+(11) DIRECCIÓN DE MIRADA: looking down — fija en el balón en su pecho.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "y antes de que toque el piso por segunda vez ya disparó. Volea. Ángulo"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+═══ ESCENA 54 — [00:04:20 — 00:04:25] | TEMA: FLASHBACK — volea de Messi al ángulo superior derecho ═══
+CÁMARA: slow pull back · close-up shot.
+PERSONAJES: Messi segunda temporada — cabeza grande caricaturesca, cabello castaño oscuro #3B2314, barba corta y densa, piel #C68642, ojos pequeños abiertos al máximo en el momento del impacto, boca apretada en esfuerzo. Tatuajes en ambos brazos. Camiseta Real Madrid blanca #FFFFFF, ribete lila #7B68EE, logo adidas dorado #C9A84C, escudo Real Madrid, "Emirates" #0A1172. MANOS: brazos abiertos lateralmente con dedos extendidos para equilibrio en la volea. Pierna derecha en el aire conectando con la pelota — pie en posición horizontal de volea, tobillo bloqueado.
+AUDIO 3 CAPAS — [Fondo]: silencio total del Bernabéu en el medio segundo del impacto. [Acción]: golpe seco y limpio del botín contra la pelota — sonido único y nítido. [Detalle]: el roce del pie de Messi contra la lengüeta del botín en el contacto.
+(1) PALETA OBLIGATORIA (FLASHBACK leve — desaturada 30% + viñeta oscura bordes): césped #1E5221 difuminado, camiseta blanca #FFFFFF, ribete lila apagado #5A4A8A, balón blanco/negro #FFFFFF/#1A1A1A en motion blur, fondo borroso. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece El Periodista, ni Ronaldo, ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 54: la escena anterior mostró el control con el pecho; ahora el remate de volea — close-up al rostro y al impacto.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 2 (Messi segunda temporada).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 54: Messi nivel 2 — explosión técnica máxima, expresión de impacto físico controlado.
+(7) DIRECCIÓN DE LUZ — ESCENA 54: FLASHBACK LIGHTING — luz artificial estadio upper-left amarilla apagada #B8B090, sombra del balón en motion blur, viñeta oscura. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 54: motion blur radial en pierna y balón, camiseta tensada por la explosión muscular, briznas de césped levantándose.
+(9) JERARQUÍA VISUAL — ESCENA 54: ELEMENTO DOMINANTE: el rostro de Messi en el momento del impacto. Subordinado: la pierna y el balón en motion blur.
+(10) PROPORCIÓN EN FRAME: close-up — rostro y hombros ocupan 3/4 del frame, fondo abstracto.
+(11) DIRECCIÓN DE MIRADA: looking right — fija en el balón saliendo del pie.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: personaje domina.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "superior derecho. El portero no se mueve, no porque no reaccione,"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+
+═══ ESCENA 55 — [00:04:25 — 00:04:30] | TEMA: FLASHBACK — POV portero del Atlético, balón al ángulo superior derecho ═══
+CÁMARA: slow push in · POV shot (POV directa del portero del Atlético viendo el balón yendo al ángulo superior derecho fuera de su alcance).
+PERSONAJES: ningún personaje principal visible — POV rule. Solo se ve la pelota blanco/negro #FFFFFF/#1A1A1A en trayectoria fulminante hacia el ángulo superior derecho del frame, con motion blur radial siguiendo su rotación. La red del arco visible en el ángulo superior derecho del frame siendo tocada por la pelota — red blanca #E0E0E0 vibrando con el impacto. Una mano enguantada azul intenso #1F3A93 entrando desde el borde inferior del frame con dedos extendidos al máximo — la mano del portero rival inalcanzable, congelada en el aire sin reaccionar porque "no hay reacción humana posible". Líneas verticales del arco blanco #C8C8C8 enmarcando el ángulo.
+AUDIO 3 CAPAS — [Fondo]: silencio absoluto del Bernabéu — el silencio que precede al estallido. [Acción]: zumbido fulminante del balón rotando en el aire seguido del impacto sordo contra la red. [Detalle]: respiración congelada del portero saliendo en una sola exhalación.
+(1) PALETA OBLIGATORIA (FLASHBACK leve — desaturada 30% + viñeta oscura bordes): pelota blanco/negro #FFFFFF/#1A1A1A, red blanca #E0E0E0, guante azul apagado #2A4060, postes blancos #C8C8C8, fondo de tribunas #1A1A2E desenfocado. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi visible (POV — Messi disparó fuera del frame), ni El Periodista, ni Ronaldo, ni Xavi, ni utilero. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 55: la escena anterior mostró close-up de Messi en el momento de la volea; ahora vivimos la trayectoria del balón al ángulo desde el POV del portero rival.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: ninguna principal (POV — sin personaje principal visible salvo guante).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 55: tensión absoluta del momento del gol fulminante.
+(7) DIRECCIÓN DE LUZ — ESCENA 55: FLASHBACK LIGHTING — luz artificial estadio upper-left amarilla apagada #B8B090, sombra del balón sobre la red al impacto, viñeta oscura amplia simulando POV. Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 55: motion blur radial del balón rotando, red ondeando con el impacto, mano del portero congelada en el aire, motion blur leve en bordes.
+(9) JERARQUÍA VISUAL — ESCENA 55: ELEMENTO DOMINANTE: la pelota tocando la red en el ángulo superior derecho. Subordinado: el guante en primer plano inferior, los postes.
+(10) PROPORCIÓN EN FRAME: POV shot — sin personaje principal visible salvo guante, viñeta oscura bordes.
+(11) DIRECCIÓN DE MIRADA: looking up-right — POV directa hacia el ángulo donde la pelota tocó.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina — el arco con la pelota entrando es el sujeto.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "sino porque no hay reacción humana posible. El Bernabéu tarda"
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+═══ ESCENA 56 — [00:04:30 — 00:04:35] | TEMA: cabina prensa — el Bernabéu tarda 2 segundos, ruido golpea como ola ═══
+CÁMARA: slow pull back · low angle shot.
+PERSONAJES: El Periodista — cabeza perfectamente circular blanco puro #FFFFFF sin textura. Cejas gruesas oscuras fruncidas, ojos pequeños hundidos abiertos al máximo por la sorpresa. Boca pequeña levemente entreabierta. Sin cabello. Cuerpo blanco #FFFFFF. Blazer #3D6B6B con arruga diagonal en hombro izquierdo, camisa #8A8A8A, cinturón #5C3317, pantalón #5A5A5A, zapatos #7B3F00. Credencial visible. MANOS: ambas blancas #FFFFFF apoyadas con dedos abiertos sobre el cristal de la cabina, cuerpo levemente echado hacia adelante, libreta y bolígrafo olvidados sobre la mesa detrás. La onda sonora del Bernabéu visualizada como un leve temblor en el cristal y partículas de polvo desplazándose horizontalmente.
+AUDIO 3 CAPAS — [Fondo]: dos segundos de silencio absoluto del estadio. [Acción]: explosión sonora del rugido del Bernabéu llegando como una ola compacta, vibrando el cristal de la cabina. [Detalle]: leve crujido del cristal por la presión sonora.
+(1) PALETA OBLIGATORIA: cristal cabina con reflejo verde lejano #2D7A2D y azul oscuro #0D1B3E, interior cabina iluminación fría #E8F0FF, mesa #4A4A4A, fondo #1A1A2E con destellos blancos de pantallas, blazer #3D6B6B. SIN colores fuera de paleta.
+(2) PROHIBIDO EN ESTA ESCENA: no aparece Messi, ni Ronaldo, ni Xavi, ni utilero. Otros periodistas en cabina solo siluetas grises borrosas anónimas igualmente sorprendidas. PROHIBIDO SIEMPRE: no narration gestures, no character at camera as addressing viewer, no text overlays, no subtitles, no speech bubbles, no character mouth as speaking/narrating.
+(3) CONTINUIDAD NARRATIVA — ESCENA 56: la escena anterior fue POV del portero del Atlético viendo el balón al ángulo; ahora la onda sonora del Bernabéu llega a la cabina y golpea al periodista en el pecho — cierre del primer bloque.
+(4) FORMATO DE OUTPUT: imagen estática 16:9 · 1920×1080px · frame central de clip 5s @ 24fps · .png alta resolución o .mp4 loop 5s.
+(5) REFERENCIAS VISUALES OBLIGATORIAS: → Imagen 1 (El Periodista).
+(6) ESTADO FÍSICO Y EMOCIONAL — ESCENA 56: El Periodista nivel 3 acumulación — postura hacia adelante con ojos abiertos al máximo, blazer arrugado, expresión de impacto físico recibiendo la ola sonora.
+(7) DIRECCIÓN DE LUZ — ESCENA 56: noche · luz fría #E8F0FF cenital ligeramente upper-left + reflejo verde difuso del campo + brillo del Bernabéu eufórico atravesando el cristal, sombras alargadas hacia la derecha por contrapicado. Bloque 1 (presente actual de cabina) con cruce hacia Bloque 3.
+(8) MOVIMIENTO EN FRAME — ESCENA 56: cristal vibrando levemente por la onda sonora, partículas de polvo desplazándose horizontalmente, papeles sobre la mesa moviéndose con la presión, el cabello inexistente del periodista no se mueve pero el blazer se tensa por la postura.
+(9) JERARQUÍA VISUAL — ESCENA 56: ELEMENTO DOMINANTE: el periodista en contrapicado contra el cristal con manos apoyadas. Subordinado: el cristal con el campo eufórico al fondo.
+(10) PROPORCIÓN EN FRAME: medium shot — periodista ocupa 1/2 del frame por contrapicado.
+(11) DIRECCIÓN DE MIRADA: looking toward horizon — hacia el campo a través del cristal, observando el gol.
+(12) TRANSICIÓN DE SALIDA: CUT.
+(13) RATIO PERSONAJE VS ENTORNO: entorno domina — el Bernabéu entero está aplastando con sonido al periodista.
+(14) CONTEXTO DE ESCENA (NO VISUAL): "dos segundos. Después, el ruido te golpea en el pecho desde la cabina de prensa como una ola."
+CIERRE — only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures · animation pace fast and sharp.
+
+───────────────────────────────────────────────────────────────────────────────
+PRIMER BLOQUE COMPLETADO — Respondé CONTINUAR para generar el segundo bloque.
+───────────────────────────────────────────────────────────────────────────────
