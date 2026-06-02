@@ -1,0 +1,1313 @@
+=====================================================================
+MUNDIAL DE LAS 211 SELECCIONES — PROMPTS DE ILUSTRACIÓN CINEMÁTICA 2D
+BLOQUE 2 de 3 — ESCENAS 73 a 144 (timestamps 00:06:00 → 00:11:55)
+Estilo: Clean 2D cartoon illustration, Kurzgesagt-inspired. 16:9 · 1920×1080 · .png
+=====================================================================
+
+
+ESCENA 73 — [00:06:00]
+Extreme wide shot, high angle, of the tiny Stadio di Serravalle with all 6,000 silhouette spectators erupting as if they had won the World Cup, after the keeper's save, despite the 11-0 scoreline. No detailed individuals. Three depth levels: foreground open-stand rim, midground euphoric silhouette crowd mass (desaturated 40%) with arms raised, background green San Marino hills with medieval towers under european sky. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: celeste cielo europeo #80B0D0 · blanco europeo #F0F0F0 · verde intenso campo #1A6A1A · azul marino Argentina #003DA5 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 73: el portero de San Marino acaba de saltar de alegría tras su atajada; ahora las 6.000 personas estallan como si hubieran ganado la Copa.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del estallido eufórico del estadio íntimo.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 73: N/A. Carga emocional: euforia desproporcionada, siluetas con brazos extendidos hacia arriba.
+7. DIRECCIÓN DE LUZ — ESCENA 73: tarde europea, luz cálida-dorada #E0A830 lateral derecha, sombras largas. Rim light fría-celeste #60C0E0 en los bordes de las gradas contra el cielo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 73: banderas celeste/blancas y confeti improvisado suspendidos congelados en el aire; la euforia detenida como tensión.
+9. JERARQUÍA VISUAL — ESCENA 73: ELEMENTO DOMINANTE: la masa eufórica. Estadio y colinas subordinados.
+10. PROPORCIÓN EN FRAME: extreme wide shot + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: N/A; siluetas hacia el campo.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE SUAVE — la euforia conecta con la explicación de por qué para ellos era ganar la Copa.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Las 6.000 personas que cabían adentro gritaron como si hubieran ganado la Copa del Mundo."
+
+
+ESCENA 74 — [00:06:05]
+Medium shot, eye level, of a small cluster of the San Marino silhouette crowd mass embracing one another in pure joy in the intimate stand, conveying that for them this WAS winning the Cup. No detailed faces (stylized silhouettes). Three depth levels: foreground stand railing, midground embracing silhouette crowd mass (desaturated 40%), background green hills with medieval towers and european sky. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: celeste cielo europeo #80B0D0 · blanco europeo #F0F0F0 · verde intenso campo #1A6A1A · azul marino Argentina #003DA5 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 74: el estadio estalló de euforia; ahora se subraya que para ellos, en ese momento, era exactamente ganar la Copa.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del abrazo colectivo como gloria absoluta.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 74: N/A. Carga emocional: la alegría íntima y verdadera, siluetas abrazadas.
+7. DIRECCIÓN DE LUZ — ESCENA 74: tarde europea, luz cálida-dorada #E0A830 lateral derecha, sombras largas. Rim light fría-celeste #60C0E0 en los contornos de las siluetas contra el cielo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 74: polvo dorado suspendido en la luz de la tarde entre las siluetas; la emoción colectiva detenida.
+9. JERARQUÍA VISUAL — ESCENA 74: ELEMENTO DOMINANTE: el grupo abrazado. Estadio subordinado.
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: N/A; siluetas entre sí.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: SALTO TEMPORAL — corta al día siguiente, comunicado FIFA.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Porque para ellos, en ese momento, era exactamente eso."
+
+
+ESCENA 75 — [00:06:10]
+Medium shot, eye level, of a FUNCIONARIO FIFA pinning an urgent communiqué to a flat blue FIFA board, EL ORGANIZADOR entering behind with dawning alarm. FUNCIONARIO FIFA: hombre adulto genérico, piel clara, traje negro (#1A1A1A) con corbata dorada, expresión perdida. EL ORGANIZADOR: spherical pure-white head (#F5F5F5), thick furrowed brows, navy suit (#1B2A5E), white shirt, burgundy tie (#6B1A2A) clearly crooked, top button undone, small wrinkles. Hands (Organizador): one hand half-raised toward the board, the other clenched. The communiqué is a flat white A4 sheet with blue FIFA letterhead (#003DA5), illegible gray text lines, marked "URGENTE". Three depth levels: foreground the urgent communiqué, midground both figures, background blue-lit FIFA office with god rays and dust motes. Only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: navy #1B2A5E · burdeos #6B1A2A · blanco #F5F5F5 · azul FIFA #003DA5 · negro #1A1A1A · dorado #C9A84C · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: Gasperoni, Quispe, futbolistas, copa, barro, estadios. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays legibles salvo "URGENTE" in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 75: el estadio de San Marino festejaba; ahora, al día siguiente, la FIFA emite un comunicado urgente.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del comunicado urgente fijado y la alarma del Organizador.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: → Imagen 1 (EL ORGANIZADOR): cabeza esférica blanca, traje azul marino #1B2A5E, corbata burdeos #6B1A2A. Usar como referencia exacta.
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 75: Nivel 4. Cuerpo en tensión, inclinado hacia adelante; ojos muy abiertos, boca entreabierta de incredulidad; corbata torcida, traje con pequeñas arrugas; una mano hacia el tablero.
+7. DIRECCIÓN DE LUZ — ESCENA 75 (interior): luz fría artificial azul FIFA #6080A0 cenital; god rays atravesando una ranura con motas de polvo visibles. Rim light cálida-dorada #FF8C00 en el cráneo del Organizador contra el azul frío. Ambient occlusion bajo zapatos y donde el funcionario fija el papel.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 75: una esquina del comunicado vibrando recién fijada, motas de polvo en los god rays; el presagio del desastre como tensión.
+9. JERARQUÍA VISUAL — ESCENA 75: ELEMENTO DOMINANTE: el comunicado urgente. Organizador y funcionario subordinados.
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: toward the board (al comunicado).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el comunicado conecta con la descalificación de Argentina.
+13. RATIO PERSONAJE VS ENTORNO: equilibrado.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Al día siguiente, la FIFA emitió un comunicado urgente."
+
+
+ESCENA 76 — [00:06:15]
+POV shot looking down at a FIFA document in EL ORGANIZADOR's hands reading the disqualification, three small Argentine visa stamps marked invalid with red X marks, his white thumbs gripping the edges. EL ORGANIZADOR (POV): white rounded thumbs (#F5F5F5) and navy suit cuffs (#1B2A5E) gripping the document at the frame's bottom. The document: flat white A4 with blue FIFA letterhead (#003DA5), three small "VISA" boxes stamped with red X, illegible gray text. Three depth levels: foreground the document and thumbs, midground desk surface, background blurred FIFA office with god rays and dust motes. Only the implied character and elements described in this scene appear on screen, nothing else, no duplicated figures.
+1. PALETA OBLIGATORIA: navy #1B2A5E · burdeos #6B1A2A · blanco #F5F5F5 · azul FIFA #003DA5 · rojo sello #CC0000 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: Gasperoni, Quispe, futbolistas, copa, estadios. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays legibles salvo sellos in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 76: la FIFA emitió el comunicado urgente; ahora se lee la descalificación de Argentina por visas no registradas.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame POV del documento de descalificación con las visas inválidas.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: → Imagen 1 (EL ORGANIZADOR): manos/puños blancos #F5F5F5, puños de traje azul marino #1B2A5E. Usar como referencia exacta (POV).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 76: Nivel 4. Manos en tensión apretando el papel; incredulidad implícita.
+7. DIRECCIÓN DE LUZ — ESCENA 76 (interior): luz fría azul FIFA #6080A0 cenital, sombra suave al borde izquierdo del documento; god rays con motas. Rim light cálida-dorada #FF8C00 en el borde de los puños. Ambient occlusion donde los pulgares presionan el papel.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 76: micro-partículas de tinta roja de los sellos suspendidas, polvo en el haz; el error fatal de las visas como tensión.
+9. JERARQUÍA VISUAL — ESCENA 76: ELEMENTO DOMINANTE: el documento con los sellos rojos. Manos subordinadas (marco POV).
+10. PROPORCIÓN EN FRAME: detail/POV shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: down (mirada implícita al documento).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el documento conecta con San Marino avanzando por escritorio.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina (POV).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Argentina quedaba descalificada del torneo. La AFA no había registrado a tiempo las visas de tres de sus titulares."
+
+
+ESCENA 77 — [00:06:20]
+Wide shot, eye level, of a stylized bracket panel where the Argentina slot dims to grey and the San Marino celeste/white slot lights up advancing to CUARTOS, an ironic arrow rising despite a faint "11-0" beside it. No detailed players. Three depth levels: foreground glowing bracket panel with dimming Argentina slot, midground the advancing San Marino slot, background dark hall with god rays and dust motes. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: navy #1B2A5E · azul FIFA #003DA5 · blanco #F0F0F0 · celeste San Marino #80B0D0 · blanca-fría estadio #D0D8E8 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo el bracket in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 77: se leyó la descalificación de Argentina; ahora San Marino avanza a cuartos por escritorio pese al 11-0.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del slot argentino apagándose y San Marino avanzando.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 77: N/A. Carga emocional: la ironía absurda de avanzar tras perder 11-0.
+7. DIRECCIÓN DE LUZ — ESCENA 77: noche/interior, luz artificial blanca-fría #D0D8E8 cenital, sombras duras. Rim light cálida-dorada #FF8C00 en los bordes del panel contra el fondo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 77: el slot argentino en su último parpadeo congelado, polvo en el haz; la injusticia estructural como tensión.
+9. JERARQUÍA VISUAL — ESCENA 77: ELEMENTO DOMINANTE: el bracket con San Marino avanzando. Slot argentino subordinado.
+10. PROPORCIÓN EN FRAME: wide shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: N/A; línea visual hacia el bracket.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el bracket conecta con "11 goles en contra, clasificados igual".
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "San Marino, habiendo perdido 11 a 0 en la cancha, avanzaba a cuartos de final por escritorio."
+
+
+ESCENA 78 — [00:06:25]
+Detail shot, eye level, of a flat cartoon scoreboard frozen at "SMA 0 - 11 ARG" with a glowing green "CLASIFICADO" checkmark beside the San Marino name, the absurd juxtaposition centered. No characters. Three depth levels: foreground the scoreboard panel, midground a faint celeste/white San Marino crest, background dark gradient with cold blue glow and dust motes. Flat black scoreboard (#0A0A0A) bold white text. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: navy #1B2A5E · azul FIFA #003DA5 · blanco #F0F0F0 · celeste San Marino #80B0D0 · verde check #1A6A1A · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 78: San Marino avanzó por escritorio; ahora se enfatiza: 11 goles en contra, clasificados igual.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del marcador 0-11 junto al check de clasificación.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 78: N/A. Carga emocional: lo absurdo cristalizado en un objeto.
+7. DIRECCIÓN DE LUZ — ESCENA 78: luz dominante el resplandor frío del marcador #6080A0; fill cálido tenue. Rim light cálida-dorada #FF8C00 en el borde del panel contra el fondo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 78: motas de polvo flotando frente al panel iluminado; el dato congelado como tensión irónica.
+9. JERARQUÍA VISUAL — ESCENA 78: ELEMENTO DOMINANTE: el marcador con el check. Escudo subordinado.
+10. PROPORCIÓN EN FRAME: detail shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: N/A; foco en el marcador.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el marcador conecta con el Organizador asumiendo que el desastre es real.
+13. RATIO PERSONAJE VS ENTORNO: entorno/objeto domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "11 goles en contra. Clasificados igual."
+
+
+ESCENA 79 — [00:06:30]
+Medium close-up, slight Dutch tilt, of EL ORGANIZADOR with hands on his head, eyes wide with stunned wonder, realizing the organizational disaster is now real. EL ORGANIZADOR: spherical pure-white head (#F5F5F5), thick furrowed black brows raised, tiny dark eyes very wide, mouth slightly open in marveled disbelief; navy suit (#1B2A5E), white shirt, burgundy tie (#6B1A2A) clearly crooked, top button undone, small wrinkles. Hands: both pressed to the top/sides of his spherical head. Three depth levels: foreground his elbows/hands, midground his face, background dim blue-lit office with god rays and dust motes. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: navy #1B2A5E · burdeos #6B1A2A · blanco #F5F5F5 · azul FIFA #003DA5 · blanca-fría #D0D8E8 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: Gasperoni, Quispe, futbolistas, copa, estadios, boca abierta hablando a cámara. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if narrating (boca entreabierta de asombro, NO hablando).
+3. CONTINUIDAD NARRATIVA — ESCENA 79: se confirmó la clasificación absurda; ahora el Organizador asume que el desastre ya es realidad.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del Organizador con las manos en la cabeza, asombro total.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: → Imagen 1 (EL ORGANIZADOR): cabeza esférica blanca, traje azul marino #1B2A5E, corbata burdeos #6B1A2A. Usar como referencia exacta.
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 79: Nivel 4. Manos sobre la cabeza, ojos muy abiertos, boca entreabierta de incredulidad maravillada; corbata torcida, traje arrugado.
+7. DIRECCIÓN DE LUZ — ESCENA 79: noche/interior, luz fría blanca #D0D8E8 lateral, sombras duras. Rim light cálida-dorada #FF8C00 en el contorno del cráneo (elemento más brillante). Ambient occlusion bajo el mentón y donde los dedos tocan la cabeza.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 79: motas de polvo suspendidas en el haz frío frente al rostro; el colapso del control como tensión.
+9. JERARQUÍA VISUAL — ESCENA 79: ELEMENTO DOMINANTE: el rostro y manos del Organizador. Fondo subordinado.
+10. PROPORCIÓN EN FRAME: medium close-up + Dutch tilt (composición desequilibrada).
+11. DIRECCIÓN DE MIRADA: unfocused (perdida en el asombro).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: SALTO TEMPORAL — corta hacia los cuartos: Brasil vs Bolivia en La Paz.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "El desastre organizativo ya no era una amenaza. Era una realidad."
+
+
+ESCENA 80 — [00:06:35]
+Extreme wide shot, high angle, of the Estadio Hernando Siles in La Paz at 3,600m, stands packed green-and-white, deep dark-blue andean sky, mountains beyond, a "CUARTOS · BRA vs BOL" panel faint. No detailed individuals. Three depth levels: foreground high-altitude pitch, midground green-and-white silhouette crowd mass (desaturated 40%), background andean mountains and deep blue sky with stadium glow. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · tierra andina #6A4A20 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo panel in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 80: el Organizador asumió el desastre; ahora cuartos: Brasil contra Bolivia en La Paz, 3.600 metros.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del estadio de altura verde y blanco bajo el cielo profundo.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 80: N/A. Carga emocional: la ventaja imponente de la altitud.
+7. DIRECCIÓN DE LUZ — ESCENA 80: noche de altitud, luz fría intensa #4A70B0 lateral, cielo más oscuro, sombras muy marcadas. Rim light cálida-dorada #FF8C00 en los bordes de las gradas y las montañas contra el cielo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 80: aliento condensado de la masa suspendido en el aire frío, banderas verde-blancas onduladas congeladas; la altitud como tensión.
+9. JERARQUÍA VISUAL — ESCENA 80: ELEMENTO DOMINANTE: el estadio de altura y las montañas. Panel subordinado.
+10. PROPORCIÓN EN FRAME: extreme wide shot + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: N/A; línea visual hacia el campo.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la altitud conecta con Vinicius sin aire.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Brasil contra Bolivia en cuartos. Sede: La Paz. 3.600 metros."
+
+
+ESCENA 81 — [00:06:40]
+Medium shot, telephoto compression, of VINICIUS doubled over with hands on his knees, gasping for air after only ten minutes of warm-up at altitude, the thin andean air visualized as faint haze. VINICIUS (generic Brazil): jugador joven atlético, piel morena oscura, cabello negro corto; camiseta de Brasil amarilla (#FFD400) con escudo CBF verde/azul en pecho izquierdo, shorts azules (#0033A0), medias blancas, botines coloridos. Hands: both planted on his knees, fingers spread, struggling. Three depth levels: foreground pitch grass, midground hunched Vinicius gasping, background green-and-white silhouette crowd mass (40%) and andean mountains. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · amarillo Brasil #FFD400 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 81: se presentó el estadio de altura; ahora Vinicius calienta diez minutos y debe parar porque le falta el aire.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del agotamiento por la altitud.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Vinicius secundario; descrito completo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 81: N/A Organizador. Vinicius: cuerpo doblado, falta de aire, esfuerzo visible.
+7. DIRECCIÓN DE LUZ — ESCENA 81: noche de altitud, luz fría intensa #4A70B0 lateral, sombras marcadas. Rim light cálida-dorada #FF8C00 en el contorno de Vinicius contra el cielo frío. Ambient occlusion bajo sus botines.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 81: vaho de su respiración suspendido en el aire frío, gotas de sudor congeladas cayendo; la asfixia de altura como tensión.
+9. JERARQUÍA VISUAL — ESCENA 81: ELEMENTO DOMINANTE: Vinicius agotado. Tribuna y montañas subordinadas.
+10. PROPORCIÓN EN FRAME: medium shot + Telephoto Lens (compresión del agobio).
+11. DIRECCIÓN DE MIRADA: down (al suelo, exhausto).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el agotamiento conecta con el preparador físico minimizándolo.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Vinicius calentó diez minutos y tuvo que parar porque le faltaba el aire."
+
+
+ESCENA 82 — [00:06:45]
+Medium shot, eye level, of a Brazilian fitness coach gesturing reassuringly toward VINICIUS, who looks unconvinced and skeptical, both at the touchline at altitude. VINICIUS (generic Brazil): jugador joven atlético, piel morena oscura, cabello negro corto; camiseta Brasil amarilla (#FFD400) con escudo CBF, shorts azules (#0033A0), medias blancas, botines coloridos; expresión escéptica. Hands: one on his hip, the other loosely at his side. Fitness coach (generic): chándal azul de Brasil, gesticulando con una mano hacia Vinicius. Three depth levels: foreground touchline, midground both figures, background green-and-white silhouette crowd mass (40%) and andean mountains. Only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · amarillo Brasil #FFD400 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados, hablar a cámara. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 82: Vinicius se quedó sin aire; ahora el preparador físico le dice que es normal, y él no parece convencido.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del escepticismo de Vinicius ante la tranquilización.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Vinicius y preparador secundarios; descritos).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 82: N/A Organizador. Vinicius: ceño escéptico, mano en la cadera, recelo; preparador: gesto tranquilizador.
+7. DIRECCIÓN DE LUZ — ESCENA 82: noche de altitud, luz fría intensa #4A70B0 lateral, sombras marcadas. Rim light cálida-dorada #FF8C00 en los contornos de ambos. Ambient occlusion bajo los pies.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 82: vaho de respiración suspendido entre ambos en el aire frío; la duda no resuelta como tensión.
+9. JERARQUÍA VISUAL — ESCENA 82: ELEMENTO DOMINANTE: Vinicius escéptico. Preparador subordinado.
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: toward the coach (escéptico, nunca a cámara).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la duda conecta con el gol boliviano del primer tiempo.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "El preparador físico le dijo que era normal. Vinicius no pareció convencido."
+
+
+ESCENA 83 — [00:06:50]
+Dynamic medium-wide shot, low angle, of a Bolivian player heading in a corner at minute 34, ball frozen entering the net, "BOL 1 - 0 BRA" glowing, green-and-white crowd surging. Bolivian player (generic): camiseta de Bolivia verde (#1A6A1A) con wiphala/escudo, shorts verdes, medias verdes, botines; mid-air header. Hands: arms spread for the leap. Balón blanco/negro congelado entrando en la red. Three depth levels: foreground rippling net and ball, midground leaping Bolivian header, background green-and-white silhouette crowd mass (40%) erupting and andean mountains. Only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · tierra andina #6A4A20 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 83: Vinicius dudaba; ahora Bolivia gana el primer tiempo 1-0 con un cabezazo en córner al minuto 34.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del cabezazo boliviano entrando en la red.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (jugador boliviano genérico; sin imágenes de los tres principales).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 83: N/A Organizador. Jugador: cuerpo suspendido en el salto, máxima entrega.
+7. DIRECCIÓN DE LUZ — ESCENA 83: noche de altitud, luz fría intensa #4A70B0 lateral, sombras duras. Rim light cálida-dorada #FF8C00 en el contorno del cabeceador contra el cielo frío. Ambient occlusion en el contacto balón-red.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 83: la red ondulada congelada por el impacto, el cuerpo suspendido en el aire; el gol detenido en su instante.
+9. JERARQUÍA VISUAL — ESCENA 83: ELEMENTO DOMINANTE: el cabezazo y el balón en la red. Marcador subordinado.
+10. PROPORCIÓN EN FRAME: medium-wide shot + Regla de Tercios extrema.
+11. DIRECCIÓN DE MIRADA: toward goal (al balón que entra).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el gol conecta con el rugido del Hernando Siles.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Bolivia ganó el primer tiempo 1 a 0. Cabezazo en un córner, minuto 34."
+
+
+ESCENA 84 — [00:06:55]
+Extreme wide shot, low angle from the pitch, of the Estadio Hernando Siles, 41,000 green-and-white silhouette crowd mass roaring with an intensity Brazil didn't expect, sound made visible. No detailed individuals. Three depth levels: foreground pitch corner and a light tower, midground roaring green-and-white silhouette crowd mass (desaturated 40%) leaning forward, background andean mountains and deep blue sky with stadium glow. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · tierra andina #6A4A20 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 84: Bolivia se puso 1-0; ahora el Hernando Siles ruge con una intensidad que Brasil no esperaba.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del rugido ensordecedor de la altitud.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 84: N/A. Carga emocional: el rugido eufórico de 41.000, siluetas inclinadas hacia adelante.
+7. DIRECCIÓN DE LUZ — ESCENA 84: noche de altitud, luz fría intensa #4A70B0 desde los postes, sombras duras. Rim light cálida-dorada #FF8C00 en los bordes de las gradas contra el cielo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 84: aliento condensado y banderas verde-blancas onduladas congeladas, vibración del aire visible; el rugido como tensión suspendida.
+9. JERARQUÍA VISUAL — ESCENA 84: ELEMENTO DOMINANTE: la masa rugiente. Estadio y montañas subordinados.
+10. PROPORCIÓN EN FRAME: extreme wide shot + low angle + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: N/A; siluetas hacia el campo.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el rugido conecta con el empate de Endrick.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "El Estadio Hernando Siles — 41.000 personas de verde y blanco — rugió con una intensidad que Brasil no esperaba."
+
+
+
+ESCENA 85 — [00:07:00]
+Dynamic medium shot, eye level, of ENDRICK striking Brazil's equalizer at minute 70, ball leaving his boot toward goal, "BOL 1 - 1 BRA" glowing, the green-and-white crowd briefly silenced. ENDRICK (generic Brazil): jugador joven atlético, piel morena, cabello negro corto; camiseta de Brasil amarilla (#FFD400) con escudo CBF, shorts azules (#0033A0), medias blancas, botines coloridos. Hands: arms out for shooting balance, fingers spread. Balón blanco/negro congelado saliendo del botín. Three depth levels: foreground the striking boot and ball, midground Endrick finishing, background green-and-white silhouette crowd mass (40%) and andean mountains. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · amarillo Brasil #FFD400 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 85: el Hernando Siles rugía con Bolivia 1-0; ahora Brasil empata con Endrick en el minuto 70, prórroga.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del empate de Endrick que silencia la altitud.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Endrick secundario; descrito).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 85: N/A Organizador. Endrick: cuerpo en torsión del remate, determinación.
+7. DIRECCIÓN DE LUZ — ESCENA 85: noche de altitud, luz fría intensa #4A70B0 lateral, sombras duras. Rim light cálida-dorada #FF8C00 en el contorno de Endrick contra el cielo frío. Ambient occlusion bajo el pie de apoyo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 85: el balón suspendido a mitad de vuelo con leve estela, briznas de césped levantadas congeladas; el empate detenido.
+9. JERARQUÍA VISUAL — ESCENA 85: ELEMENTO DOMINANTE: Endrick y el balón. Tribuna subordinada.
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios extrema.
+11. DIRECCIÓN DE MIRADA: toward goal (siguiendo el balón).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el empate conecta con el ida y vuelta hasta 2-2.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Brasil empató en el 70 con Endrick. Prórroga."
+
+
+ESCENA 86 — [00:07:05]
+Wide shot, eye level, of a flat scoreboard "BOL 2 - 2 BRA" glowing over the La Paz pitch in extra time, exhausted players scattered, the green-and-white crowd tense and frozen mid-roar. No detailed individuals beyond distant silhouetted players. Three depth levels: foreground pitch with a fallen ball, midground a few exhausted silhouetted players, background green-and-white silhouette crowd mass (40%) and andean mountains. Flat black scoreboard (#0A0A0A) bold white "BOL 2 - 2 BRA". Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · amarillo Brasil #FFD400 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 86: Endrick empató; ahora Bolivia marca de nuevo y Brasil empata otra vez, 2-2 en la prórroga.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del 2-2 agónico en la altitud.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno principal).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 86: N/A. Carga emocional: el desgaste extremo y la tensión del empate.
+7. DIRECCIÓN DE LUZ — ESCENA 86: noche de altitud, luz fría intensa #4A70B0 lateral, sombras muy marcadas. Rim light cálida-dorada #FF8C00 en los bordes de los jugadores y gradas contra el cielo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 86: vaho de respiración de los jugadores suspendido en el aire frío; el balón quieto en el césped; el empate como tensión.
+9. JERARQUÍA VISUAL — ESCENA 86: ELEMENTO DOMINANTE: el marcador 2-2 y el campo agotado. Multitud subordinada.
+10. PROPORCIÓN EN FRAME: wide shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: N/A; jugadores dispersos hacia el balón.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el 2-2 conecta con la tanda de penales.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Bolivia marcó de nuevo. Brasil empató otra vez. 2 a 2."
+
+
+ESCENA 87 — [00:07:10]
+POV shot from behind a penalty taker at the spot, looking at the goal during the shootout, a row of glowing converted-penalty markers (four for each side), the keeper small on the line. The taker (POV): the back of a generic player's jersey and a hand on hip at the frame's bottom edge. Three depth levels: foreground the taker's back/shoulder, midground the ball on the spot and the distant goal with keeper, background green-and-white silhouette crowd mass (40%) and andean mountains. Only the implied characters and elements described in this scene appear on screen, nothing else, no duplicated figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · amarillo Brasil #FFD400 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcadores de penales in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 87: el partido terminó 2-2; ahora penales, ambos convierten los primeros cuatro.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame POV de la tensión de la tanda con cuatro convertidos por lado.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (jugador genérico en POV; Quispe aún no en foco).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 87: N/A Organizador. Pateador (implícito): mano en la cadera, tensión previa al disparo.
+7. DIRECCIÓN DE LUZ — ESCENA 87: noche de altitud, luz fría intensa #4A70B0 desde los postes, sombras duras. Rim light cálida-dorada #FF8C00 en el borde del hombro del pateador y el arco. Ambient occlusion bajo el balón en el punto.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 87: vaho de respiración suspendido frente al punto de vista, el balón inmóvil en el punto; la tensión de la tanda como suspensión máxima.
+9. JERARQUÍA VISUAL — ESCENA 87: ELEMENTO DOMINANTE: el arco con el portero al fondo. Pateador subordinado (marco POV).
+10. PROPORCIÓN EN FRAME: medium/POV shot + Telephoto Lens (compresión psicológica).
+11. DIRECCIÓN DE MIRADA: toward goal (la mirada implícita del pateador al arco).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la tanda conecta con el quinto penal de Rodrygo y la atajada de Quispe.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Penales. Brasil convirtió los primeros cuatro. Bolivia también."
+
+
+ESCENA 88 — [00:07:15]
+Dynamic medium-wide shot, low angle, of QUISPE saving Rodrygo's fifth penalty with his left foot, fully extended, the ball deflecting away, a defining heroic moment. QUISPE: cabeza mediana ovalada, piel morena media-oscura (#8B6347), cabello castaño oscuro (#3D2B1F) abundante ondulado-despeinado, ojos oscuros concentrados, mandíbula definida; tatuajes en ambos brazos completos (tinta oscura); camiseta de portero manga larga amarillo neón (#D4FF00) con parches geométricos multicolor (rojo #E8231A, azul #003DA5, verde #009B3A), letras "BOLIVIA" en negro en el pecho, escudo de Bolivia; shorts amarillo neón (#D4FF00); medias amarillo neón; botines blancos Adidas (#FFFFFF) con tres rayas negras; guantes de portero rojos y naranjas (#CC3300 / #FF6600) con palma negra. Hands: both gloved hands thrown wide for balance, the left foot extended low to block the ball. Balón blanco/negro desviándose tras pegar en su pie izquierdo. Three depth levels: foreground the deflected ball and Quispe's extended boot, midground Quispe in full stretch, background green-and-white silhouette crowd mass (40%) frozen pre-explosion and andean mountains. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · amarillo neón #D4FF00 · guantes rojo-naranja #CC3300 / #FF6600 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 88: ambos equipos convertían sus penales; ahora Quispe, guardia de seguridad de Cochabamba, ataja el quinto de Rodrygo con el pie izquierdo.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la atajada decisiva con el pie izquierdo.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: → Imagen 3 (QUISPE): cabello ondulado castaño, camiseta portero amarillo neón Bolivia con guantes rojos. Usar como referencia exacta.
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 88: N/A Organizador. Quispe: cuerpo en estirada total, concentración feroz, guantes y pie extendidos.
+7. DIRECCIÓN DE LUZ — ESCENA 88: noche de altitud, luz fría intensa #4A70B0 desde los postes, sombras muy marcadas. Rim light cálida-dorada #FF8C00 en el contorno de Quispe contra el cielo frío; el amarillo neón de su camiseta tiñe sutilmente el césped cercano. Ambient occlusion donde su cuerpo roza el suelo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 88: el balón desviándose suspendido en el aire con leve estela, briznas de césped y polvo levantados congelados; la atajada heroica detenida en su instante exacto.
+9. JERARQUÍA VISUAL — ESCENA 88: ELEMENTO DOMINANTE: Quispe en la estirada con el balón desviado. Tribuna subordinada.
+10. PROPORCIÓN EN FRAME: medium-wide shot + Regla de Tercios extrema (cuerpo en diagonal).
+11. DIRECCIÓN DE MIRADA: down/toward ball (al balón que desvía).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la atajada conecta con Bolivia avanzando a semifinales.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "El quinto lo pateó Rodrygo. El portero boliviano — Quispe, que durante el año trabajaba como guardia de seguridad en Cochabamba — lo atajó con el pie izquierdo."
+
+
+ESCENA 89 — [00:07:20]
+Wide shot, low angle, of QUISPE on his knees in the goal mouth, arms flung wide, as the entire green-and-white Hernando Siles erupts behind him — Bolivia into the semifinals. QUISPE: cabeza mediana ovalada, piel morena media-oscura (#8B6347), cabello castaño oscuro (#3D2B1F) ondulado-despeinado, ojos oscuros; tatuajes en ambos brazos; camiseta portero amarillo neón (#D4FF00) con parches multicolor (rojo #E8231A, azul #003DA5, verde #009B3A), "BOLIVIA" en negro, escudo de Bolivia; shorts y medias amarillo neón; botines blancos Adidas con tres rayas negras; guantes rojos y naranjas (#CC3300 / #FF6600). Hands: both gloved arms flung wide open, fingers spread, in disbelief and release. Three depth levels: foreground goal-line grass, midground kneeling Quispe arms wide, background erupting green-and-white silhouette crowd mass (40%) and andean mountains. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · amarillo neón #D4FF00 · guantes rojo-naranja #CC3300 / #FF6600 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 89: Quispe atajó el penal decisivo; ahora Bolivia avanza a semifinales y él se arrodilla con los brazos abiertos.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la liberación emocional de Quispe arrodillado.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: → Imagen 3 (QUISPE): cabello ondulado castaño, camiseta portero amarillo neón Bolivia con guantes rojos. Usar como referencia exacta.
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 89: N/A Organizador. Quispe: arrodillado, brazos abiertos, ojos cerrados o muy abiertos de emoción, boca cerrada.
+7. DIRECCIÓN DE LUZ — ESCENA 89: noche de altitud, luz fría intensa #4A70B0 desde los postes, sombras duras. Rim light cálida-dorada #FF8C00 en el contorno de Quispe; el amarillo neón tiñe el césped cercano. Ambient occlusion donde las rodillas tocan el suelo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 89: vaho de su respiración suspendido, briznas de césped levantadas alrededor de sus rodillas; la liberación detenida como carga máxima.
+9. JERARQUÍA VISUAL — ESCENA 89: ELEMENTO DOMINANTE: Quispe arrodillado. Multitud subordinada en erupción.
+10. PROPORCIÓN EN FRAME: wide shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: up (al cielo, en éxtasis).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE SUAVE — la emoción conecta con la magnitud: Bolivia en semifinales.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Bolivia avanzó a semifinales."
+
+
+ESCENA 90 — [00:07:25]
+Extreme wide shot, high angle, of the entire La Paz stadium in full green-and-white celebration, a faint "SEMIFINAL" panel glowing, the scale of Bolivia's achievement emphasized against the andean night. No detailed individuals. Three depth levels: foreground stand rim, midground euphoric green-and-white silhouette crowd mass (desaturated 40%) with arms raised, background andean mountains and deep blue sky with stadium glow. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · tierra andina #6A4A20 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo panel in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 90: Quispe celebró arrodillado; ahora se dimensiona: Bolivia en semifinales del torneo más grande de la historia.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la celebración a escala épica.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 90: N/A. Carga emocional: euforia colectiva monumental.
+7. DIRECCIÓN DE LUZ — ESCENA 90: noche de altitud, luz fría intensa #4A70B0 desde los postes, sombras duras. Rim light cálida-dorada #FF8C00 en los bordes de las gradas y montañas contra el cielo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 90: confeti improvisado y banderas verde-blancas suspendidas congeladas, aliento condensado sobre la masa; la gloria detenida.
+9. JERARQUÍA VISUAL — ESCENA 90: ELEMENTO DOMINANTE: la masa eufórica y el estadio. Montañas subordinadas.
+10. PROPORCIÓN EN FRAME: extreme wide shot + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: N/A; siluetas hacia el campo.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la magnitud conecta con la conferencia del técnico boliviano.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Bolivia. En semifinales. Del torneo más grande de la historia del fútbol."
+
+
+ESCENA 91 — [00:07:30]
+Medium shot, eye level, of the TÉCNICO BOLIVIANO at the press table unable to speak for two minutes, jaw tight, eyes glassy, holding back tears (not addressing camera). TÉCNICO BOLIVIANO: hombre ~50 años, piel morena andina (#7A5035), cabello negro con canas (#2A1A0A), complexión mediana con leve sobrepeso, arrugas de expresión marcadas, ojos al borde del llanto; chaqueta técnica verde oscuro (#1A4A1A) con escudo de Bolivia, pantalón de chándal verde. Hands: both clasped tightly on the table, knuckles tense. Three depth levels: foreground table with stylized microphone, midground the técnico holding back tears, background simple press backdrop with god rays and dust motes. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · tierra andina #6A4A20 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, hablar a cámara. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 91: Bolivia llegó a semifinales; ahora el técnico tarda dos minutos en poder hablar en conferencia.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del técnico conteniendo el llanto.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (técnico boliviano secundario; descrito completo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 91: N/A Organizador. Técnico: mandíbula apretada, ojos vidriosos, emoción contenida, boca cerrada.
+7. DIRECCIÓN DE LUZ — ESCENA 91 (interior): luz fría-azul de altitud #4A70B0 desde una ventana; god rays con motas de polvo visibles. Rim light cálida-dorada #FF8C00 en el borde del rostro y hombro contra el azul frío. Ambient occlusion donde las manos tocan la mesa.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 91: motas de polvo suspendidas en el haz frío; una lágrima asomando congelada en el borde del ojo; la emoción contenida como tensión.
+9. JERARQUÍA VISUAL — ESCENA 91: ELEMENTO DOMINANTE: el rostro del técnico. Micrófono subordinado.
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: down (conteniendo la emoción, nunca a cámara).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE SUAVE — la emoción conecta con que estaba llorando de verdad.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "El técnico boliviano en la conferencia tardó dos minutos en poder hablar."
+
+
+ESCENA 92 — [00:07:35]
+Close-up, eye level, of the TÉCNICO BOLIVIANO's face, a single tear escaping despite trying to hide it, the emotion unmistakable. TÉCNICO BOLIVIANO: hombre ~50 años, piel morena andina (#7A5035), cabello negro con canas (#2A1A0A), arrugas de expresión marcadas; cuello de chaqueta técnica verde oscuro (#1A4A1A) con escudo de Bolivia visible abajo. Hands: not in frame (close-up). Three depth levels: foreground a single tear on his cheek, midground his face, background blurred press backdrop with god rays and dust motes. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · tierra andina #6A4A20 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, hablar a cámara. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 92: el técnico no podía hablar; ahora se ve que llora de verdad y no quería que se notara, pero se nota.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la lágrima que delata la emoción.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (técnico boliviano secundario; descrito).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 92: N/A Organizador. Técnico: lágrima visible, ceño tembloroso, boca cerrada apretada.
+7. DIRECCIÓN DE LUZ — ESCENA 92 (interior): luz fría-azul #4A70B0, sombra suave; god rays con motas. Rim light cálida-dorada #FF8C00 en el borde del rostro. Ambient occlusion bajo el mentón.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 92: la lágrima congelada a mitad de la mejilla, motas de polvo suspendidas en el haz; la emoción desbordada como carga máxima.
+9. JERARQUÍA VISUAL — ESCENA 92: ELEMENTO DOMINANTE: el rostro lloroso del técnico. Fondo subordinado.
+10. PROPORCIÓN EN FRAME: close-up + composición simétrica.
+11. DIRECCIÓN DE MIRADA: down/unfocused (conteniendo el llanto).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el llanto conecta con el video más visto del continente.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "No por drama. Porque estaba llorando de verdad y no quería que se notara, pero se notó igual."
+
+
+ESCENA 93 — [00:07:40]
+Medium shot, eye level, of a single flat phone screen showing the crying Bolivian coach with a glowing view-counter rising, set against a dark space, the clip going continental. No detailed faces beyond the coach's image. Three depth levels: foreground the glowing phone with the coach's image and counter, midground a generic silhouetted hand holding it, background dark gradient with cold blue glow and dust motes. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · azul frío #4A6080 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo el contador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 93: el técnico lloró en conferencia; ahora ese video es el más visto del día en todo el continente.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la viralización del llanto del técnico.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno principal).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 93: N/A. Carga emocional: la emoción íntima multiplicada por millones.
+7. DIRECCIÓN DE LUZ — ESCENA 93: luz dominante el resplandor frío de la pantalla #6080A0; fill cálido tenue. Rim light cálida-dorada #FF8C00 en el borde del teléfono contra el fondo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 93: motas de polvo flotando frente a la pantalla; el contador subiendo congelado como tensión.
+9. JERARQUÍA VISUAL — ESCENA 93: ELEMENTO DOMINANTE: la pantalla con la imagen y el contador. Mano subordinada.
+10. PROPORCIÓN EN FRAME: medium shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: N/A; foco en la pantalla.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: SALTO TEMPORAL — corta hacia Colombia vs España en Barranquilla.
+13. RATIO PERSONAJE VS ENTORNO: entorno/objeto domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Fue el video más visto de ese día en todo el continente."
+
+
+ESCENA 94 — [00:07:45]
+Extreme wide shot, high angle, of a Caribbean coastal stadium in Barranquilla packed with 48,000 in yellow under humid evening heat, a faint "CUARTOS · COL vs ESP" panel. No detailed individuals. Three depth levels: foreground stand rim, midground packed yellow silhouette crowd mass (desaturated 40%), background coastal city horizon and warm humid sky with stadium glow. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: amarillo Colombia #FDD116 · azul caribe #2A6AA0 · verde césped #2A6A2A · gris cemento cálido #8A7A60 · SIN colores fuera de esta paleta. (paleta costera Barranquilla, coherente y fija para esta sede)
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo panel in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 94: el llanto del técnico boliviano se viralizó; ahora Colombia vs España en Barranquilla, 48.000 amarillos.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la marea amarilla costera.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 94: N/A. Carga emocional: la expectativa del calor caribeño y la masa amarilla.
+7. DIRECCIÓN DE LUZ — ESCENA 94: tarde-noche, luz cálida-naranja #E8702A lateral derecha, sombras largas. Rim light fría-celeste #60C0E0 en los bordes de las gradas contra el cielo húmedo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 94: banderas amarillas onduladas congeladas, vapor de calor suspendido; la expectativa como tensión.
+9. JERARQUÍA VISUAL — ESCENA 94: ELEMENTO DOMINANTE: la marea amarilla y el estadio. Horizonte costero subordinado.
+10. PROPORCIÓN EN FRAME: extreme wide shot + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: N/A; siluetas hacia el campo.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la marea amarilla conecta con el tiro libre de James.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Colombia contra España en cuartos. Sede: Barranquilla. 48.000 amarillos."
+
+
+ESCENA 95 — [00:07:50]
+Dynamic medium-wide shot, low angle, of JAMES RODRÍGUEZ striking a 30-meter free kick at minute 18, ball curling frozen past the Spanish keeper's fingertips, "COL 1 - 0 ESP" glowing. JAMES RODRÍGUEZ: mediano, complexión atlética, piel morena clara (#C09060), cabello castaño claro corto liso (#8B6040); camiseta de Colombia amarilla (#FDD116) con escudo tricolor, número 10, Adidas tres rayas; shorts azul oscuro (#003087); medias azul oscuro; botines Adidas blancos. Hands: arms out for the kick's balance, fingers spread. Balón blanco/negro congelado curvándose hacia el ángulo, el portero español estirado rozándolo. Three depth levels: foreground James's planted boot and the ball leaving, midground the stretched Spanish keeper, background yellow silhouette crowd mass (40%) rising and coastal sky. Only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: amarillo Colombia #FDD116 · azul caribe #2A6AA0 · verde césped #2A6A2A · gris cemento cálido #8A7A60 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 95: se presentó Barranquilla; ahora James cobra un tiro libre desde 30 metros en el minuto 18, 1-0.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del balón curvándose rozado por el portero.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (James secundario; descrito completo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 95: N/A Organizador. James: cuerpo en torsión del golpeo, precisión, intensidad.
+7. DIRECCIÓN DE LUZ — ESCENA 95: tarde-noche, luz cálida-naranja #E8702A lateral derecha, sombras largas. Rim light fría-celeste #60C0E0 en el contorno de James. Ambient occlusion bajo el pie de apoyo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 95: el balón suspendido curvándose con leve estela, dedos del portero a milímetros congelados; el gol detenido a un instante de entrar.
+9. JERARQUÍA VISUAL — ESCENA 95: ELEMENTO DOMINANTE: James y el balón en curva. Portero y tribuna subordinados.
+10. PROPORCIÓN EN FRAME: medium-wide shot + Regla de Tercios extrema.
+11. DIRECCIÓN DE MIRADA: toward goal (siguiendo el balón).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el gol conecta con Barranquilla sin tocar el suelo.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "James cobró un tiro libre desde 30 metros en el minuto 18. El portero español lo rozó pero no lo paró. 1 a 0."
+
+
+ESCENA 96 — [00:07:55]
+Extreme wide shot, low angle from the pitch, of the entire Barranquilla stadium leaping in the air at once — the yellow silhouette crowd mass frozen mid-jump, feet off the ground, for ten ecstatic minutes. No detailed individuals. Three depth levels: foreground pitch corner, midground yellow silhouette crowd mass (desaturated 40%) caught mid-jump, background coastal city horizon and warm humid sky with stadium glow. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: amarillo Colombia #FDD116 · azul caribe #2A6AA0 · verde césped #2A6A2A · gris cemento cálido #8A7A60 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 96: James marcó el 1-0; ahora Barranquilla no toca el suelo durante diez minutos.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la masa amarilla congelada en pleno salto.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 96: N/A. Carga emocional: euforia total, siluetas con brazos extendidos hacia arriba y pies en el aire.
+7. DIRECCIÓN DE LUZ — ESCENA 96: tarde-noche, luz cálida-naranja #E8702A lateral derecha, sombras largas. Rim light fría-celeste #60C0E0 en los bordes de la masa contra el cielo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 96: toda la masa suspendida en el aire a mitad del salto, banderas amarillas onduladas congeladas; la euforia detenida como tensión máxima.
+9. JERARQUÍA VISUAL — ESCENA 96: ELEMENTO DOMINANTE: la masa amarilla saltando. Estadio subordinado.
+10. PROPORCIÓN EN FRAME: extreme wide shot + low angle + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: N/A; siluetas hacia el campo y hacia arriba.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la euforia conecta con el empate de Yamal para España.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Barranquilla no tocó el suelo en diez minutos."
+
+
+
+ESCENA 97 — [00:08:00]
+Dynamic medium shot, eye level, of YAMAL finishing a cross-shot inside the box at minute 63, ball frozen toward the far corner, "COL 1 - 1 ESP" glowing, the yellow crowd silenced. YAMAL (generic Spain): jugador joven delgado ágil, piel morena clara, cabello negro corto rizado; camiseta de España roja (#C8102E) con escudo en pecho izquierdo, shorts azul marino (#1A2A6A), medias rojas, botines claros. Hands: arms out for finishing balance, fingers spread. Balón blanco/negro congelado hacia el palo lejano. Three depth levels: foreground the striking boot and ball, midground Yamal finishing past a defender, background subdued yellow silhouette crowd mass (40%) and coastal sky. Only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: amarillo Colombia #FDD116 · azul caribe #2A6AA0 · verde césped #2A6A2A · gris cemento cálido #8A7A60 · rojo España #C8102E · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 97: Barranquilla celebraba el 1-0; ahora España empata en el 63 con Yamal, gambeta y disparo cruzado.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del disparo cruzado de Yamal que empata.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Yamal secundario; descrito).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 97: N/A Organizador. Yamal: cuerpo ágil en torsión del remate, frialdad.
+7. DIRECCIÓN DE LUZ — ESCENA 97: tarde-noche, luz cálida-naranja #E8702A lateral derecha, sombras largas. Rim light fría-celeste #60C0E0 en el contorno de Yamal. Ambient occlusion bajo el pie de apoyo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 97: el balón suspendido hacia el palo lejano con leve estela, briznas levantadas congeladas; el empate detenido.
+9. JERARQUÍA VISUAL — ESCENA 97: ELEMENTO DOMINANTE: Yamal y el balón. Tribuna subordinada.
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios extrema.
+11. DIRECCIÓN DE MIRADA: toward goal (al palo lejano).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el empate conecta con la tanda de penales.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "España empató en el 63. Yamal, gambeta dentro del área, disparo cruzado. 1 a 1."
+
+
+ESCENA 98 — [00:08:05]
+Wide shot, eye level, of a penalty shootout panel showing España with all markers converted and Colombia's first marker missed (a red X), the yellow crowd tense and frozen, Barranquilla holding its breath. No detailed individuals beyond a distant silhouetted keeper. Three depth levels: foreground the shootout marker panel, midground the distant goal and keeper, background tense yellow silhouette crowd mass (40%) and coastal sky. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: amarillo Colombia #FDD116 · azul caribe #2A6AA0 · verde césped #2A6A2A · gris cemento cálido #8A7A60 · rojo España #C8102E · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo panel de penales in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 98: Yamal empató; ahora en penales España convierte todos y Colombia falla el primero.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del panel de penales con el fallo de Colombia.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno principal).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 98: N/A. Carga emocional: la tensión sofocante de la tanda.
+7. DIRECCIÓN DE LUZ — ESCENA 98: noche, luz cálida-naranja #E8702A lateral derecha, sombras largas. Rim light fría-celeste #60C0E0 en los bordes del panel y las gradas contra el cielo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 98: vapor de calor suspendido sobre el campo, banderas amarillas caídas onduladas congeladas; el fallo como tensión.
+9. JERARQUÍA VISUAL — ESCENA 98: ELEMENTO DOMINANTE: el panel de penales. Estadio subordinado.
+10. PROPORCIÓN EN FRAME: wide shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: N/A; línea visual hacia el panel/arco.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el fallo conecta con James pateando al poste.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Penales. España convirtió todos. Colombia erró el primero."
+
+
+ESCENA 99 — [00:08:10]
+POV shot from behind JAMES RODRÍGUEZ at the penalty spot, watching his shot hit the post and rebound out, the goal and keeper ahead, the yellow crowd frozen in dismay. JAMES RODRÍGUEZ (from behind, POV): camiseta de Colombia amarilla (#FDD116) con número 10 en la espalda, cabello castaño claro corto (#8B6040); a hand at his hip visible. Hands: one hand on his hip (seen from behind). Balón blanco/negro rebotando del poste hacia afuera. Three depth levels: foreground James's back and shoulder, midground the post with rebounding ball and keeper, background yellow silhouette crowd mass (40%) frozen in dismay and coastal sky. Only the implied character and elements described in this scene appear on screen, nothing else, no duplicated figures.
+1. PALETA OBLIGATORIA: amarillo Colombia #FDD116 · azul caribe #2A6AA0 · verde césped #2A6A2A · gris cemento cálido #8A7A60 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 99: Colombia falló el primer penal; ahora James, el mismo del gol, patea al poste.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame POV del balón rebotando en el poste.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (James secundario; espalda en POV).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 99: N/A Organizador. James (implícito): cuerpo paralizado, mano en la cadera.
+7. DIRECCIÓN DE LUZ — ESCENA 99: noche, luz cálida-naranja #E8702A lateral derecha, sombras largas. Rim light fría-celeste #60C0E0 en el borde del hombro de James y el poste. Ambient occlusion bajo el balón rebotando.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 99: el balón congelado rebotando del poste hacia afuera con leve estela; la decepción detenida como tensión.
+9. JERARQUÍA VISUAL — ESCENA 99: ELEMENTO DOMINANTE: el poste y el balón rebotado. James subordinado (marco POV).
+10. PROPORCIÓN EN FRAME: medium/POV shot + Telephoto Lens (compresión psicológica).
+11. DIRECCIÓN DE MIRADA: toward goal (la mirada implícita de James al poste).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el fallo conecta con James parado mirando el suelo.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "James, el mismo que había marcado el gol, pateó al poste."
+
+
+ESCENA 100 — [00:08:15]
+Medium shot, eye level, of JAMES RODRÍGUEZ standing alone facing the goal, hands on his hips, head down staring at the ground, no teammate approaching him. JAMES RODRÍGUEZ: mediano, complexión atlética, piel morena clara (#C09060), cabello castaño claro corto liso (#8B6040); camiseta de Colombia amarilla (#FDD116) con escudo tricolor, número 10, Adidas; shorts azul oscuro (#003087); medias azul oscuro; botines Adidas blancos. Hands: both on his hips. Three depth levels: foreground pitch grass, midground James head-down alone, background empty space then yellow silhouette crowd mass (40%) silent and coastal sky. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: amarillo Colombia #FDD116 · azul caribe #2A6AA0 · verde césped #2A6A2A · gris cemento cálido #8A7A60 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, otros jugadores cerca, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 100: James pateó al poste; ahora se queda parado frente al arco, manos en la cintura, mirando el suelo, solo.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la soledad de James tras el fallo.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (James secundario; descrito completo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 100: N/A Organizador. James: hombros caídos, cabeza baja, manos en la cintura, devastación contenida.
+7. DIRECCIÓN DE LUZ — ESCENA 100: noche, luz lateral baja fría #3A5070, sombra al 70%, intensidad baja (derrota/colapso). Rim light fría-celeste #60C0E0 tenue en el contorno de James. Ambient occlusion bajo sus botines.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 100: el aire pesado y vapor de calor suspendido alrededor de su figura solitaria; el vacío a su alrededor como tensión emocional.
+9. JERARQUÍA VISUAL — ESCENA 100: ELEMENTO DOMINANTE: James solo. Entorno vacío subordinado pero significativo.
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios extrema (James desplazado al borde, vacío al lado).
+11. DIRECCIÓN DE MIRADA: down (al suelo).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE SUAVE — la soledad conecta con los 30 segundos en silencio.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina (con vacío deliberado).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Se quedó parado frente al arco con las manos en la cintura, mirando el suelo. Nadie fue a buscarlo inmediatamente."
+
+
+ESCENA 101 — [00:08:20]
+Wide shot, eye level, of JAMES RODRÍGUEZ small and isolated at the center of an empty patch of pitch while the entire yellow stadium sits in stunned silence around him, 30 seconds of national heartbreak. JAMES RODRÍGUEZ: mediano, piel morena clara (#C09060), cabello castaño claro corto (#8B6040); camiseta de Colombia amarilla (#FDD116) con escudo tricolor, número 10, Adidas; shorts azul oscuro (#003087); medias azul oscuro; botines Adidas blancos. Hands: both at his sides, limp. Three depth levels: foreground empty pitch, midground tiny isolated James, background vast silent yellow silhouette crowd mass (40%) and coastal sky. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: amarillo Colombia #FDD116 · azul caribe #2A6AA0 · verde césped #2A6A2A · gris cemento cálido #8A7A60 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 101: James miraba el suelo solo; ahora 30 segundos que todo Colombia vio en silencio.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la soledad amplificada por el silencio del estadio.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (James secundario; descrito completo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 101: N/A Organizador. James: figura mínima, hombros caídos, abatimiento.
+7. DIRECCIÓN DE LUZ — ESCENA 101: noche, luz lateral baja fría #3A5070, sombra al 70%, intensidad baja. Rim light fría-celeste #60C0E0 tenue en el contorno de James contra el césped. Ambient occlusion bajo sus botines.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 101: una bandera amarilla caída ondulando congelada en la tribuna, vapor suspendido; el silencio masivo como tensión.
+9. JERARQUÍA VISUAL — ESCENA 101: ELEMENTO DOMINANTE: el estadio en silencio rodeando a James. James mínimo, subordinado.
+10. PROPORCIÓN EN FRAME: wide shot + Regla de Tercios extrema + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: down (abatido).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: SALTO TEMPORAL — corta hacia Francia vs Venezuela en Caracas.
+13. RATIO PERSONAJE VS ENTORNO: personaje mínimo.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Solo 30 segundos. 30 segundos que todo Colombia vio en silencio."
+
+
+ESCENA 102 — [00:08:25]
+Extreme wide shot, high angle, of the Estadio Olímpico de Caracas packed with 24,000 in red for the France quarterfinal, urban skyline beyond, warm electric night. No detailed individuals. Three depth levels: foreground covered grandstand rim, midground packed red silhouette crowd mass (desaturated 40%), background light towers and Caracas urban horizon under warm night sky. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: rojo venezolano #CC0000 · amarillo-dorado #E8C020 · gris cemento caliente #7A7060 · azul cielo urbano #4A6080 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 102: cerró el drama de Colombia; ahora Francia vs Venezuela en cuartos, Caracas, 24.000 de rojo.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la marea roja para el cuarto de final.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 102: N/A. Carga emocional: la electricidad de la multitud roja.
+7. DIRECCIÓN DE LUZ — ESCENA 102: tarde-noche, luz cálida-naranja #E8702A lateral derecha, sombras largas. Rim light fría-celeste #60C0E0 en los bordes de las gradas contra el cielo urbano.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 102: humo de bengala y banderas rojas onduladas congeladas; la energía de multitud como tensión.
+9. JERARQUÍA VISUAL — ESCENA 102: ELEMENTO DOMINANTE: la marea roja y el estadio. Skyline subordinado.
+10. PROPORCIÓN EN FRAME: extreme wide shot + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: N/A; siluetas hacia el campo.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la marea roja conecta con el enganche de Soteldo a Mbappé.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Francia contra Venezuela en cuartos. Sede: Caracas. 24.000 de rojo."
+
+
+ESCENA 103 — [00:08:30]
+Dynamic medium shot, low angle, of SOTELDO nutmegging MBAPPÉ at minute 7 — the ball frozen between Mbappé's legs as Soteldo cuts inside, leaving the Frenchman flat-footed. SOTELDO: muy bajo (el más bajo en frame), complexión compacta-musculosa, piel morena clara (#B07848), cabello negro muy corto (#0A0A0A); camiseta de Venezuela burdeos (#8B0000) con escudo tricolor estrellado, Adidas; shorts burdeos; medias burdeos; botines Adidas negros. Hands: arms out for the dribble's balance, fingers spread. MBAPPÉ: mediano-alto, complexión delgada-veloz, piel oscura (#4A2E1A), cabello negro muy corto (#0A0A0A), cuello largo; camiseta de Francia azul marino (#002395) con gallo, número 10, Nike swoosh; shorts blancos (#FFFFFF); medias azul marino; botines Nike blancos; left flat-footed. Hands: slightly out, caught off balance. Balón blanco/negro congelado pasando entre las piernas de Mbappé. Three depth levels: foreground the ball between Mbappé's legs, midground Soteldo cutting and Mbappé frozen, background red silhouette crowd mass (40%) rising and light towers. Only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: rojo venezolano #CC0000 · amarillo-dorado #E8C020 · gris cemento caliente #7A7060 · azul cielo urbano #4A6080 · burdeos #8B0000 · azul Francia #002395 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos de tribuna detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 103: se presentó Caracas; ahora Soteldo encara a Mbappé en el minuto 7, lo engancha y lo deja parado.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del caño/enganche con el balón entre las piernas de Mbappé.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Soteldo y Mbappé secundarios; descritos completos).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 103: N/A Organizador. Soteldo: cuerpo bajo y explosivo cortando; Mbappé: desequilibrado, sorprendido.
+7. DIRECCIÓN DE LUZ — ESCENA 103: noche, luz cálida-naranja #E8702A lateral derecha, sombras duras. Rim light fría-celeste #60C0E0 en los contornos de ambos contra la masa roja. Ambient occlusion bajo los botines de ambos.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 103: el balón suspendido entre las piernas de Mbappé, briznas de césped levantadas congeladas; la humillación deportiva detenida en su instante.
+9. JERARQUÍA VISUAL — ESCENA 103: ELEMENTO DOMINANTE: Soteldo y el balón en el caño. Mbappé subordinado (desequilibrado).
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios extrema.
+11. DIRECCIÓN DE MIRADA: forward (Soteldo hacia adelante, cortando).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el enganche conecta con Caracas explotando.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Soteldo encaró a Mbappé en el minuto 7, lo enganchó hacia adentro y lo dejó parado."
+
+
+ESCENA 104 — [00:08:35]
+Extreme wide shot, low angle from the pitch, of the entire Caracas stadium exploding at once after the nutmeg, red silhouette crowd mass surging forward, sound made visible. No detailed individuals. Three depth levels: foreground pitch corner and light tower, midground exploding red silhouette crowd mass (desaturated 40%) leaning forward, background Caracas urban horizon and warm night sky with stadium glow. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: rojo venezolano #CC0000 · amarillo-dorado #E8C020 · gris cemento caliente #7A7060 · azul cielo urbano #4A6080 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 104: Soteldo dejó parado a Mbappé; ahora Caracas explota.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la explosión de la multitud roja.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 104: N/A. Carga emocional: euforia explosiva, siluetas con brazos hacia arriba.
+7. DIRECCIÓN DE LUZ — ESCENA 104: noche, luz cálida-naranja #E8702A desde los postes, sombras duras. Rim light fría-celeste #60C0E0 en los bordes de la masa contra el cielo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 104: humo de bengala y banderas rojas suspendidos congelados, vibración del aire visible; la explosión detenida como tensión.
+9. JERARQUÍA VISUAL — ESCENA 104: ELEMENTO DOMINANTE: la masa roja explotando. Estadio subordinado.
+10. PROPORCIÓN EN FRAME: extreme wide shot + low angle + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: N/A; siluetas hacia el campo.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la explosión conecta con el resultado 3-1 y el enganche viral.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Caracas explotó."
+
+
+ESCENA 105 — [00:08:40]
+Medium shot, eye level, of a single flat phone screen replaying Soteldo's nutmeg on Mbappé with a soaring view-counter, beside a faint "FRA 3 - 1 VEN" scoreboard that feels secondary. No detailed faces beyond the clip. Three depth levels: foreground the glowing phone with the nutmeg clip and counter, midground a silhouetted hand holding it, background dark space with the faint scoreboard and dust motes. Flat black scoreboard (#0A0A0A) bold white "FRA 3 - 1 VEN". Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: rojo venezolano #CC0000 · amarillo-dorado #E8C020 · gris cemento caliente #7A7060 · azul cielo urbano #4A6080 · azul Francia #002395 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcador/contador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 105: Caracas explotó; ahora Francia gana 3-1 igual, pero el enganche tiene más reproducciones que todos los goles.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del enganche viral superando al marcador.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno principal).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 105: N/A. Carga emocional: el gesto que vence al resultado.
+7. DIRECCIÓN DE LUZ — ESCENA 105: luz dominante el resplandor frío de la pantalla #6080A0; fill cálido tenue. Rim light cálida-dorada #FF8C00 en el borde del teléfono contra el fondo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 105: motas de polvo flotando frente a la pantalla, el contador subiendo congelado; la viralidad como tensión.
+9. JERARQUÍA VISUAL — ESCENA 105: ELEMENTO DOMINANTE: la pantalla con el enganche. Marcador subordinado (secundario a propósito).
+10. PROPORCIÓN EN FRAME: medium shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: N/A; foco en la pantalla.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el clip conecta con la conferencia de Mbappé.
+13. RATIO PERSONAJE VS ENTORNO: entorno/objeto domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Francia ganó 3 a 1 igual. Pero ese enganche tiene más reproducciones que todos los goles del partido juntos."
+
+
+ESCENA 106 — [00:08:45]
+Medium shot, eye level, of MBAPPÉ at a press-conference table, composed and diplomatic, a stylized microphone before him, NOT addressing camera. MBAPPÉ: mediano-alto, complexión delgada-veloz, piel oscura (#4A2E1A), cabello negro muy corto (#0A0A0A), cuello largo; camiseta de Francia azul marino (#002395) con gallo gaulés, número 10, Nike swoosh. Hands: both resting clasped on the table. Stylized flat microphone on a stand. Three depth levels: foreground microphone, midground seated Mbappé, background simple sponsor backdrop with god rays from a side window and dust motes. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: azul Francia #002395 · rojo #CC0000 · blanco #F0F0F0 · gris arquitectura #8A8A90 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados, hablar a cámara. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating (boca cerrada).
+3. CONTINUIDAD NARRATIVA — ESCENA 106: el enganche se volvió viral; ahora Mbappé en conferencia responde diplomáticamente.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del gesto diplomático y contenido de Mbappé.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Mbappé secundario; descrito completo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 106: N/A Organizador. Mbappé: expresión neutra-cortés, mirada de lado, boca cerrada.
+7. DIRECCIÓN DE LUZ — ESCENA 106 (interior): luz lateral cálida #D4A054 desde una ventana; god rays con motas de polvo visibles. Rim light fría-celeste #60C0E0 en el borde del hombro contra el fondo. Ambient occlusion donde las manos tocan la mesa.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 106: motas de polvo suspendidas en el haz de la ventana; la diplomacia contenida como tensión.
+9. JERARQUÍA VISUAL — ESCENA 106: ELEMENTO DOMINANTE: Mbappé sentado. Micrófono y backdrop subordinados.
+10. PROPORCIÓN EN FRAME: medium shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: left (a un periodista fuera de cuadro, nunca a cámara).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE SUAVE — la frase conecta con su lectura "europea" del calor.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Mbappé en conferencia: 'Un rival muy difícil en condiciones complicadas.'"
+
+
+ESCENA 107 — [00:08:50]
+Close-up, slight Dutch tilt, of MBAPPÉ's face wiping sweat, subtle exhaustion from the Caracas heat showing beneath his composed expression, microphone foreground. MBAPPÉ: mediano-alto, piel oscura (#4A2E1A), cabello negro muy corto (#0A0A0A), cuello largo; collar of camiseta Francia azul marino (#002395) at bottom of frame. Hands: one hand near his brow wiping sweat (entering frame). Stylized flat microphone foreground. Three depth levels: foreground microphone tip, midground Mbappé's face, background blurred backdrop with god rays and dust motes. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: azul Francia #002395 · rojo #CC0000 · blanco #F0F0F0 · gris arquitectura #8A8A90 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, hablar a cámara. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 107: Mbappé respondió diplomáticamente; ahora se subraya que el calor de Caracas los mató sin quejarse abiertamente.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del cansancio velado por la diplomacia.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Mbappé secundario; descrito).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 107: N/A Organizador. Mbappé: leve agotamiento, sudor, expresión contenida, boca cerrada.
+7. DIRECCIÓN DE LUZ — ESCENA 107 (interior): luz lateral cálida #D4A054, sombra suave; god rays con motas. Rim light fría-celeste #60C0E0 en el borde del rostro. Ambient occlusion bajo el mentón.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 107: una gota de sudor congelada en su sien, motas de polvo suspendidas; el agotamiento no admitido como carga emocional.
+9. JERARQUÍA VISUAL — ESCENA 107: ELEMENTO DOMINANTE: el rostro de Mbappé. Micrófono subordinado.
+10. PROPORCIÓN EN FRAME: close-up + Dutch tilt leve.
+11. DIRECCIÓN DE MIRADA: unfocused/left (nunca a cámara).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: SALTO TEMPORAL — corta hacia San Marino en cuartos, Lisboa.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Que es la forma europea de decir que el calor de Caracas los mató sin quejarse abiertamente."
+
+
+ESCENA 108 — [00:08:55]
+Extreme wide shot, high angle, of a modern Lisbon stadium at night packed in red for Portugal, cool white artificial light, a faint "CUARTOS · POR vs SMR" panel, european grandeur. No detailed individuals. Three depth levels: foreground modern stand rim, midground packed red silhouette crowd mass (desaturated 40%), background modern stadium architecture and european night sky with light glow. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: rojo Portugal #CC0000 · verde césped europeo #1A6A1A · gris claro estadio moderno #C0C0C8 · azul cielo europeo #4A70B0 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo panel in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 108: cerró Caracas; ahora San Marino en cuartos, sede Lisboa, contra Portugal.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del estadio lisboeta rojo bajo luz fría.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 108: N/A. Carga emocional: la tensión creciente del cuarto de final europeo.
+7. DIRECCIÓN DE LUZ — ESCENA 108: noche europea, luz blanca artificial fría #D0D8E8 desde arriba, sombras duras. Rim light cálida-dorada #FF8C00 en los bordes de las gradas contra el cielo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 108: banderas rojas onduladas congeladas, halos de luz con motas suspendidas; la tensión creciente como atmósfera.
+9. JERARQUÍA VISUAL — ESCENA 108: ELEMENTO DOMINANTE: el estadio rojo moderno. Arquitectura subordinada.
+10. PROPORCIÓN EN FRAME: extreme wide shot + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: N/A; siluetas hacia el campo.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el estadio conecta con Cristiano y el 3-1 al minuto 85.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "San Marino en cuartos. Sede: Lisboa. Contra Portugal."
+
+
+
+ESCENA 109 — [00:09:00]
+Dynamic medium-wide shot, low angle, of CRISTIANO RONALDO celebrating one of his three goals, a flat scoreboard "POR 3 - 1 SMR" glowing at minute 85, the red Lisbon crowd roaring. CRISTIANO RONALDO: alto-mediano, complexión musculosa, piel morena mediterránea (#B07848), cabello negro corto liso (#0F0F0F); camiseta de Portugal roja (#CC0000) con escudo verde/rojo/dorado, número 7, Nike swoosh; shorts verde oscuro (#003300); medias rojas; botines Nike negros con swoosh plateado. Hands: arms open wide, fingers extended in his classic celebration. Three depth levels: foreground pitch grass, midground Cristiano celebrating, background red silhouette crowd mass (40%) roaring and modern stadium architecture. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: rojo Portugal #CC0000 · verde césped europeo #1A6A1A · gris claro estadio moderno #C0C0C8 · azul cielo europeo #4A70B0 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos de tribuna detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 109: se presentó el estadio de Lisboa; ahora Cristiano marcó tres y Portugal gana 3-1 en el minuto 85.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de Cristiano dominante con el 3-1.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Cristiano secundario; descrito completo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 109: N/A Organizador. Cristiano: brazos abiertos, mandíbula cuadrada, dominio total.
+7. DIRECCIÓN DE LUZ — ESCENA 109: noche europea, luz blanca artificial fría #D0D8E8 desde arriba, sombras duras. Rim light cálida-dorada #FF8C00 en el contorno de Cristiano contra el fondo frío. Ambient occlusion bajo sus botines.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 109: briznas de césped levantadas congeladas, banderas rojas onduladas; el dominio aparente como tensión previa al vuelco.
+9. JERARQUÍA VISUAL — ESCENA 109: ELEMENTO DOMINANTE: Cristiano. Marcador y tribuna subordinados.
+10. PROPORCIÓN EN FRAME: medium-wide shot + composición simétrica (control).
+11. DIRECCIÓN DE MIRADA: up/toward crowd (celebrando).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el dominio conecta con el penal cobrado para San Marino.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Cristiano había marcado tres goles. Portugal ganaba 3 a 1 en el minuto 85."
+
+
+ESCENA 110 — [00:09:05]
+Medium shot, eye level, of a referee blowing his whistle and signaling a penalty for San Marino, a confused tangle of players in the box behind, the disputed handball moment frozen. Referee (generic): camiseta de árbitro negra (#1A1A1A), silbato en la boca, brazo señalando hacia el punto de penal (NOT toward camera). Players (silhouetted, red Portugal and celeste/white San Marino) protesting around. Hands (referee): one arm extended toward the penalty spot. Three depth levels: foreground the penalty spot, midground referee signaling and tangled players, background red silhouette crowd mass (40%) and modern stadium. Only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: rojo Portugal #CC0000 · verde césped europeo #1A6A1A · gris claro estadio moderno #C0C0C8 · azul cielo europeo #4A70B0 · negro árbitro #1A1A1A · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Quispe, copa, individuos de tribuna detallados, señalar a cámara. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 110: Portugal ganaba 3-1; ahora el árbitro cobra penal para San Marino por una mano que nadie vio claramente.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del pitazo y la señalización del penal polémico.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (árbitro y jugadores genéricos; sin imágenes de los tres principales).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 110: N/A Organizador. Árbitro: firme, señalando; jugadores: confusión/protesta.
+7. DIRECCIÓN DE LUZ — ESCENA 110: noche europea, luz blanca fría #D0D8E8 desde arriba, sombras duras. Rim light cálida-dorada #FF8C00 en los contornos contra el fondo frío. Ambient occlusion bajo los pies de los jugadores.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 110: briznas de césped levantadas y el silbato en plena vibración congelados; la polémica detenida como tensión.
+9. JERARQUÍA VISUAL — ESCENA 110: ELEMENTO DOMINANTE: el árbitro señalando el punto. Jugadores subordinados.
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: toward the spot (al punto de penal, nunca a cámara).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la polémica conecta con el VAR caído.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Y entonces el árbitro cobró penal para San Marino por una mano dentro del área que nadie vio claramente."
+
+
+ESCENA 111 — [00:09:10]
+POV shot looking at a glitching VAR monitor and a frozen, crashed local-broadcast screen showing color bars and static, no replay available. The screens: flat cartoon monitors, one VAR screen dark with an error glyph, one broadcast screen frozen on glitch color bars. No characters in focus. Three depth levels: foreground the dead VAR monitor, midground the glitched broadcast screen, background dim broadcast booth with cold blue glow, god rays and dust motes. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: rojo Portugal #CC0000 · gris claro estadio moderno #C0C0C8 · azul cielo europeo #4A70B0 · azul frío #4A6080 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays legibles salvo el glitch in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 111: el árbitro cobró penal polémico; ahora el VAR no funciona y la transmisión local lleva dos minutos colgada.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame POV de las pantallas muertas, sin repetición posible.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno principal; POV técnico).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 111: N/A. Carga emocional: la impotencia tecnológica, el vacío de la verdad.
+7. DIRECCIÓN DE LUZ — ESCENA 111 (interior): luz fría azul #6080A0 de las pantallas; god rays atravesando con motas de polvo visibles. Rim light cálida-dorada #FF8C00 en los bordes de los monitores contra el fondo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 111: el glitch de barras de color congelado a media distorsión, motas de polvo flotando en los haces; el caos técnico como tensión.
+9. JERARQUÍA VISUAL — ESCENA 111: ELEMENTO DOMINANTE: el monitor VAR muerto. Pantalla de transmisión subordinada.
+10. PROPORCIÓN EN FRAME: detail/POV shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: N/A; foco en las pantallas.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — las pantallas muertas conectan con "no había reclamo posible".
+13. RATIO PERSONAJE VS ENTORNO: entorno/objeto domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "El VAR no funcionaba. La transmisión local llevaba dos minutos colgada."
+
+
+ESCENA 112 — [00:09:15]
+Wide shot, eye level, of the referee standing firm by the penalty spot with no replay screens working, players' protests subdued into resignation, an irreversible decision hanging. Referee (generic): camiseta negra (#1A1A1A), postura firme. A few silhouetted players (red Portugal, celeste/white San Marino) standing back resigned. Hands (referee): both at sides, firm. Three depth levels: foreground the penalty spot and ball, midground the firm referee and resigned players, background red silhouette crowd mass (40%) and modern stadium. Only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: rojo Portugal #CC0000 · verde césped europeo #1A6A1A · gris claro estadio moderno #C0C0C8 · azul cielo europeo #4A70B0 · negro árbitro #1A1A1A · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 112: el VAR estaba caído; ahora no hay repetición ni reclamo posible, la decisión es firme.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la decisión irreversible.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (árbitro y jugadores genéricos).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 112: N/A Organizador. Árbitro: firme; jugadores: resignación.
+7. DIRECCIÓN DE LUZ — ESCENA 112: noche europea, luz blanca fría #D0D8E8 desde arriba, sombras duras. Rim light cálida-dorada #FF8C00 en los contornos contra el fondo frío. Ambient occlusion bajo los pies y el balón.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 112: el balón inmóvil en el punto, briznas de césped quietas; la irreversibilidad como tensión suspendida.
+9. JERARQUÍA VISUAL — ESCENA 112: ELEMENTO DOMINANTE: el árbitro firme y el balón en el punto. Jugadores subordinados.
+10. PROPORCIÓN EN FRAME: wide shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: toward the spot.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el punto de penal conecta con Gasperoni ejecutando.
+13. RATIO PERSONAJE VS ENTORNO: equilibrado.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "No había repetición. No había reclamo posible."
+
+
+ESCENA 113 — [00:09:20]
+Dynamic medium-wide shot, low angle, of GASPERONI calmly chipping the penalty down the middle (a Panenka), the ball frozen floating softly as the keeper dives away, "POR 3 - 2 SMR" glowing. GASPERONI: cabeza grande ovalada-cuadrada, piel morena clara (#C8956C), cabello muy corto rapado canoso/oscuro desvanecido (#3A3230), barba cerrada densa marrón oscuro con gris (#4A3328), ojos pequeños oscuros serios, nariz ancha; cuerpo robusto fornido bajo-mediano, ancho de hombros; tatuajes en ambos brazos completos (tinta oscura del codo a la muñeca); camiseta a rayas verticales celeste (#A8D8EA) y blanco (#FFFFFF) de San Marino, "GASPERONI" en la espalda, escudo de San Marino en pecho izquierdo, tres rayas Adidas en hombros; shorts blancos (#FFFFFF); medias a rayas celeste y blanco; botines blancos Adidas (#FFFFFF) con tres rayas negras. Hands: both slightly out for balance after the chip, fists semi-closed. Balón blanco/negro flotando suave por el centro mientras el portero se lanza a un lado. Three depth levels: foreground the floating ball, midground Gasperoni following through and the diving keeper, background red silhouette crowd mass (40%) frozen and modern stadium. Only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: rojo Portugal #CC0000 · verde césped europeo #1A6A1A · gris claro estadio moderno #C0C0C8 · azul cielo europeo #4A70B0 · celeste San Marino #A8D8EA · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Quispe, copa, individuos de tribuna detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 113: la decisión era irreversible; ahora Gasperoni, el contador público centrodelantero, patea el penal al medio, 3-2.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del penal picado al medio con el portero ya lanzado.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: → Imagen 2 (GASPERONI): cuerpo robusto bajo, barba densa, tatuajes en ambos brazos, camiseta San Marino celeste/blanca. Usar como referencia exacta.
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 113: N/A Organizador. Gasperoni: frialdad serena, ojos concentrados, cuerpo robusto en el follow-through, boca cerrada.
+7. DIRECCIÓN DE LUZ — ESCENA 113: noche europea, luz blanca artificial fría #D0D8E8 desde arriba, sombras duras. Rim light cálida-dorada #FF8C00 en el contorno de Gasperoni; el celeste de su camiseta tiñe sutilmente el césped cercano. Ambient occlusion bajo su pie de apoyo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 113: el balón flotando suspendido en el centro del arco, briznas de césped levantadas congeladas; la audacia del picado detenida en su instante.
+9. JERARQUÍA VISUAL — ESCENA 113: ELEMENTO DOMINANTE: Gasperoni y el balón flotando. Portero y tribuna subordinados.
+10. PROPORCIÓN EN FRAME: medium-wide shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: toward goal (al balón picado).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el 3-2 conecta con el tiempo de descuento.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Gasperoni — el contador público que jugaba de centrodelantero — pateó el penal al medio. 3 a 2."
+
+
+ESCENA 114 — [00:09:25]
+Detail shot, eye level, of the fourth official's stylized stoppage-time board glowing "+6", held up against the cool Lisbon night, players blurred behind. The board: flat cartoon LED panel, dark (#0A0A0A) with bold amber "+6". Fourth official's hands (generic) holding it up. Three depth levels: foreground the glowing +6 board, midground a silhouetted official's arm, background red silhouette crowd mass (40%) and modern stadium under cool light. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: rojo Portugal #CC0000 · verde césped europeo #1A6A1A · gris claro estadio moderno #C0C0C8 · azul cielo europeo #4A70B0 · ámbar marcador #E8C020 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo el board in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 114: Gasperoni descontó a 3-2; ahora el cuarto árbitro indica seis minutos de descuento.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del cartel +6 que abre la esperanza.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno principal).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 114: N/A. Carga emocional: la ventana de tiempo que cambia todo.
+7. DIRECCIÓN DE LUZ — ESCENA 114: noche europea, luz blanca fría #D0D8E8 desde arriba, sombras duras. Rim light cálida-dorada #FF8C00 en el borde del board contra el fondo frío. Ambient occlusion en la mano que sostiene el cartel.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 114: motas de polvo y vaho suspendidos frente al panel iluminado; los seis minutos como tensión latente.
+9. JERARQUÍA VISUAL — ESCENA 114: ELEMENTO DOMINANTE: el cartel +6. Oficial y fondo subordinados.
+10. PROPORCIÓN EN FRAME: detail shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: N/A; foco en el cartel.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el +6 conecta con el córner del minuto 94.
+13. RATIO PERSONAJE VS ENTORNO: entorno/objeto domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Tiempo de descuento. Seis minutos."
+
+
+ESCENA 115 — [00:09:30]
+Dynamic medium-wide shot, low angle, of the DEFENSA MAESTRO DE PRIMARIA (37) heading in a corner at minute 94, ball frozen entering the net, "POR 3 - 3 SMR" glowing. DEFENSA MAESTRO DE PRIMARIA: hombre de 37 años, piel blanca (#EED0B0), cabello castaño con algunas canas, algo calvo en las sienes, complexión delgada-mediana (notoriamente más delgado que otros futbolistas); camiseta a rayas verticales celeste (#A8D8EA) y blanco (#FFFFFF) de San Marino con escudo y tres rayas Adidas; shorts blancos; medias a rayas celeste/blanco; botines. Hands: arms spread wide for the leap. Balón blanco/negro congelado entrando en la red. Three depth levels: foreground rippling net and ball, midground the leaping teacher-defender, background red silhouette crowd mass (40%) silenced and modern stadium. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: rojo Portugal #CC0000 · verde césped europeo #1A6A1A · gris claro estadio moderno #C0C0C8 · azul cielo europeo #4A70B0 · celeste San Marino #A8D8EA · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos de tribuna detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 115: se indicaron seis minutos; ahora, en el 94, el defensa más alto —un maestro de primaria de 37 años— cabecea al fondo de la red.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del cabezazo del maestro que iguala 3-3.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (defensa maestro secundario; descrito completo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 115: N/A Organizador. Defensa: cara de profesor cansado transformada en entrega total, cuerpo delgado suspendido en el salto.
+7. DIRECCIÓN DE LUZ — ESCENA 115: noche europea, luz blanca fría #D0D8E8 desde arriba, sombras duras. Rim light cálida-dorada #FF8C00 en el contorno del defensa contra el fondo frío. Ambient occlusion en el contacto balón-red.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 115: la red ondulada congelada por el impacto, el cuerpo delgado suspendido en el aire; el empate increíble detenido.
+9. JERARQUÍA VISUAL — ESCENA 115: ELEMENTO DOMINANTE: el cabezazo y el balón en la red. Tribuna subordinada (silenciada).
+10. PROPORCIÓN EN FRAME: medium-wide shot + Regla de Tercios extrema.
+11. DIRECCIÓN DE MIRADA: toward goal (al balón que entra).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el 3-3 conecta con la prórroga y los penales.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Minuto 94. Córner para San Marino. El defensa más alto — un maestro de primaria de 37 años — cabeceó al fondo de la red."
+
+
+ESCENA 116 — [00:09:35]
+Wide shot, eye level, of a flat scoreboard "POR 3 - 3 SMR" glowing over the Lisbon pitch as exhausted players prepare for extra time and penalties, the red crowd tense and frozen. No detailed individuals beyond distant silhouetted players. Three depth levels: foreground pitch with a ball, midground a few exhausted silhouetted players, background tense red silhouette crowd mass (40%) and modern stadium. Flat black scoreboard (#0A0A0A) bold white "POR 3 - 3 SMR". Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: rojo Portugal #CC0000 · verde césped europeo #1A6A1A · gris claro estadio moderno #C0C0C8 · azul cielo europeo #4A70B0 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 116: el maestro empató 3-3; ahora prórroga y penales.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del 3-3 rumbo a la definición.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno principal).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 116: N/A. Carga emocional: el desgaste y la tensión previa a los penales.
+7. DIRECCIÓN DE LUZ — ESCENA 116: noche europea, luz blanca fría #D0D8E8 desde arriba, sombras duras. Rim light cálida-dorada #FF8C00 en los bordes de jugadores y gradas contra el fondo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 116: vaho de respiración de los jugadores suspendido, el balón quieto en el césped; la tensión previa como suspensión.
+9. JERARQUÍA VISUAL — ESCENA 116: ELEMENTO DOMINANTE: el marcador 3-3 y el campo agotado. Multitud subordinada.
+10. PROPORCIÓN EN FRAME: wide shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: N/A; jugadores hacia el balón.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el 3-3 conecta con los penales fallados de Portugal.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "3 a 3. Prórroga. Penales."
+
+
+ESCENA 117 — [00:09:40]
+Wide shot, eye level, of a penalty shootout panel showing Portugal with two missed markers (red X) and San Marino with all converted, the celeste/white players beginning to converge in disbelief. No detailed individuals beyond distant silhouettes. Three depth levels: foreground the shootout panel, midground the distant goal and converging celeste/white silhouettes, background red silhouette crowd mass (40%) stunned and modern stadium. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: rojo Portugal #CC0000 · verde césped europeo #1A6A1A · gris claro estadio moderno #C0C0C8 · azul cielo europeo #4A70B0 · celeste San Marino #A8D8EA · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo panel in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 117: empate 3-3 y penales; ahora Portugal erra dos y San Marino convierte todos.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del panel con la definición a favor de San Marino.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno principal).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 117: N/A. Carga emocional: la incredulidad de la hazaña consumándose.
+7. DIRECCIÓN DE LUZ — ESCENA 117: noche europea, luz blanca fría #D0D8E8 desde arriba, sombras duras. Rim light cálida-dorada #FF8C00 en los bordes del panel y siluetas contra el fondo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 117: vaho suspendido sobre el campo, una bandera roja caída ondulando congelada; el vuelco histórico como tensión.
+9. JERARQUÍA VISUAL — ESCENA 117: ELEMENTO DOMINANTE: el panel de penales. Siluetas convergentes subordinadas.
+10. PROPORCIÓN EN FRAME: wide shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: N/A; línea visual hacia el panel/arco.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la definición conecta con Cristiano parado en el centro.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Portugal erró dos. San Marino convirtió todos."
+
+
+ESCENA 118 — [00:09:45]
+Wide shot, low angle, of CRISTIANO RONALDO standing utterly motionless alone at the center circle after the last penalty, not moving for 45 seconds, the celebration happening far behind him out of focus. CRISTIANO RONALDO: alto-mediano, complexión musculosa, piel morena mediterránea (#B07848), cabello negro corto liso (#0F0F0F); camiseta de Portugal roja (#CC0000) con escudo, número 7, Nike swoosh; shorts verde oscuro (#003300); medias rojas; botines Nike negros con swoosh plateado. Hands: both at his sides, limp, fingers slightly open. Three depth levels: foreground center-circle line, midground the motionless Cristiano, background blurred celebrating celeste/white silhouettes and red crowd silhouette mass (40%) and modern stadium. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: rojo Portugal #CC0000 · verde césped europeo #1A6A1A · gris claro estadio moderno #C0C0C8 · azul cielo europeo #4A70B0 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 118: San Marino convirtió todos; ahora Cristiano se queda parado en el centro 45 segundos sin moverse.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la quietud devastada de Cristiano.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Cristiano secundario; descrito completo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 118: N/A Organizador. Cristiano: quietud absoluta, hombros caídos, mirada perdida, boca cerrada.
+7. DIRECCIÓN DE LUZ — ESCENA 118: noche europea, luz lateral baja fría #3A5070, sombra al 70%, intensidad baja (derrota). Rim light cálida-dorada #FF8C00 tenue en el contorno de Cristiano. Ambient occlusion bajo sus botines.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 118: la celebración borrosa congelada detrás, una brizna suspendida frente a su figura quieta; el vacío a su alrededor como tensión emocional.
+9. JERARQUÍA VISUAL — ESCENA 118: ELEMENTO DOMINANTE: Cristiano inmóvil. Celebración de fondo subordinada y difusa.
+10. PROPORCIÓN EN FRAME: wide shot + Regla de Tercios extrema (Cristiano desplazado, vacío alrededor) + Telephoto Lens.
+11. DIRECCIÓN DE MIRADA: unfocused (mirada perdida hacia adelante).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE SUAVE — la quietud conecta con las cámaras enfocándolo sin que él mire.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Cristiano se quedó parado en el centro del campo después del último penal. No se movió por 45 segundos."
+
+
+ESCENA 119 — [00:09:50]
+Close-up, eye level, of CRISTIANO RONALDO's face, jaw set, eyes fixed on nothing, ignoring the cameras implied around him, profound solitude. CRISTIANO RONALDO: alto-mediano, piel morena mediterránea (#B07848), cabello negro corto liso (#0F0F0F), mandíbula muy cuadrada; collar of camiseta Portugal roja (#CC0000) at bottom of frame. Hands: not in frame (close-up). Three depth levels: foreground a faint out-of-focus camera lens edge, midground Cristiano's face, background blurred celebration and modern stadium with cool light. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: rojo Portugal #CC0000 · verde césped europeo #1A6A1A · gris claro estadio moderno #C0C0C8 · azul cielo europeo #4A70B0 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, mirar a cámara. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 119: Cristiano no se movía; ahora las cámaras lo enfocan y él no mira a ninguna.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la soledad absoluta ignorando las cámaras.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Cristiano secundario; descrito).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 119: N/A Organizador. Cristiano: mandíbula tensa, mirada fija en la nada (no a cámara), boca cerrada.
+7. DIRECCIÓN DE LUZ — ESCENA 119: noche europea, luz lateral baja fría #3A5070, sombra al 70%. Rim light cálida-dorada #FF8C00 tenue en el borde del rostro. Ambient occlusion bajo el mentón.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 119: el borde de un lente fuera de foco suspendido en primer plano; la soledad rodeada de cámaras como carga emocional.
+9. JERARQUÍA VISUAL — ESCENA 119: ELEMENTO DOMINANTE: el rostro de Cristiano. Lente y fondo subordinados.
+10. PROPORCIÓN EN FRAME: close-up + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: unfocused (a la nada, nunca a cámara).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: SALTO TEMPORAL — corta hacia Argentina vs Francia en París.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Nadie fue a hablarle. Las cámaras lo enfocaron. Él no miró a ninguna."
+
+
+ESCENA 120 — [00:09:55]
+Extreme wide shot, high angle, of the massive Stade de France in Paris at night, blue-red-white tricolor dominating the stands, grand scale, a faint "SEMIFINAL · ARG vs FRA" panel flickering with a question mark beside Argentina. No detailed individuals. Three depth levels: foreground modern stand rim, midground vast blue-red-white silhouette crowd mass (desaturated 40%), background modern Paris stadium architecture and night sky with cool light glow. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: azul marino Francia #002395 · rojo #CC0000 · blanco #F0F0F0 · gris arquitectura moderna #8A8A90 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo panel in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 120: cerró el drama de Cristiano; ahora Argentina vs Francia en París, pero con la duda: Argentina estaba descalificada.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del Stade de France imponente con la incógnita de Argentina.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 120: N/A. Carga emocional: la grandiosidad con un signo de interrogación inquietante.
+7. DIRECCIÓN DE LUZ — ESCENA 120: noche, luz fría-azul con toques blancos artificiales #C0D0E8 cenital, sombras marcadas. Rim light cálida-dorada #FF8C00 en los bordes de las gradas contra el cielo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 120: banderas tricolores onduladas congeladas, halos de luz con motas; el panel parpadeando con el signo de interrogación como tensión.
+9. JERARQUÍA VISUAL — ESCENA 120: ELEMENTO DOMINANTE: el estadio masivo tricolor. Panel subordinado como detalle narrativo.
+10. PROPORCIÓN EN FRAME: extreme wide shot + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: N/A; siluetas hacia el campo.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la incógnita conecta con "y eso también fue un desastre".
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Argentina contra Francia. Sede: París. Stade de France. Espera. Argentina estaba descalificada."
+
+
+
+ESCENA 121 — [00:10:00]
+Medium close-up, slight Dutch tilt, of EL ORGANIZADOR with a hand pressed to his face, peering between his fingers in marveled disbelief at the absurd situation of a disqualified team playing anyway. EL ORGANIZADOR: spherical pure-white head (#F5F5F5), thick furrowed black brows, tiny dark eyes very wide, mouth slightly open in disbelief; navy suit (#1B2A5E), white shirt, burgundy tie (#6B1A2A) clearly crooked, top button undone, small wrinkles. Hands: one hand splayed over part of his face, the other hanging. Three depth levels: foreground his splayed fingers, midground his face, background dim blue-lit office with god rays and dust motes. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: navy #1B2A5E · burdeos #6B1A2A · blanco #F5F5F5 · azul FIFA #003DA5 · azul Francia #002395 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: Gasperoni, Quispe, futbolistas, copa, boca abierta hablando a cámara. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if narrating (asombro, no hablando).
+3. CONTINUIDAD NARRATIVA — ESCENA 121: se planteó la paradoja de Argentina descalificada jugando; ahora el Organizador asume que eso también fue un desastre.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del Organizador atónito entre sus dedos.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: → Imagen 1 (EL ORGANIZADOR): cabeza esférica blanca, traje azul marino #1B2A5E, corbata burdeos #6B1A2A. Usar como referencia exacta.
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 121: Nivel 4. Mano sobre la cara, ojos muy abiertos, boca entreabierta de incredulidad maravillada; corbata torcida, traje arrugado.
+7. DIRECCIÓN DE LUZ — ESCENA 121: noche/interior, luz fría blanca #D0D8E8 lateral, sombras duras. Rim light cálida-dorada #FF8C00 en el contorno del cráneo. Ambient occlusion bajo el mentón y donde los dedos tocan el rostro.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 121: motas de polvo suspendidas en el haz frío frente al rostro; el absurdo asumido como tensión.
+9. JERARQUÍA VISUAL — ESCENA 121: ELEMENTO DOMINANTE: el rostro del Organizador entre sus dedos. Fondo subordinado.
+10. PROPORCIÓN EN FRAME: medium close-up + Dutch tilt (composición desequilibrada).
+11. DIRECCIÓN DE MIRADA: unfocused (perdida entre los dedos).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el asombro conecta con el bracket impreso y los sponsors.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Exacto. Y eso también fue un desastre."
+
+
+ESCENA 122 — [00:10:05]
+Medium shot, eye level, of a printed tournament bracket pinned to a wall with the "ARG vs FRA" match circled, stylized sponsor logos and a paid-invoice stamp beside it, the commercial machinery implied. No characters (object-focused). Three depth levels: foreground the printed bracket with the circled match, midground sponsor logo banners and an invoice stamp, background dim office wall with god rays and dust motes. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: navy #1B2A5E · azul FIFA #003DA5 · blanco #F0F0F0 · azul Francia #002395 · dorado #C9A84C · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays legibles salvo logos/sellos in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 122: el Organizador asumió el nuevo desastre; ahora el bracket ya estaba impreso y los sponsors habían pagado por ese partido.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la maquinaria comercial que obliga a jugar.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 122: N/A. Carga emocional: la inercia comercial imparable.
+7. DIRECCIÓN DE LUZ — ESCENA 122 (interior): luz lateral cálida #D4A054; god rays atravesando con motas de polvo visibles. Rim light fría-celeste #60C0E0 en los bordes del bracket y banners contra el fondo. Ambient occlusion donde el papel se separa de la pared.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 122: una esquina del bracket impreso curvándose, motas de polvo en el haz; la presión comercial como tensión.
+9. JERARQUÍA VISUAL — ESCENA 122: ELEMENTO DOMINANTE: el bracket impreso con el partido marcado. Logos subordinados.
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: N/A; foco en el bracket.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el bracket conecta con el intento de reemplazar a Argentina con Uruguay.
+13. RATIO PERSONAJE VS ENTORNO: entorno/objeto domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "El bracket ya estaba impreso. Los sponsors habían pagado por ese partido."
+
+
+ESCENA 123 — [00:10:10]
+Medium shot, eye level, of a FUNCIONARIO FIFA offering a contract toward an empty Uruguay-jersey hanger that recoils/turns away, symbolizing Uruguay's protest at no preparation time. FUNCIONARIO FIFA: hombre adulto genérico, piel clara, traje negro (#1A1A1A) con corbata dorada, expresión perdida, extendiendo un documento. A celeste Uruguay jersey on a stand turned half-away as if refusing. Hands (funcionario): both holding out a FIFA document (blue letterhead #003DA5). Three depth levels: foreground the offered document, midground funcionario and the turned-away Uruguay jersey, background blue-lit FIFA office with god rays and dust motes. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: navy #1B2A5E · azul FIFA #003DA5 · blanco #F0F0F0 · celeste Uruguay #5AA0D0 · negro #1A1A1A · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays legibles, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 123: el bracket y los sponsors presionaban; ahora la FIFA intenta reemplazar a Argentina con Uruguay, que protesta por falta de preparación.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del rechazo simbólico de Uruguay.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (funcionario FIFA secundario; descrito).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 123: N/A. Funcionario: expresión perdida, gesto de oferta.
+7. DIRECCIÓN DE LUZ — ESCENA 123 (interior): luz fría azul FIFA #6080A0 cenital; god rays con motas de polvo visibles. Rim light cálida-dorada #FF8C00 en los bordes del funcionario y la camiseta contra el azul frío. Ambient occlusion bajo los pies y el soporte de la camiseta.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 123: la camiseta de Uruguay ondulando congelada al girarse, motas de polvo en el haz; el rechazo como tensión.
+9. JERARQUÍA VISUAL — ESCENA 123: ELEMENTO DOMINANTE: el funcionario ofreciendo y la camiseta que se aparta. Fondo subordinado.
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: toward the jersey (al soporte de Uruguay).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el rechazo conecta con las "condiciones especiales".
+13. RATIO PERSONAJE VS ENTORNO: equilibrado.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "La FIFA intentó reemplazar a Argentina con Uruguay. Uruguay protestó que no habían tenido tiempo de preparación."
+
+
+ESCENA 124 — [00:10:15]
+POV shot looking at a notice taped to a stadium tunnel wall reading "CONDICIONES ESPECIALES DE PARTICIPACIÓN NO OFICIAL" (illegible simulated text with that header) under the Stade de France lights, a celeste/white Argentine sleeve at the frame edge. The notice: flat white A4 with blue FIFA letterhead (#003DA5), bold illegible header lines. Argentine sleeve (#75AADB / #FFFFFF) and a hand at the frame edge. Three depth levels: foreground the taped notice, midground the tunnel wall and Argentine sleeve, background the bright pitch entrance with god rays and dust motes. Only the implied character and elements described in this scene appear on screen, nothing else, no duplicated figures.
+1. PALETA OBLIGATORIA: azul marino Francia #002395 · rojo #CC0000 · blanco #F0F0F0 · gris arquitectura #8A8A90 · celeste Argentina #75AADB · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays legibles salvo el encabezado in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 124: Uruguay rechazó el reemplazo; ahora el partido se juega con Argentina bajo "condiciones especiales de participación no oficial".
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame POV del cartel absurdo en el túnel.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (manga argentina en POV; sin imágenes de los tres principales).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 124: N/A. Carga emocional: la rareza burocrática inexplicable.
+7. DIRECCIÓN DE LUZ — ESCENA 124 (interior túnel): god rays entrando desde el campo brillante con motas de polvo visibles; luz fría #C0D0E8. Rim light cálida-dorada #FF8C00 en el borde de la manga y el cartel contra el túnel oscuro. Ambient occlusion donde el cartel se pega a la pared.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 124: una esquina del cartel despegándose vibrando, motas de polvo en los god rays del túnel; la categoría inventada como tensión.
+9. JERARQUÍA VISUAL — ESCENA 124: ELEMENTO DOMINANTE: el cartel de "condiciones especiales". Manga argentina subordinada (marco POV).
+10. PROPORCIÓN EN FRAME: detail/POV shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: toward the notice (la mirada implícita al cartel).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el cartel conecta con "una categoría que no existía".
+13. RATIO PERSONAJE VS ENTORNO: entorno/objeto domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "El partido se jugó igual con Argentina bajo 'condiciones especiales de participación no oficial.'"
+
+
+ESCENA 125 — [00:10:20]
+Medium shot, eye level, of a FUNCIONARIO FIFA shrugging with a lost, disoriented expression while holding the strange notice, unable to explain the invented category, briefcase at his feet. FUNCIONARIO FIFA: hombre adulto genérico, piel clara, traje negro (#1A1A1A) con corbata dorada, expresión perdida y desorientada; porta una valija negra en el suelo. Hands: one holding the notice limply, the other turned palm-up in a confused shrug. Three depth levels: foreground the black briefcase, midground the shrugging funcionario, background blue-lit corridor with god rays and dust motes. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: azul marino Francia #002395 · blanco #F0F0F0 · gris arquitectura #8A8A90 · azul FIFA #003DA5 · negro #1A1A1A · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados, hablar a cámara. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays legibles, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 125: se jugó bajo condiciones especiales; ahora nadie sabe explicar esa categoría que no existía antes.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del funcionario perdido sin poder explicar nada.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (funcionario FIFA secundario; descrito completo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 125: N/A. Funcionario: hombros encogidos, expresión perdida, boca cerrada.
+7. DIRECCIÓN DE LUZ — ESCENA 125 (interior): luz fría azul #6080A0; god rays con motas de polvo visibles. Rim light cálida-dorada #FF8C00 en el contorno del funcionario contra el azul frío. Ambient occlusion bajo la valija y los pies.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 125: motas de polvo suspendidas en el haz; la confusión institucional como tensión.
+9. JERARQUÍA VISUAL — ESCENA 125: ELEMENTO DOMINANTE: el funcionario desorientado. Valija subordinada como detalle.
+10. PROPORCIÓN EN FRAME: medium shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: unfocused (perdida, nunca a cámara).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la confusión conecta con Messi jugando y marcando dos.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Una categoría que no existía antes de ese torneo y que nadie supo bien cómo explicar."
+
+
+ESCENA 126 — [00:10:25]
+Dynamic medium-wide shot, low angle, of MESSI scoring one of his two goals at the Stade de France, ball in net, a flat scoreboard "FRA 2 - 2 ARG" glowing, the tricolor crowd electric. MESSI: bajo-mediano, complexión delgada-atlética, piel morena clara (#C4956A), cabello castaño oscuro (#2E1F0F) con barba corta; camiseta de Argentina celeste (#75AADB) y blanca a rayas verticales, número 10, escudo AFA, Adidas; shorts negros (#1A1A1A); medias celestes; botines Adidas negros con detalles dorados. Hands: one fist clenched, the other open at his side. Balón blanco/negro en la red. Three depth levels: foreground net with ball, midground Messi finishing, background blue-red-white silhouette crowd mass (40%) and modern Paris stadium. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: azul marino Francia #002395 · rojo #CC0000 · blanco #F0F0F0 · gris arquitectura #8A8A90 · celeste Argentina #75AADB · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 126: nadie explicaba la categoría; ahora Messi juega, marca dos, Francia empata dos veces, penales.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de Messi marcando en París.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Messi secundario; descrito completo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 126: N/A Organizador. Messi: definición precisa, intensidad, foco.
+7. DIRECCIÓN DE LUZ — ESCENA 126: noche, luz fría-azul con toques blancos #C0D0E8 cenital, sombras marcadas. Rim light cálida-dorada #FF8C00 en el contorno de Messi contra el fondo frío. Ambient occlusion bajo el pie de apoyo y en la red.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 126: la red ondulada congelada, briznas de césped levantadas; el gol detenido.
+9. JERARQUÍA VISUAL — ESCENA 126: ELEMENTO DOMINANTE: Messi y el balón en la red. Marcador y tribuna subordinados.
+10. PROPORCIÓN EN FRAME: medium-wide shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: toward net (al gol).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el empate 2-2 conecta con la tanda de penales.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Messi jugó. Marcó dos. Francia empató dos veces. Penales."
+
+
+ESCENA 127 — [00:10:30]
+Dynamic medium shot, low angle, of DI MARÍA's penalty missing — the ball frozen sailing past the post — while a small marker shows Mbappé already converted, the decisive miss for Argentina. DI MARÍA (generic Argentina): jugador mediano delgado, piel clara, cabello castaño largo atado; camiseta de Argentina celeste (#75AADB) y blanca a rayas, escudo AFA, Adidas; shorts negros (#1A1A1A); medias celestes; botines Adidas. Hands: arms dropping in dismay, fingers spread. Balón blanco/negro congelado pasando junto al poste hacia afuera. Three depth levels: foreground the missing ball and post, midground Di María's dismayed follow-through, background blue-red-white silhouette crowd mass (40%) and modern Paris stadium. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: azul marino Francia #002395 · rojo #CC0000 · blanco #F0F0F0 · gris arquitectura #8A8A90 · celeste Argentina #75AADB · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 127: empate 2-2 y penales; ahora Mbappé convierte y Di María erra el último de Argentina.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del penal errado de Di María junto al poste.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Di María secundario; descrito).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 127: N/A Organizador. Di María: cuerpo en el follow-through fallido, desazón inminente.
+7. DIRECCIÓN DE LUZ — ESCENA 127: noche, luz fría-azul con toques blancos #C0D0E8 cenital, sombras marcadas. Rim light cálida-dorada #FF8C00 en el contorno de Di María. Ambient occlusion bajo el pie de apoyo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 127: el balón suspendido pasando junto al poste con leve estela, briznas levantadas congeladas; el fallo decisivo detenido.
+9. JERARQUÍA VISUAL — ESCENA 127: ELEMENTO DOMINANTE: el balón errado y el poste. Di María subordinado.
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios extrema.
+11. DIRECCIÓN DE MIRADA: toward goal (al balón que se va).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el fallo conecta con Francia avanzando y Argentina afuera.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Mbappé convirtió el suyo. Di María erró el último de Argentina."
+
+
+ESCENA 128 — [00:10:35]
+Wide shot, eye level, of a bracket panel where the Argentina slot dims to grey "ELIMINADA · OFICIAL" while France advances, against the cool Paris stadium backdrop. No detailed players. Three depth levels: foreground the bracket panel with the dimming Argentina slot, midground the advancing France slot, background blue-red-white silhouette crowd mass (40%) and modern Paris stadium with cool light. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: azul marino Francia #002395 · rojo #CC0000 · blanco #F0F0F0 · gris arquitectura #8A8A90 · celeste Argentina #75AADB · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo bracket in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 128: Di María erró; ahora Francia avanza y Argentina queda fuera, esta vez de forma también oficial.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del slot argentino apagándose como eliminada oficial.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 128: N/A. Carga emocional: el cierre definitivo y frío de la eliminación.
+7. DIRECCIÓN DE LUZ — ESCENA 128: noche, luz fría-azul con toques blancos #C0D0E8 cenital, sombras marcadas. Rim light cálida-dorada #FF8C00 en los bordes del panel contra el fondo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 128: el slot argentino en su último parpadeo congelado; el cierre oficial como tensión.
+9. JERARQUÍA VISUAL — ESCENA 128: ELEMENTO DOMINANTE: el bracket con Francia avanzando. Slot argentino subordinado.
+10. PROPORCIÓN EN FRAME: wide shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: N/A; línea visual hacia el bracket.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el bracket conecta con Messi en el vestuario.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Francia avanzó. Argentina quedó fuera, otra vez, ahora de forma también oficial."
+
+
+ESCENA 129 — [00:10:40]
+Medium shot, eye level, of MESSI sitting alone on a locker-room bench in silence, elbows on knees, staring at the floor, untouched by anyone for 20 minutes. MESSI: bajo-mediano, piel morena clara (#C4956A), cabello castaño oscuro (#2E1F0F) con barba corta; camiseta de Argentina celeste (#75AADB) y blanca a rayas, número 10, escudo AFA, Adidas; shorts negros (#1A1A1A); medias celestes; botines Adidas negros. Hands: both clasped loosely between his knees. Three depth levels: foreground locker-room bench edge, midground seated Messi head-down, background empty lockers with god rays from a high window and visible dust motes. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: azul marino Francia #002395 · blanco #F0F0F0 · gris arquitectura #8A8A90 · celeste Argentina #75AADB · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, otros jugadores, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 129: Argentina quedó eliminada oficialmente; ahora Messi en el vestuario no habla con nadie durante 20 minutos.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la soledad silenciosa de Messi en el vestuario.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Messi secundario; descrito completo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 129: N/A Organizador. Messi: hombros caídos, cabeza baja, manos juntas entre las rodillas, abatimiento silencioso, boca cerrada.
+7. DIRECCIÓN DE LUZ — ESCENA 129 (interior vestuario): god rays atravesando desde una ventana alta con motas de polvo visibles; luz fría #C0D0E8 con fill cálido tenue #D4A054. Rim light cálida-dorada #FF8C00 en el borde del hombro y cabello. Ambient occlusion donde se sienta en el banco y bajo los botines.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 129: motas de polvo suspendidas en el haz de la ventana sobre su figura; el silencio pesado como carga emocional.
+9. JERARQUÍA VISUAL — ESCENA 129: ELEMENTO DOMINANTE: Messi solo en el banco. Vestuario subordinado.
+10. PROPORCIÓN EN FRAME: medium shot + composición simétrica (quietud).
+11. DIRECCIÓN DE MIRADA: down (al piso).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE SUAVE — el silencio conecta con que simplemente miraba el piso sin que nadie lo molestara.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Messi en el vestuario no habló con nadie durante 20 minutos."
+
+
+ESCENA 130 — [00:10:45]
+POV shot from MESSI's downward gaze at the locker-room floor — his own celeste/white knees, clasped hands, and boots framing the bottom, a single discarded captain's armband on the tiles. MESSI (POV): celeste/white knees (#75AADB / #FFFFFF), clasped hands, and Adidas boots at the frame edges. A captain's armband on the floor tiles. Three depth levels: foreground Messi's hands and the floor armband, midground the locker-room tiles, background blurred lockers with god rays and dust motes. Only the implied character and elements described in this scene appear on screen, nothing else, no duplicated figures.
+1. PALETA OBLIGATORIA: azul marino Francia #002395 · blanco #F0F0F0 · gris arquitectura #8A8A90 · celeste Argentina #75AADB · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, otros jugadores, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 130: Messi no hablaba con nadie; ahora simplemente está sentado mirando el piso, sin que nadie lo moleste.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame POV del piso del vestuario y la cinta de capitán caída.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Messi secundario; rodillas/manos en POV).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 130: N/A Organizador. Messi (implícito): manos juntas, postura hundida.
+7. DIRECCIÓN DE LUZ — ESCENA 130 (interior): god rays desde una ventana alta con motas de polvo visibles; luz fría #C0D0E8. Rim light cálida-dorada #FF8C00 en el borde de las rodillas y manos. Ambient occlusion donde la cinta y los botines tocan el piso.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 130: motas de polvo suspendidas en el haz sobre el piso; la cinta de capitán caída como detalle narrativo del derrumbe emocional.
+9. JERARQUÍA VISUAL — ESCENA 130: ELEMENTO DOMINANTE: el piso con la cinta de capitán. Manos/rodillas de Messi subordinadas (marco POV).
+10. PROPORCIÓN EN FRAME: detail/POV shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: down (la mirada implícita de Messi al piso).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: SALTO TEMPORAL — corta hacia la otra semifinal: Francia vs Bolivia en La Paz.
+13. RATIO PERSONAJE VS ENTORNO: equilibrado.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Los que estaban ahí dicen que simplemente estaba sentado mirando el piso. Nadie lo molestó."
+
+
+ESCENA 131 — [00:10:50]
+Extreme wide shot, high angle, of the Estadio Hernando Siles in La Paz set for the France-Bolivia semifinal, green-and-white stands, deep dark-blue andean sky, mountains beyond, a faint "SEMIFINAL · FRA vs BOL" panel. No detailed individuals. Three depth levels: foreground high-altitude pitch, midground green-and-white silhouette crowd mass (desaturated 40%), background andean mountains and deep blue sky with stadium glow. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · tierra andina #6A4A20 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo panel in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 131: cerró el dolor de Messi; ahora la otra semifinal: Francia contra Bolivia en La Paz.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del Hernando Siles listo para la semifinal de altura.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 131: N/A. Carga emocional: la ventaja amenazante de la altitud para Francia.
+7. DIRECCIÓN DE LUZ — ESCENA 131: noche de altitud, luz fría intensa #4A70B0 lateral, cielo más oscuro, sombras muy marcadas. Rim light cálida-dorada #FF8C00 en los bordes de las gradas y montañas contra el cielo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 131: aliento condensado de la masa suspendido, banderas verde-blancas onduladas congeladas; la altitud como tensión.
+9. JERARQUÍA VISUAL — ESCENA 131: ELEMENTO DOMINANTE: el estadio de altura y las montañas. Panel subordinado.
+10. PROPORCIÓN EN FRAME: extreme wide shot + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: N/A; línea visual hacia el campo.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la altitud conecta con Mbappé enfrentándola.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "La otra semifinal. Francia contra Bolivia. Sede: La Paz."
+
+
+ESCENA 132 — [00:10:55]
+Medium shot, eye level, of MBAPPÉ standing on the La Paz pitch already feeling the thin air, chest rising, looking up at the dark-blue altitude sky, the "3,600m" reality settling in. MBAPPÉ: mediano-alto, complexión delgada-veloz, piel oscura (#4A2E1A), cabello negro muy corto (#0A0A0A), cuello largo; camiseta de Francia azul marino (#002395) con gallo gaulés, número 10, Nike swoosh; shorts blancos (#FFFFFF); medias azul marino; botines Nike blancos con swoosh dorado. Hands: colgando a los costados, levemente abiertas. Three depth levels: foreground high-altitude pitch grass, midground Mbappé breathing, background green-and-white silhouette crowd mass (40%) and andean mountains under deep blue sky. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · azul Francia #002395 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 132: se presentó la semifinal en La Paz; ahora Mbappé enfrenta los 3.600 metros de altitud.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de Mbappé asimilando la altitud.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Mbappé secundario; descrito completo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 132: N/A Organizador. Mbappé: pecho elevado por la falta de aire, mirada hacia arriba, leve preocupación, boca cerrada.
+7. DIRECCIÓN DE LUZ — ESCENA 132: noche de altitud, luz fría intensa #4A70B0 lateral, sombras muy marcadas. Rim light cálida-dorada #FF8C00 en el contorno de Mbappé contra el cielo frío. Ambient occlusion bajo sus botines.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 132: vaho de su respiración suspendido en el aire frío y enrarecido; la falta de aire como tensión.
+9. JERARQUÍA VISUAL — ESCENA 132: ELEMENTO DOMINANTE: Mbappé. Tribuna y montañas subordinadas.
+10. PROPORCIÓN EN FRAME: medium shot + Telephoto Lens (compresión del agobio de altura).
+11. DIRECCIÓN DE MIRADA: up (al cielo de altitud).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la altitud conecta con el oxígeno portátil en el banco francés.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Mbappé en La Paz. 3.600 metros."
+
+
+
+ESCENA 133 — [00:11:00]
+Medium shot, eye level, of the OXÍGENO PORTÁTIL prop on the French bench — a silver-grey cylinder with a green valve and a white mask hanging — with a few French players (silhouetted) breathing from masks behind it. OXÍGENO PORTÁTIL: cilindro metálico plateado-gris (#9A9A9A) con válvula verde (#00AA00) en la parte superior y mascarilla blanca colgando; tamaño hasta la cadera. Silhouetted French players (azul marino #002395) on the bench with masks. Three depth levels: foreground the oxygen cylinder, midground masked French silhouettes, background green-and-white silhouette crowd mass (40%) and andean mountains. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · azul Francia #002395 · plateado #9A9A9A · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 133: Mbappé sentía la altura; ahora Francia llega con oxígeno portátil y tres semanas de protocolo de altura.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del oxígeno portátil en el banco francés.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno principal; foco en el prop oxígeno portátil).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 133: N/A. Carga emocional: la preparación desesperada contra la altitud.
+7. DIRECCIÓN DE LUZ — ESCENA 133: noche de altitud, luz fría intensa #4A70B0 lateral, sombras marcadas. Rim light cálida-dorada #FF8C00 en el borde del cilindro plateado contra el fondo frío. Ambient occlusion donde el cilindro apoya en el suelo del banco.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 133: la mascarilla blanca colgando ondulando congelada, vaho de respiración suspendido; la dependencia del oxígeno como tensión.
+9. JERARQUÍA VISUAL — ESCENA 133: ELEMENTO DOMINANTE: el cilindro de oxígeno portátil. Siluetas francesas subordinadas.
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: N/A; foco en el prop.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el oxígeno conecta con "el protocolo no sirvió de nada".
+13. RATIO PERSONAJE VS ENTORNO: entorno/objeto domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Francia llegó con oxígeno portátil en el banco. Tres semanas de protocolo de altura."
+
+
+ESCENA 134 — [00:11:05]
+Medium-wide shot, telephoto compression, of exhausted French players bent over gasping at altitude despite the oxygen, the cylinder useless behind them, Bolivian green-and-white pressing high. French players (generic): camiseta azul marino (#002395), doblados, sin aire. A few Bolivian green (#1A6A1A) silhouettes pressing. Hands (French players): on knees, struggling. Three depth levels: foreground gasping French player, midground the useless oxygen setup and pressing Bolivians, background green-and-white silhouette crowd mass (40%) and andean mountains. Only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · azul Francia #002395 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 134: Francia tenía oxígeno y protocolo; ahora el protocolo no sirve de nada.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del agotamiento francés pese al oxígeno.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (jugadores genéricos; sin imágenes de los tres principales).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 134: N/A Organizador. Franceses: doblados, sin aire, impotencia.
+7. DIRECCIÓN DE LUZ — ESCENA 134: noche de altitud, luz fría intensa #4A70B0 lateral, sombras marcadas. Rim light cálida-dorada #FF8C00 en los contornos contra el cielo frío. Ambient occlusion bajo los botines.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 134: vaho de respiración suspendido sobre los jugadores doblados; la inutilidad del protocolo como tensión.
+9. JERARQUÍA VISUAL — ESCENA 134: ELEMENTO DOMINANTE: el jugador francés sin aire. Bolivianos y oxígeno subordinados.
+10. PROPORCIÓN EN FRAME: medium-wide shot + Telephoto Lens (compresión del agobio).
+11. DIRECCIÓN DE MIRADA: down (al suelo, exhaustos).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el agotamiento conecta con el 2-0 de Bolivia.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "El protocolo no sirvió de nada."
+
+
+ESCENA 135 — [00:11:10]
+Dynamic medium-wide shot, low angle, of a Bolivian player scoring the second-half goal, ball in net, a flat scoreboard "BOL 2 - 0 FRA" glowing, exhausted French unable to chase, green-and-white crowd surging. Bolivian player (generic): camiseta verde (#1A6A1A) con wiphala/escudo, shorts verdes, medias verdes, botines; finishing. Hands: arms rising in celebration, fingers spread. Balón blanco/negro en la red. Three depth levels: foreground net with ball, midground celebrating Bolivian and a stranded French silhouette, background green-and-white silhouette crowd mass (40%) erupting and andean mountains. Only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · azul Francia #002395 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo marcador in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 135: el protocolo no sirvió; ahora Bolivia gana 2-0 con los dos goles en el segundo tiempo, cuando Francia ya no podía correr.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del segundo gol boliviano sentenciando.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (jugador boliviano genérico; sin imágenes de los tres principales).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 135: N/A Organizador. Boliviano: euforia del gol; francés: impotencia.
+7. DIRECCIÓN DE LUZ — ESCENA 135: noche de altitud, luz fría intensa #4A70B0 lateral, sombras duras. Rim light cálida-dorada #FF8C00 en el contorno del goleador contra el cielo frío. Ambient occlusion en el contacto balón-red.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 135: la red ondulada congelada, briznas de césped levantadas; el gol sentenciador detenido.
+9. JERARQUÍA VISUAL — ESCENA 135: ELEMENTO DOMINANTE: el goleador y el balón en la red. Marcador subordinado.
+10. PROPORCIÓN EN FRAME: medium-wide shot + Regla de Tercios extrema.
+11. DIRECCIÓN DE MIRADA: up/toward crowd (celebrando).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el 2-0 conecta con las gambetas frustradas de Mbappé.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Bolivia ganó 2 a 0. Los dos goles en el segundo tiempo, cuando los franceses ya no podían correr."
+
+
+ESCENA 136 — [00:11:15]
+POV shot from MBAPPÉ mid-dribble at altitude — the ball at his boots and his outstretched hands framing the bottom, three Bolivian green defenders converging and catching up, motion smear across the frame. MBAPPÉ (POV): dark hands and azul-marino sleeves (#002395) at the frame edge, the ball ahead. Three converging Bolivian green (#1A6A1A) defenders. Balón blanco/negro at the bottom. Three depth levels: foreground Mbappé's hands and the ball, midground three converging Bolivian defenders, background green-and-white silhouette crowd mass (40%) and andean mountains. Only the implied characters and elements described in this scene appear on screen, nothing else, no duplicated figures. (Dirty Frame technique: a faint motion smear and grass fleck across the lens edge.)
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · azul Francia #002395 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 136: Bolivia ganaba 2-0; ahora Mbappé intenta tres gambetas y en las tres lo alcanzan.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame POV de la gambeta alcanzada por los defensores.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (Mbappé secundario; manos/mangas en POV).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 136: N/A Organizador. Mbappé (implícito): esfuerzo extremo, falta de aire.
+7. DIRECCIÓN DE LUZ — ESCENA 136: noche de altitud, luz fría intensa #4A70B0 lateral, sombras marcadas. Rim light cálida-dorada #FF8C00 en el borde de las mangas y los defensores. Ambient occlusion bajo los botines convergentes.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 136: briznas de césped y polvo levantados congelados, leve smear de movimiento en el borde del cuadro; la gambeta frustrada detenida.
+9. JERARQUÍA VISUAL — ESCENA 136: ELEMENTO DOMINANTE: los defensores convergentes y el balón. Manos de Mbappé subordinadas (marco POV).
+10. PROPORCIÓN EN FRAME: POV shot + Dirty Frame (smear/brizna en el lente) + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: forward (la mirada implícita de Mbappé hacia adelante).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la gambeta frustrada conecta con la conferencia del técnico francés.
+13. RATIO PERSONAJE VS ENTORNO: equilibrado.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Mbappé intentó tres gambetas. En las tres lo alcanzaron."
+
+
+ESCENA 137 — [00:11:20]
+Medium shot, eye level, of the FRENCH COACH at a press table, stiff and diplomatic-defensive, the andean stadium implied through a window, complaining about conditions (not addressing camera). FRENCH COACH (generic): hombre europeo de mediana edad, piel clara, cabello canoso corto; chaqueta técnica azul marino de Francia con escudo, expresión tensa-formal. Hands: both clasped tightly on the table. Stylized flat microphone. Three depth levels: foreground table with microphone, midground the stiff coach, background window with andean ridge, god rays and dust motes. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · azul Francia #002395 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, hablar a cámara. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating (boca cerrada).
+3. CONTINUIDAD NARRATIVA — ESCENA 137: Mbappé fue alcanzado; ahora el técnico francés se queja de las condiciones en conferencia.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del técnico francés rígido y defensivo.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (técnico francés secundario; descrito).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 137: N/A Organizador. Técnico francés: ceño tenso, postura formal-defensiva, boca cerrada.
+7. DIRECCIÓN DE LUZ — ESCENA 137 (interior): luz fría-azul de altitud #4A70B0 desde la ventana; god rays con motas de polvo visibles. Rim light cálida-dorada #FF8C00 en el borde del hombro contra el azul frío. Ambient occlusion donde las manos tocan la mesa.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 137: motas de polvo suspendidas en el haz frío; la queja contenida como tensión.
+9. JERARQUÍA VISUAL — ESCENA 137: ELEMENTO DOMINANTE: el técnico francés. Micrófono y ventana subordinados.
+10. PROPORCIÓN EN FRAME: medium shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: left (a un periodista fuera de cuadro, nunca a cámara).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la queja conecta con la respuesta seca de Bolivia.
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "El técnico francés en conferencia: 'Las condiciones no eran apropiadas para el fútbol de alto rendimiento.'"
+
+
+ESCENA 138 — [00:11:25]
+Medium shot, eye level, of a short three-line Bolivian communiqué pinned on a board, dryly polite, with a tiny Bolivia crest, the wiphala colors subtly tinting the paper. The communiqué: flat white A4 with a small Bolivia wiphala crest, three short illegible text lines, tilted 15-20°. No characters (object-focused). Three depth levels: foreground the tilted communiqué, midground the board, background dim office with god rays and dust motes. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · tierra andina #6A4A20 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays legibles, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 138: el técnico francés se quejó; ahora Bolivia responde con un comunicado seco de tres líneas agradeciendo la visita.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del comunicado boliviano lacónico.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 138: N/A. Carga emocional: la ironía serena de la respuesta.
+7. DIRECCIÓN DE LUZ — ESCENA 138 (interior): luz lateral cálida #D4A054; god rays con motas de polvo visibles; sombra suave al borde izquierdo del papel. Rim light fría-celeste #60C0E0 en el borde del comunicado contra el fondo. Ambient occlusion donde el papel se separa del tablero.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 138: una esquina del comunicado curvándose, motas de polvo en el haz; la cortesía filosa como tensión.
+9. JERARQUÍA VISUAL — ESCENA 138: ELEMENTO DOMINANTE: el comunicado de tres líneas. Tablero subordinado.
+10. PROPORCIÓN EN FRAME: medium shot + Regla de Tercios.
+11. DIRECCIÓN DE MIRADA: N/A; foco en el comunicado.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: SALTO TEMPORAL — corta hacia el anuncio de la final.
+13. RATIO PERSONAJE VS ENTORNO: entorno/objeto domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Bolivia respondió con un comunicado de tres líneas: 'Agradecemos la visita del seleccionado francés al altiplano boliviano.'"
+
+
+ESCENA 139 — [00:11:30]
+Wide shot, symmetric, of a split title panel "FINAL · BOLIVIA vs SAN MARINO" glowing, one half green-and-white (Bolivia), one half celeste/white (San Marino), set above the San Marino hills at night with thousands of warm lights. No detailed individuals. Three depth levels: foreground the glowing split FINAL panel, midground San Marino hilltop towers, background green San Marino hills dotted with thousands of warm orange lights under night sky. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: celeste/blanco San Marino #80B0D0 / #F0F0F0 · amarillo-verde Bolivia #D4FF00 / #1A6A1A · azul cielo noche #0A1A3A · luces naranja-cálidas #E87030 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa (aún no), individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo el panel in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 139: Bolivia respondió a Francia; ahora se anuncia la final: Bolivia contra San Marino.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del anuncio de la final más absurda.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 139: N/A. Carga emocional: la magnitud increíble del cruce final.
+7. DIRECCIÓN DE LUZ — ESCENA 139: noche histórica, mezcla de luz fría #C0D0E8 y luz cálida de multitud #E87030, sombras suaves. Rim light cálida-dorada #FF8C00 en los bordes del panel y las colinas contra el cielo nocturno.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 139: miles de luces cálidas titilando congeladas en las colinas, leve bruma nocturna suspendida; la expectativa monumental como tensión.
+9. JERARQUÍA VISUAL — ESCENA 139: ELEMENTO DOMINANTE: el panel dividido de la final. Colinas iluminadas subordinadas.
+10. PROPORCIÓN EN FRAME: wide shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: N/A; línea visual al panel.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE SUAVE — el anuncio conecta con la pausa reflexiva sobre el cruce.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "La final. Bolivia contra San Marino."
+
+
+ESCENA 140 — [00:11:35]
+Wide shot, eye level, of EL ORGANIZADOR standing small before the giant split FINAL banner of the two finalists, taking a moment to absorb the absurd magnitude of it all. EL ORGANIZADOR: spherical pure-white head (#F5F5F5), thick furrowed black brows, tiny dark eyes wide, mouth slightly open in wonder; navy suit (#1B2A5E), white shirt, burgundy tie (#6B1A2A) clearly crooked, top button undone, small wrinkles. Hands: one resting on the back of his neck, the other hanging. Three depth levels: foreground organizer small, midground the giant green-and-white / celeste-white split banner, background dim hall with god rays and dust motes. Only the character and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: navy #1B2A5E · burdeos #6B1A2A · blanco #F5F5F5 · celeste San Marino #80B0D0 · verde Bolivia #1A6A1A · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: Gasperoni, Quispe, futbolistas, copa, individuos detallados, boca abierta hablando a cámara. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo el banner in-world, no subtitles, no speech bubbles, no mouth open as if narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 140: se anunció la final; ahora se invita a tomarse un segundo: Bolivia contra San Marino, la final del Mundial.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame del Organizador asimilando la magnitud del cruce.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: → Imagen 1 (EL ORGANIZADOR): cabeza esférica blanca, traje azul marino #1B2A5E, corbata burdeos #6B1A2A. Usar como referencia exacta.
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 140: Nivel 4. Hombros caídos pero pecho expandido de asombro; ojos muy abiertos, boca entreabierta de incredulidad maravillada; corbata torcida, traje arrugado; mano en la nuca.
+7. DIRECCIÓN DE LUZ — ESCENA 140: noche/interior, luz fría blanca #D0D8E8 lateral, sombras duras. Rim light cálida-dorada #FF8C00 en el contorno del cráneo. Ambient occlusion bajo los zapatos.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 140: motas de polvo suspendidas en el haz frente al banner luminoso; el asombro contemplativo como tensión.
+9. JERARQUÍA VISUAL — ESCENA 140: ELEMENTO DOMINANTE: el banner gigante de la final. El Organizador mínimo, subordinado.
+10. PROPORCIÓN EN FRAME: wide shot + Regla de Tercios (Organizador desplazado, banner dominante) + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: toward the banner (al cruce final).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el asombro conecta con la descripción de Bolivia "ganadora por geografía".
+13. RATIO PERSONAJE VS ENTORNO: entorno domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Tómate un segundo con eso. Bolivia contra San Marino. La final del Mundial de las 211 selecciones."
+
+
+ESCENA 141 — [00:11:40]
+Wide shot, low angle, of a stylized Bolivia team silhouette standing atop a towering andean peak with "3,600m" carved into the rock, a green-and-white banner billowing, conveying their geographic advantage. No detailed individuals (stylized team silhouette mass). Three depth levels: foreground rocky peak edge with "3.600m" engraving, midground green-and-white Bolivian silhouette team mass (40%), background andean range and deep blue sky with thin cold air. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: verde-blanco boliviano #1A6A1A / #F0F0F0 · verde oliva altitude #4A6A30 · azul andino profundo #0A2A5A · tierra andina #6A4A20 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo el grabado "3.600m" in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 141: el Organizador asimiló la final; ahora se describe a Bolivia, el equipo que ganó por geografía, por altura.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame simbólico de la ventaja de la altura.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno; silueta de equipo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 141: N/A. Carga emocional: la fortaleza inexpugnable de la altitud.
+7. DIRECCIÓN DE LUZ — ESCENA 141: noche/atardecer de altitud, luz fría intensa #4A70B0 lateral, sombras muy marcadas. Rim light cálida-dorada #FF8C00 en los bordes de la cresta y la silueta del equipo contra el cielo frío.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 141: la bandera verde-blanca billowing congelada, aire frío con partículas suspendidas; la ventaja geográfica como tensión simbólica.
+9. JERARQUÍA VISUAL — ESCENA 141: ELEMENTO DOMINANTE: el pico andino con la silueta boliviana. Cordillera subordinada.
+10. PROPORCIÓN EN FRAME: wide shot + low angle + Wide Angle Lens.
+11. DIRECCIÓN DE MIRADA: N/A; siluetas hacia el horizonte.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el símbolo conecta con el contraste de San Marino.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje individual).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "El equipo que ganó por geografía, por altura, por 3.600 metros de ventaja en cada partido de local."
+
+
+ESCENA 142 — [00:11:45]
+Wide shot, eye level, of a stylized San Marino team silhouette standing humbly in a small green field with a "0-11" chalk mark and a desk-advance arrow behind them, conveying their improbable path. No detailed individuals (stylized team silhouette mass). Three depth levels: foreground small green field with a faded "0-11" chalk mark, midground celeste/white San Marino silhouette team mass (40%), background green San Marino hills with medieval towers and european sky. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: celeste cielo europeo #80B0D0 · blanco europeo #F0F0F0 · verde intenso campo #1A6A1A · azul marino #003DA5 · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays salvo la marca "0-11" in-world, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 142: se describió a Bolivia; ahora San Marino, que clasificó sin tocar la pelota, perdió 11-0 y avanzó igual.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame simbólico del camino improbable de San Marino.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno; silueta de equipo).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 142: N/A. Carga emocional: la humildad absurda del finalista.
+7. DIRECCIÓN DE LUZ — ESCENA 142: tarde europea, luz cálida-dorada #E0A830 lateral derecha, sombras largas. Rim light fría-celeste #60C0E0 en los bordes de la silueta y las colinas contra el cielo.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 142: polvo de tiza de la marca "0-11" suspendido, briznas de césped onduladas congeladas; la paradoja del camino como tensión.
+9. JERARQUÍA VISUAL — ESCENA 142: ELEMENTO DOMINANTE: la silueta humilde de San Marino y la marca 0-11. Colinas subordinadas.
+10. PROPORCIÓN EN FRAME: wide shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: N/A; siluetas hacia el frente.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — el contraste conecta con el contador y el maestro.
+13. RATIO PERSONAJE VS ENTORNO: entorno domina (sin personaje individual).
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Contra el equipo que clasificó sin tocar la pelota, que perdió 11 a 0 en octavos y avanzó igual."
+
+
+ESCENA 143 — [00:11:50]
+Medium-wide shot, eye level, of GASPERONI (in San Marino kit) standing beside the DEFENSA MAESTRO DE PRIMARIA, the unlikely accountant-striker and primary-school-teacher-defender of a World Cup finalist, humble dignity. GASPERONI: cabeza grande ovalada-cuadrada, piel morena clara (#C8956C), cabello muy corto rapado canoso (#3A3230), barba cerrada densa marrón con gris (#4A3328), ojos pequeños oscuros, nariz ancha; cuerpo robusto fornido bajo-mediano; tatuajes en ambos brazos completos; camiseta a rayas celeste (#A8D8EA) y blanco (#FFFFFF) de San Marino con "GASPERONI" en la espalda, escudo, tres rayas Adidas; shorts blancos; medias a rayas celeste/blanco; botines blancos Adidas con tres rayas negras. Hands: puños semicerrados a los costados. DEFENSA MAESTRO DE PRIMARIA: hombre de 37 años, piel blanca (#EED0B0), cabello castaño con canas algo calvo en sienes, complexión delgada; misma camiseta de San Marino. Hands: relaxed at sides. Three depth levels: foreground green pitch, midground both men standing, background small open stand with sparse silhouette crowd mass (40%) and green hills with medieval towers. Only the characters and elements described in this scene appear on screen, nothing else, no duplicated characters, no extra figures.
+1. PALETA OBLIGATORIA: celeste cielo europeo #80B0D0 · blanco europeo #F0F0F0 · verde intenso campo #1A6A1A · azul marino #003DA5 · celeste San Marino #A8D8EA · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Quispe, copa, individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 143: se describió el camino de San Marino; ahora se muestran sus protagonistas: un contador de centrodelantero y un maestro de primaria de defensa.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de la dupla improbable de San Marino.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: → Imagen 2 (GASPERONI): cuerpo robusto bajo, barba densa, tatuajes en ambos brazos, camiseta San Marino celeste/blanca. Usar como referencia exacta. (El maestro es secundario, descrito en escena.)
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 143: N/A Organizador. Gasperoni: dignidad serena, ojos serios, puños semicerrados; maestro: delgado, cara de profesor cansado.
+7. DIRECCIÓN DE LUZ — ESCENA 143: tarde europea, luz cálida-dorada #E0A830 lateral derecha, sombras largas. Rim light fría-celeste #60C0E0 en los contornos de ambos contra el fondo cálido; el celeste de las camisetas tiñe sutilmente el césped cercano. Ambient occlusion bajo los botines.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 143: polvo dorado suspendido en la tarde, briznas de césped levantadas; la dignidad humilde como carga emocional.
+9. JERARQUÍA VISUAL — ESCENA 143: ELEMENTO DOMINANTE: Gasperoni (más cerca/robusto). Maestro subordinado a su lado.
+10. PROPORCIÓN EN FRAME: medium-wide shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: toward horizon (al campo).
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la dupla conecta con "cero Messi, cero Cristiano, cero Mbappé".
+13. RATIO PERSONAJE VS ENTORNO: personaje domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Que llegó a la final con un contador público de centrodelantero y un maestro de primaria de defensa."
+
+
+ESCENA 144 — [00:11:55]
+Wide shot, eye level, of three empty grey-silhouette star-player jerseys (Messi celeste, Cristiano red, Mbappé blue) hanging dim and absent on a rack, while the lit celeste/white and green-and-white finalist kits glow beside them — the stars conspicuously gone. No detailed faces. Three depth levels: foreground the three dim absent star jerseys, midground the glowing finalist kits, background dark hall with a faint final-banner glow, god rays and dust motes. Only the elements described in this scene appear on screen, nothing else, no extra figures.
+1. PALETA OBLIGATORIA: celeste/blanco San Marino #80B0D0 / #F0F0F0 · verde Bolivia #1A6A1A · gris ausencia #8A8A90 · azul cielo noche #0A1A3A · SIN colores fuera de esta paleta.
+2. PROHIBIDO EN ESTA ESCENA: El Organizador, Gasperoni, Quispe, copa, jugadores estrella presentes (solo camisetas vacías y apagadas), individuos detallados. PROHIBIDO SIEMPRE: no narration gestures, no looking/pointing at camera, no text overlays, no subtitles, no speech bubbles, no mouth open as if speaking or narrating.
+3. CONTINUIDAD NARRATIVA — ESCENA 144: se mostró la dupla de San Marino; ahora se subraya la ausencia: cero Messi, cero Cristiano, cero Mbappé.
+4. FORMATO DE OUTPUT: imagen estática 16:9 — 1920×1080px — .png alta resolución. Frame de las camisetas estrella ausentes frente a las finalistas iluminadas.
+5. REFERENCIAS VISUALES OBLIGATORIAS DE PERSONAJE: (ninguno; solo camisetas).
+6. ESTADO FÍSICO Y EMOCIONAL — ESCENA 144: N/A. Carga emocional: la ausencia de las estrellas como símbolo del torneo dado vuelta.
+7. DIRECCIÓN DE LUZ — ESCENA 144 (interior): luz fría blanca #D0D8E8; god rays con motas de polvo visibles. Rim light cálida-dorada #FF8C00 en los bordes de las camisetas finalistas iluminadas contra el fondo; las estrellas en sombra fría #3A5070.
+8. ELEMENTOS SUSPENDIDOS Y TENSIÓN ESTÁTICA — ESCENA 144: las camisetas ausentes ondulando levemente congeladas, motas de polvo en el haz; la ausencia como tensión simbólica.
+9. JERARQUÍA VISUAL — ESCENA 144: ELEMENTO DOMINANTE: las camisetas finalistas iluminadas. Las estrellas apagadas subordinadas (presencia por ausencia).
+10. PROPORCIÓN EN FRAME: wide shot + composición simétrica.
+11. DIRECCIÓN DE MIRADA: N/A; foco en las camisetas.
+12. TRANSICIÓN IMPLÍCITA DE SALIDA: CORTE DURO — la ausencia conecta (tercer bloque) con el comunicado de la FIFA sobre la representatividad.
+13. RATIO PERSONAJE VS ENTORNO: entorno/objeto domina.
+14. CONTEXTO DE ESCENA — SOLO REFERENCIA, NO DIÁLOGO: "Cero Messi. Cero Cristiano. Cero Mbappé."
+
+
+=====================================================================
+✅ SEGUNDO BLOQUE COMPLETADO — Respondé CONTINUAR para generar el tercer y último bloque.
+(Bloque 2 = escenas 73–144, timestamps 00:06:00 → 00:11:55.
+ Bloque 3 a continuación = escenas 145–217, timestamps 00:12:00 → 00:18:00.)
+=====================================================================
